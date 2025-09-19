@@ -1,0 +1,6 @@
+- TA Instructor: Evan Price
+- [evan_price@sfu.ca](mailto:evan_price@sfu.ca)
+- WMC 1616
+- Office Hours:
+	- Tuesday 9:30–10:30
+	- Friday 9:30–10:30

@@ -1,0 +1,11 @@
+- **No class** next Tuesday on October 15
+- Lab will be on Tuesday instead
+	- Lab includes midterm practice questions
+- Midterm October 22
+	- Covers from beginning until section 2.4 only
+- **1.5 hrs** of Midterm
+	- First 50 mins lecture, 10 minute break, then midterm at 5:30 - 7:00 PM
+- **No Assignment quiz** during midterm week, next AQ will be November 5
+- Single 8.5x11" **cheat sheet allowed**, printing allowed
+	- Anything that fits
+- No simple definition questions
