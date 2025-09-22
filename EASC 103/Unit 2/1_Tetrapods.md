@@ -6,6 +6,16 @@ Lecture 6
 	- due to clades being [[1_Classification#Cladogram|monophyletic]]
 - fishes aren't tetrapods, but the first tetrapods are a **transitional group** of fishes
 
+### Family tree
+
+<div class="hideOnLight">
+<img alt="darkChart" src="/EASC103/lib/media/darkChart2.png" style="width: 600px; max-width: 100%;">
+</div>
+<div class="hideOnDark">
+<img alt="lightChart" src="/EASC103/lib/media/lightChart2.png" style="width: 600px; max-width: 100%;">
+</div>
+
+
 ## Fish evolution
 - the 4 cm, fish-like **chordates** evolved with a flexible **notochord**, a precursor to a vertebral column
 	- the chordates are **ancestral** to all fishes
@@ -38,4 +48,52 @@ Lecture 6
 - aren't exactly tetrapods, the fins **are not** true limbs
 
 ![[Screenshot 2025-09-17 at 7.26.18 PM.png|200]]
+
+> [!tip] Note
+> The **Tiktaalik** lobe-finned fish is the **transitional specie** that evolves the **Amphibians**, the first tetrapod with 4 true limbs.
+
+
+---
+
+## Amniotes
+- are any [[#Tetrapods]] that reproduce via an **enclosed amniotic egg**
+- evolved from **amphibian ancestors**
+- give rise to the **early reptiles**
+	- skeletal modification to **move on land**
+	- **enclosed eggs** that survive on dried land, unlike amphibians who lay egg mass in water
+
+![[Screenshot 2025-09-21 at 1.10.11 PM.png|400]]
+
+Amniotes are categorized into:
+- **synapsids**
+- **sauropsids** (*most of which are* **diapsids**)
+
+![[graph3.png|600]]
+
+### Synapsids
+- have **1 temporal fenestra** low down behind each eye orbit
+- the **Dimetrodon** is an example of an early synapsid
+- includes the **therapsids** (*mammal-like reptiles*)
+- the mammal branches include:
+	- **monotreme** - platypus, echidna
+	- **marsupials** - kangaroo, koala, wombat
+	- **placentals** - human
+
+![[graph8.png|600]]
+
+### Non-Diapsid Sauropsids
+- [[#Amniotes|Amniotes]] more closely related to modern **reptiles** than to mammals
+- examples include large marine reptiles and turtles
+
+### Diapsid Sauropsids
+- have **2 temporal fenestra** behind each eye orbit
+- are categorized into **archosaurs** and **lepidosaurs**.
+	- **[[#Archosaurs|Archosaurs]]**: semi- to fully upright postures
+	- **Lepidosaurs**: sprawling postures, e.g. snakes, lizards
+
+#### Archosaurs
+- have semi- to fully upright postures, are categorized into:
+	- **Pseudosuchia** - the **semi**-upright - crocodlian line
+	- **Avemetatarsalia** - the **fully** upright - [[2_Skeletal Anatomy#Pterosaurs|pterosaurs]] and dinosaurs
+- **ankle** modification that allowed for these postures
 

@@ -25,6 +25,10 @@ Lecture 5
 	- if they move as a **pack/herd**
 	- their **height and length**
 
+- tracks differ between the hands and feet
+	- **manus** - the hands (two fore foot), remember as "manus - *manu*al labour - hands"
+	- **ped** - the feet (two rear limbs), remember as "ped - *ped*aling - feet"
+
 > [!tip] Note
 > The **Six Peaks Dinosaur Track Site** near Tumbler Ridge, BC is one of the largest dinosaur trackway sites in the world.
 
@@ -35,8 +39,6 @@ Lecture 5
 ### Sauropods 
 - See [[1_Classification#The Pelvis|Saurischian Sauropodomorphians]]
 - are **quadrupeds**
-	- **manus** - the hands (two fore foot), remember as "manus - *manu*al labour - hands"
-	- **ped** - the feet (two rear limbs), remember as "ped - *ped*aling - feet"
 - capable of **rearing up** (stand on two feet to reach higher, but can't walk on two)
 - are **oval shaped** pedal tracks
 - shows **5 digits**

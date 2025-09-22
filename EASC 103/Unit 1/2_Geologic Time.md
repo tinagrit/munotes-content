@@ -85,6 +85,7 @@ $$
 	- most significant era for the dinosaurs
 
 ### Triassic Period
+See more [[3_Triassic Earth|Triassic Earth]]
 - spans **252-201 Ma**
 	- divided into epochs of **Early, Middle, and Late** Triassic
 - **mammals** evolve in the Late epoch, but not as diverse or abundant as reptiles
