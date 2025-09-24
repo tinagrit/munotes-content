@@ -1,4 +1,4 @@
-Lecture 8
+Lecture 8 & 9
 
 See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 
@@ -85,3 +85,70 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 - Triassic terrestrial strata is significantly **less exposed** compared to Jurassic and Cretaceous
 - the **oldest dinosaur fossil** (230 Ma) found at **Valle de la Luna** ("*Valley of the Moon*") in Argentina
 	- this was a humid coastal area in the Pangea, along the shoreline of [[#The Supercontinent|Gondwana]]
+
+
+---
+
+## Phylogenetic Classification
+
+> [!tip] Note
+> Specie names are **binomen** (its rank), it includes:
+> - the **generic name** (first letter capitalized, in italics; e.g. *Tyrannosaurus*, *Homo*)
+> - the **specific name** (not capitalized, in italics; e.g. *rex*, *sapiens*)
+
+- vertebrates use a **rank-less** system
+	- due to its fossil record being less complete and more complex
+- clades are **monophyletic**, it includes the ancestor and **all** **descendants**
+
+Phylogenetic classification example:
+```
+Tetrapoda
+\- Amniota
+   \- Archosauria
+      \- Avemetatarsalia
+         \- Dinosauria
+            \- Saurischia
+               \- Therapoda
+                  \- Coelurosauria
+                     \- Tyrannosauroidea
+                        \- Tyrannosauridae
+                           \- Tyrannosaurus rex
+```
+
+
+---
+
+## Late Triassic Dinosaurs
+
+### *Eoraptor lunensis*
+- name means "*dawn plunderer moon inhabitant*"
+- one of the **oldest known dinosaurs** (231-228 Ma)
+- basal theropod
+- **5 digits** on the manus (later Theropods have 3)
+- specific name named after [[#Fossil record|Valle de la Luna]]
+	- named by **Paul Sereno**, a University of Chicago paleontologist
+
+![[Pasted image 20250924101255.png|300]]
+
+### *Plateosaurus*
+- name means "*broad lizard*"
+- one of the **latest late Triassic dinosaurs** (214-204 Ma)
+- best known [[1_Classification#The Pelvis|prosauropod]] (basal sauropodomorphs)
+	- fossil record of **100+** skeletons
+
+![[Pasted image 20250924101324.png|300]]
+
+### *Coelophysis*
+- name means "*hollow form*"
+- other **latest late Triassic dinosaurs** (203-196 Ma)
+- neotheropod
+	- more derived theropod than Eoraptor, belonging to the clade **Neotheropoda**
+	- evolves the [[2_Skeletal Anatomy#The fore limb|fercula]], passing this down to all descendants
+- **4 digits** on the manus (digit V is gone, compared to the [[#*Eoraptor lunensis*|Eoraptor lunensis]])
+- **bonebed** discovered
+	- **100+** *Coelophysis* skeleton discovered at **Ghost Ranch**, New Mexico
+	- large flock is preserved in siltstone, lying at odd angles and the carcasses intertwined
+	- died together in **a flash flood**
+
+![[Pasted image 20250924101419.png|300]]
+
