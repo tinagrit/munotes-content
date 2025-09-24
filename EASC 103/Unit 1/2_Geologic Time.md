@@ -72,7 +72,7 @@ $$
 	- **forests** during the Devonian
 	- **amphibians** during the Mississippian
 	- **reptiles** during the Pennsylvanian
-- massive **volcano** in Siberia results in the **Permian mass extinction**, ending the era
+- massive **volcano** in Siberia results in the [[3_Triassic Earth#Permian Mass Extinction|Permian mass extinction]], ending the era
 
 
 

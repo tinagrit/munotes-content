@@ -6,6 +6,7 @@ Lecture 6 & 7
 </div></div>
 </div>
 
+
 ## Orientation
 - **dorsal** - *back* side
 	- if we look at the dinosaur from **top down**, we'd be looking at its dorsal side
