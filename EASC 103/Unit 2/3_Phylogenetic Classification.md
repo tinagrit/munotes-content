@@ -8,6 +8,7 @@ Lecture 9 & 10
 - a phylogenetic **tree** can also show **geologic time** 
 - a new **clade** refers to a new evolutionary novelty that is passed down to all descendants
 	- clades are **monophyletic**, it includes the ancestor and **all** descendants, regardless of how the descendants have evolved
+	- going further down the tree, characteristics are **more derived**
 
 For example, the **Tyrannosaurus rex** phylogenetic classification is:
 
