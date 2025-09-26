@@ -72,7 +72,7 @@ $$
 	- **forests** during the Devonian
 	- **amphibians** during the Mississippian
 	- **reptiles** during the Pennsylvanian
-- massive **volcano** in Siberia results in the [[3_Triassic Earth#Permian Mass Extinction|Permian mass extinction]], ending the era
+- massive **volcano** in Siberia results in the [[4_Triassic Earth#Permian Mass Extinction|Permian mass extinction]], ending the era
 
 
 
@@ -85,7 +85,7 @@ $$
 	- most significant era for the dinosaurs
 
 ### Triassic Period
-See more [[3_Triassic Earth|Triassic Earth]]
+See more [[4_Triassic Earth|Triassic Earth]]
 - spans **252-201 Ma**
 	- divided into epochs of **Early, Middle, and Late** Triassic
 - **mammals** evolve in the Late epoch, but not as diverse or abundant as reptiles

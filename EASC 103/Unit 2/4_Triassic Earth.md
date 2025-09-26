@@ -89,35 +89,6 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 
 ---
 
-## Phylogenetic Classification
-
-> [!tip] Note
-> Specie names are **binomen** (its rank), it includes:
-> - the **generic name** (first letter capitalized, in italics; e.g. *Tyrannosaurus*, *Homo*)
-> - the **specific name** (not capitalized, in italics; e.g. *rex*, *sapiens*)
-
-- vertebrates use a **rank-less** system
-	- due to its fossil record being less complete and more complex
-- clades are **monophyletic**, it includes the ancestor and **all** **descendants**
-
-Phylogenetic classification example:
-```
-Tetrapoda
-\- Amniota
-   \- Archosauria
-      \- Avemetatarsalia
-         \- Dinosauria
-            \- Saurischia
-               \- Therapoda
-                  \- Coelurosauria
-                     \- Tyrannosauroidea
-                        \- Tyrannosauridae
-                           \- Tyrannosaurus rex
-```
-
-
----
-
 ## Late Triassic Dinosaurs
 
 ### *Eoraptor lunensis*
