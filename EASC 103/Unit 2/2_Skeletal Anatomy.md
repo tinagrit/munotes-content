@@ -65,7 +65,7 @@ See more [[1_Classification#The Skull|Skull]]
 ## The fore limb
 - **scapula** is the shoulder
 - **coracoid** is below the scapula
-	- only amongst the [[1_Classification#Theropods|theropods]], there exists the **fercula** between the left and right coracoid (not seen in side view)
+	- only amongst the [[1_Classification#Theropods|theropods]], there exists the **furcula** between the left and right coracoid (not seen in side view)
 - **humerus** is the upper arm bone
 - the lower arm bones:
 	- **radius** is the inside

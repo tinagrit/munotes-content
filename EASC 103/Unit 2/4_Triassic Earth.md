@@ -104,8 +104,14 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 ### *Plateosaurus*
 - name means "*broad lizard*"
 - one of the **latest late Triassic dinosaurs** (214-204 Ma)
+- manual digits I, II, III end in claws
+- herbivore
 - best known [[1_Classification#The Pelvis|prosauropod]] (basal sauropodomorphs)
-	- fossil record of **100+** skeletons
+	- fossil record of **100+** skeletons in the same location
+	- died of quick mud (*mud mire*) showing **evidence** **of drowning**
+		- head and tail lifted
+		- dorsal (back side) up
+		- legs beneath and splayed
 
 ![[Pasted image 20250924101324.png|300]]
 
@@ -114,8 +120,8 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 - other **latest late Triassic dinosaurs** (203-196 Ma)
 - neotheropod
 	- more derived theropod than Eoraptor, belonging to the clade **Neotheropoda**
-	- evolves the [[2_Skeletal Anatomy#The fore limb|fercula]], passing this down to all descendants
-- **4 digits** on the manus (digit V is gone, compared to the [[#*Eoraptor lunensis*|Eoraptor lunensis]])
+	- evolves the [[2_Skeletal Anatomy#The fore limb|furcula]], passing this down to all descendants
+- **4 digits** on the manus (digit V is gone, compared to the [[#*Eoraptor lunensis*|Eoraptor lunensis]]; very small digit IV)
 - **bonebed** discovered
 	- **100+** *Coelophysis* skeleton discovered at **Ghost Ranch**, New Mexico
 	- large flock is preserved in siltstone, lying at odd angles and the carcasses intertwined

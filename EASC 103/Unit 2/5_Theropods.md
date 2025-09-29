@@ -11,7 +11,7 @@ See overview [[1_Classification#Theropods|Theropods]]
 	- grasping hands with **typically 3 digits**, elongated and terminating in curved claws
 - most have **furcula** (except the very basal ones, e.g. [[4_Triassic Earth#*Eoraptor lunensis*|Eoraptor lunensis]])
 - teeth are **large**, **curved**, **laterally compressed** with serrated edges on the front and back
-- **hollow bones** (has air pockets) to allow for air to fill the **air sacs**
+- **hollow bones** (has air pockets) with crisscrossing struts to allow for air to fill the **air sacs**
 
 ![[Screenshot 2025-09-26 at 9.47.40 AM.png|400]]
 
@@ -24,8 +24,9 @@ Theropoda
 ```
 
 - includes **almost all** theropods except the very basal ones (e.g. [[4_Triassic Earth#*Eoraptor lunensis*|Eoraptor lunensis]] is not a Neotheropoda)
-- evolutionary novelty includes the **fercula**
+- evolutionary novelty includes the **furcula**
 - lost digit V on the manus, has short digit IV
+- [[4_Triassic Earth#*Coelophysis*|Coelophysis]] and [[#*Dilophosaurus*|Dilophosaurus]]
 
 
 ### Tetanurae
@@ -39,7 +40,7 @@ Theropoda
 - more complicated **air sac ventilated** lung system
 	- very **efficient** respiratory system
 	- similar to modern birds
-- lost digit IV on the manus
+- lost digit IV on the manus, down to 3 digits
 
 
 ### Coelurosauria
@@ -67,6 +68,7 @@ Theropoda
 \- Neotheropoda
    \- Tetanurae
       \- Coelurosauria
+	     |- Tyrannosauroidea
          \- Maniraptoriformes
 ```
 
@@ -85,6 +87,7 @@ Theropoda
 ```
 
 - name means "**grasping hands**"
+- **birds** and **raptors** are maniraptorans
 - evolutionary novelties include:
 	- long arms and hands
 	- semi-lunate bone in the wrist (*advanced maneuverability*)
@@ -96,6 +99,7 @@ Theropoda
 
 ### *Dilophosaurus*
 - "*two crested lizard*", North American theropod
+- a neotheropod
 - first **apex predator** dinosaur
 - 193 Ma, 7 metre long
 - two large, thin bony crests likely covered **in keratin** (brightly coloured)
