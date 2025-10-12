@@ -44,6 +44,7 @@ Theropoda
 
 
 ### Coelurosauria
+See [[2_Tyrannosaurs#Coelurosaur Theropods|Coelurosaurs]]
 ```
 Theropoda
 \-- Neotheropoda
@@ -63,6 +64,7 @@ Theropoda
 
 
 ### Maniraptoriformes
+See [[4_Ornithomimosaurs#Maniraptoriformes|Maniraptoriformes]]
 ```
 Theropoda
 \-- Neotheropoda
@@ -74,6 +76,7 @@ Theropoda
 
 - appearance of **pennaceous feathers**
 	- long feathers that have veins
+- relatively **small teeth**, some are toothless
 
 
 ### Maniraptora
