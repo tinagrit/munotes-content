@@ -7,20 +7,44 @@ Lecture 16
 - includes:
 	- [[#Alvarezsauroidea|Alvarezsaurs]]
 	- [[#Therizinosauria|Therizinosaurs]]
-	- Oviraptorosaurs
-	- Dromaeosaurs
-	- Paraves
-	- Avialae
+	- [[2_Oviraptorosaurs#Oviraptorosauria|Oviraptorosaurs]]
+	- [[3_Dromaeosaurs#Paraves|Paraves]]
 
 ### Overview
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-		        |-- Ornithomimosauria
-                \-- Maniraptorans
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                ├── Ornithomimosauria
+                └── Maniraptora
+                    ├── Alvarezsauroidea
+                    │   └── [Mononykus]
+                    ├── Therizinosauria
+                    │   ├── [Beipaiosaurus]
+                    │   ├── [Nothronychus]
+                    │   └── [Therizinosaurus]
+                    ├── Oviraptorosauria
+                    │   ├── [Caudipteryx]
+                    │   ├── Caenagnathidae
+                    │   │   ├── [Anzu]
+                    │   │   └── [Gigantoraptor]
+                    │   └── Oviraptoridae
+                    │       └── [Citipati]
+                    └── Paraves
+                        ├── Dromaeosauridae
+                        │   ├── Microraptoria
+                        │   │   └── [Microraptor]
+                        │   └── Eudromaeosauria
+                        │       ├── [Deinonychus]
+                        │       ├── [Utahraptor]
+                        │       └── [Velociraptor]
+                        ├── Troodontidae
+                        │   └── [Mei long]
+                        └── Avialae
+                            ├── [Confuciusornis]
+                            └── [Archaeopteryx]
 ```
 
 
