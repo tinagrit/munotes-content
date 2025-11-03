@@ -90,7 +90,7 @@ Theropoda
 	- leaf-shaped teeth
 	- really large claws
 - **Late Cretaceous** deposits in Mongolia, China, North America
-- planet eater
+- plant eater
 
 ```
 Theropoda
