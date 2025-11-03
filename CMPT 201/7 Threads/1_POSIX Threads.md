@@ -49,6 +49,21 @@ int pthread_create(pthread_t *thread, pthread_attr_t *attr, void *(*start_routin
 In the function prototype:
 - `thread` is where the thread ID is stored at, where `pthread_t` is the special type used for thread IDs
 - `start_routine` is the function pointer that the thread will run
+	- The function will have one argument as an array of arguments
+
+```c
+static void *thread_func(void *args) {
+	...
+	pthread_exit(0);
+}
+
+int main() {
+	pthread_t t1;
+	pthread_create(&t1, NULL, thread_func, NULL);
+	pthread_join(t1,NULL);
+	return 0;
+}
+```
 
 ### Exiting a running thread
 `pthread_exit()` synopsis:

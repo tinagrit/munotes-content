@@ -9,6 +9,11 @@
 
 ## Race case
 - a **Data race** problem when multiple threads **race** to update data and overwrite each other
+- Data races come from:
+	- one function being called by multiple threads
+	- different functions from multiple threads accessing:
+		- the same **global variable**
+		- the same **memory address** of a variable
 - A **race condition** is a condition that specifies the timing/order of operations that the code will correctly run
 
 For example, if two threads run `counter++` the following code, gets run:
@@ -17,6 +22,9 @@ int tmp = counter;
 tmp = tmp+1;
 counter = tmp;
 ```
+
+> [!tip] Note
+> Since many instructions are run by calling `counter++`, the `++` operator and most functions are **not atomic**.
 
 This should increment `counter` by 1 for each thread, but it depends on which thread runs each line first.
 
