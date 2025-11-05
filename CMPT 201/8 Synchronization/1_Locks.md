@@ -31,7 +31,7 @@ A **thread safe function** refers to a function that can be run in parallel on d
 
 By using Mutex locks, we can make functions thread safe.
 
-### Defining the lock
+### Defining a lock
 This initializes a lock to the initial open state
 ```c
 pthread_mutex_t myLock = PTHREAD_MUTEX_INITIALIZER;
