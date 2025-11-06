@@ -17,6 +17,7 @@ Dinosauria
 	- small head
 - **grows quickly**, full size in 20 years
 	- due to bird-like metabolism
+- **nares** dorsally located, above the orbit
 - lays eggs in large groups
 	- "**nesting ground**" found in *Argentina*
 	- eggs buried underground, using the sauropod's **pes**
@@ -34,10 +35,18 @@ Dinosauria
 > [!tip] Note
 > The ***Barapasaurus*** (*big leg lizard*) is a basal sauropod in the Early Jurassic from India.
 
+Sauropods are displayed at *The Field Museum*
+
+> [!note] The size of Sauropods
+> - heaviest **~70+ tonnes**, likely **max weight** for terrestrial animal
+> 	- largest animal ever lived is the **blue whale** at 173 tonnes
+>- longest **~37 metres** tip of the snout to tip of the tail
+> 	- about the length of the *Airbus A320* or two *articulated buses*
+
 ### Overview
 ```
 Sauropoda
-└── Diplodocoids
+└── Diplodocoidea
 	├── [Diplodocus]
 	├── [Amargasaurus]
 	└── [Nigersaurus]
@@ -53,11 +62,11 @@ Sauropoda
 - evolutionary novelties
 	- relatively light
 	- long slender skull
-		- **nares** dorsally located, above the antorbital fenestra
 	- slender **peg-like** **teeth**
 	- extremely long, **whip-like tails**
 		- used for communication
 		- some with 80+ caudal vertebrae
+- met extinction between end of Jurassic to "mid" Cretaceous
 
 > [!tip] Note
 > The *Diplodocoids* and *Macronarians* form the **Golden Age of Dinosaurs**, found in North America's **Morrison** Formation in the **Late Jurassic**.
