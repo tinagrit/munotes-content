@@ -80,7 +80,7 @@ Theropoda
 
 
 ### Maniraptora
-See [[1_Maniraptora#Maniraptorans|Maniraptorans]] 
+See [[1_Maniraptorans#Maniraptorans|Maniraptorans]] 
 ```
 Theropoda
 \-- Neotheropoda

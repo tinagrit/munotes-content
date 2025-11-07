@@ -65,6 +65,7 @@ Sauropoda
 - no manual digits
 - **~35 metres** in length
 - **75 tonnes** in weight
+	- ~55% of the weight is meat
 - ~5 kg when hatching, and grows up to **40 kg** every day at their peak
 
 
