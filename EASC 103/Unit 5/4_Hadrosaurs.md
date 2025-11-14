@@ -22,8 +22,8 @@ Lecture 24
 	- grinding surface where hard part wears slower
 
 Hadrosaurs are classified into 2 main clades
-- Saurolophines
 - Lambeosaurines
+- Saurolophines
 
 ### Overview
 ```
@@ -87,6 +87,8 @@ Hadrosauridae
 	- juveniles stay with parents for a long time
 - has **solid crests**
 
+![[Maiasaura copy.png|400]]
+
 ### *Edmontosaurus*
 - name means "*Edmonton lizard*"
 - lived in **North America, 66 Ma, Late Cretaceous**
@@ -96,3 +98,5 @@ Hadrosauridae
 - failed attack by T-rex
 	- evidence of punctured caudal vertebrae matched with T-rex tooth
 - is ~2 times **faster** than T-rex, being the same sized
+
+![[Edmontosaurus.webp|400]]

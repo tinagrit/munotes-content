@@ -15,22 +15,28 @@ Dinosauria
 	- giant size
 	- long neck/tail
 	- small head
-- **grows quickly**, full size in 20 years
-	- due to bird-like metabolism
-- **nares** dorsally located, above the orbit
-- lays eggs in large groups
-	- "**nesting ground**" found in *Argentina*
-	- eggs buried underground, using the sauropod's **pes**
-	- some uses ***volcanic activity*** to keep eggs warm, nest near hot springs, etc.
 - walk on thick **pillar-like** legs
 	- pedal digits I, II, III have **claws**, rarely on IV, but never on V
 	- ungual points **away** from the midline
 - very **large manual claw** on digit I
 	- for all but most derived Sauropods, i.e. not Titanosaurs
 	- Very derived Sauropods **lost all** manual digits. They walk on their metacarpals.
+
+![[chart30.png|750]]
+
+- **nares** dorsally located, above the orbit
 - unique teeth compared to other herbivores
 	- either **peg-like** or **spatulate**
-	- not for chewing, just to bring in to mouth
+	- not for chewing, just to bring in to mout
+
+![[chart31.png|400]]
+
+- **grows quickly**, full size in 20 years
+	- due to bird-like metabolism
+- lays eggs in large groups
+	- "**nesting ground**" found in *Argentina*
+	- eggs buried underground, using the sauropod's **pes**
+	- some uses ***volcanic activity*** to keep eggs warm, nest near hot springs, etc.
 
 > [!tip] Note
 > The ***Barapasaurus*** (*big leg lizard*) is a basal sauropod in the Early Jurassic from India.

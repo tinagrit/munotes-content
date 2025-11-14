@@ -35,6 +35,8 @@ Sauropoda
 - blunt face and **spatulate** teeth
 - lived in **North America, 150 Ma, Late Jurassic**
 
+![[Camarasaurus.webp|400]]
+
 
 ---
 ## Brachiosauridae
@@ -49,6 +51,8 @@ Sauropoda
 - short tail
 - neck held up high
 - tree top browsers, eat things from the top of the tree
+
+![[Brachiosaurus.webp|400]]
 
 
 ---
@@ -68,6 +72,8 @@ Sauropoda
 	- ~55% of the weight is meat
 - ~5 kg when hatching, and grows up to **40 kg** every day at their peak
 
+![[Patagotitan.webp|400]]
+
 
 ---
 ## Saltasauridae
@@ -83,3 +89,5 @@ Sauropoda
 - lived in **North America, 70 Ma, Late Cretaceous**
 	- likely migrated from South America
 	- after ~30 million years of absence of sauropods in North America, called the **sauropod hiatus**
+
+![[Alamosaurus.webp|400]]

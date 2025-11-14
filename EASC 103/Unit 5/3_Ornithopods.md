@@ -86,3 +86,4 @@ Ornithopoda
 	- digits II, III, IV attached together, in a "mit"
 	- has **prehensile** (*wrap around things*) digit V
 
+![[Iguanodon.webp|400]]
