@@ -73,7 +73,7 @@ Hello
 ```
 
 However, if we remove the original file `hello.txt`, the link is broken and is not accessible
-```console
+```shell
 $ rm hello.txt
 $ cat soft_link
 cat: soft_link: No such file or directory
