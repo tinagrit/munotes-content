@@ -1,14 +1,21 @@
-Lecture 27
+Lecture 27 & 28
 
 ## Marginocephalia
 
 ```
 Dinosauria
 └── Ornithischia
-	└── Marginocephalia
+	└── Neornithischia
+		├── Ornithopoda
+		└── Marginocephalia
 ```
 
 - thickened **bony shelf** (*margin*) at the back of the skull
+- burrowing lifestyle, spends a lot of time **underground**
+	- good sense of smell
+
+> [!tip] Note
+> Neornithischians have unevenly distributed **enamel** within the teeth
 
 ### Overview
 ```
@@ -106,3 +113,23 @@ Ceratopsids are classified into two main clades, distinguished by **horns and fr
 | ------------------------------------------------------------- | -------------------------- |
 | large **nasal horn**<br>or thickened nasal bone called "boss" | prominent **brow horns**   |
 | ornamented frill **with long spines**                         | frills lacking long spines |
+
+### *Triceratops*
+- a **Chasmosaurinae**
+- name means "*three horn face*"
+- lived in **North America, 68-66 Ma, Late Cretaceous**, Hell Creek Formation
+	- also found in AB, SK, but less common
+	- near the end of Cretaceous → "***Maastrichtian*** age"
+- 68 Ma young adult specimen "**Calli**", one of the best preserved in Canada
+- As a Triceratops grows:
+	- **Epoccipitals**, the osteoderms around the frill, flattens out
+	- The **brow horns**:
+		- point upwards and curve towards the posterior in juveniles
+		- point straight directed anterior in adults
+
+![[chart35.png|700]]
+
+### *Torosaurus*
+- name means "*perforated lizard*"
+- known from same age range as [[#*Triceratops*|Triceratops]], but larger
+- thought to be a **mature** Triceratops, but most disagreed
