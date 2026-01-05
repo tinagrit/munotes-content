@@ -1,5 +1,4 @@
 
-> [!fail] This note is incomplete.
 
 ## Memory Mapping
 - is used for:
@@ -46,4 +45,78 @@ In the function prototype:
 - Create a memory mapping before calling `fork()` to share them
 - Use `mmap()` with `MAP_SHARED | MAP_ANONYMOUS`
 
+> [!tip] This is different from malloc
+> `malloc()` acts similar to `MAP_PRIVATE | MAP_ANONYMOUS`, where a child gets a **copy** of the memory, instead of one that is shared among them. 
+> 
+> Using `mmap()` with `MAP_SHARED | MAP_ANONYMOUS` will propagate any changes to all shared processes.
+
+
 ### For unrelated processes
+- Use a **shared memory object** before calling `mmap()`
+	- `shm_open()` creates the object
+	- `ftruncate()` sets the size of the object
+	- `mmap()` maps the memory
+
+`shm_open` synopsis:
+```c
+#include <sys/mman.h>
+int shm_open(char *name, int oflag, mode_t mode);
+```
+
+In the function prototype:
+- `name` is any name for the shared memory, known by all participating processes
+	- Creates a **file** in `/dev/shm/<name>`
+- `oflag`, set to `O_CREAT` when creating a new object
+- `mode` sets the permission 
+	- see [[1_File Syscalls#Opening a file|mode in open()]]
+
+`shm_open()` returns the **file descriptor** for the shared memory object
+
+
+`ftruncate` synopsis:
+```c
+#include <unistd.h>
+int ftruncate(int fd, off_t length);
+```
+
+Sets the **size** of the memory object. 
+- Without specifying the size, it is defaulted to 0.
+
+
+After using `shm_open` and `ftruncate`, we can call `mmap`:
+- Set `fd` to the **file descriptor** from the shared memory object
+- Use `MAP_SHARED`
+- Do not use `MAP_ANONYMOUS`, the memory object acts like a file that `mmap` can map to
+- Set `offset` to `0`
+
+For example,
+```c
+int shm_fd = shm_open("hello world", O_CREAT | O_RDWR, S_IRUSR);
+ftruncate(shm_fd, 128);
+mmap(NULL, 128, PROT_READ, MAP_SHARED, shm_fd, 0);
+```
+
+
+---
+
+## Cleaning up a memory mapping
+
+`munmap` synopsis:
+```c
+#include <sys/mman.h>
+int munmap(void *addr, size_t length);
+```
+
+`munmap()` unmaps the memory pointed to by `addr`
+
+
+`shm_unlink` synopsis:
+```c
+#include <sys/mman.h>
+int shm_unlink(char *name);
+```
+
+Call `shm_unlink` after calling `munmap`.
+- Will **delete the file** from `/dev/shm`
+- Processes that have the memory object open still have access to it
+
