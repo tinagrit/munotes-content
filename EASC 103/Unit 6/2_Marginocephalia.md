@@ -1,4 +1,4 @@
-Lecture 27 & 28
+Lecture 27-29
 
 ## Marginocephalia
 
@@ -26,6 +26,10 @@ Marginocephalia
 │   │   ├── [Protoceratops]
 │   │   └── [Leptoceratops]
 │   └── Ceratopsidae
+│       ├── Centrosaurinae
+│       └── Chasmosaurinae
+│            ├── [Triceratops]
+│            └── [Torosaurus]
 └── Pachycephalosauria
 ```
 
@@ -133,3 +137,28 @@ Ceratopsids are classified into two main clades, distinguished by **horns and fr
 - name means "*perforated lizard*"
 - known from same age range as [[#*Triceratops*|Triceratops]], but larger
 - thought to be a **mature** Triceratops, but most disagreed
+
+
+---
+
+## Pachycephalosauria
+- means "*thick headed lizards*"
+- are **bipeds**
+- greatly thickened bones on the skull roof
+	- adorned with **nodes** and **spikes** around the margins
+
+Three Pachycephalosaurs from Western **North America, Late Cretaceous**
+- **Pachycephalosaurus** (*thick headed lizard*)
+	- resorbing spikes
+- **Stygimoloch** (*demon from the River Styx*)
+	- largest spikes
+	- resorbing spikes
+- **Dracorex hogwartsia** (*dragon king of Hogwarts*)
+	- has no dome
+
+**Jack Horner** and **Mark Goodwin** argued that all three are the same dinosaurs
+- "ontogomorphs", shape shifting dinosaurs
+- Stygimoloch and Dracorex hogwartsia are **young** Pachycephalosaurs
+
+![[chart36.png|500]]
+

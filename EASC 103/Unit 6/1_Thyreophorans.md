@@ -46,6 +46,8 @@ Thyreophora
 > [!tip] Note
 > Animals that exist today (*extant*) that have scutes include crocodilians, turtles, some lizards, snakes, amphibians, and very rarely on mammals.
 
+![[chart37.png]]
+
 ### *Scelidosaurus*
 - name means "*limb lizard*"
 	- first "mostly complete" dinosaur fossil found
@@ -58,6 +60,8 @@ Thyreophora
 	- by **David Sole**
 	- hundreds of scutes found in life positions, not spread
 
+![[chart38.png]]
+
 
 ---
 
@@ -69,6 +73,7 @@ Thyreophora
 - short, massive **forelimbs**
 - small, ridged triangular sharp **teeth**
 - declined in the Early Cretaceous, **extinct** 100 Ma in the "Mid" Cretaceous
+	- decline in **cycads**, their main food source
 
 ## Stegosaurids
 - advanced, derived [[#Stegosaurs|Stegosaurs]]
@@ -82,12 +87,14 @@ Stegosaurids use:
 - **erect limb posture** (upright) to move
 - **sprawled forelimb pose**, tail up high, to defend
 
+![[chart40.png|600]]
+
 ### *Kentrosaurus*
 - name means "*sharp point lizard*"
 - lived in **Tanzania, Late Jurassic**, Tendaguru Formation
 - 4 metre long
 - plates cover neck and back
-- tall **spikes** above the hips and tail
+- tall **spikes** and on its shoulders
 
 ### *Stegosaurus*
 - name means "*roof lizard*"
@@ -97,6 +104,7 @@ Stegosaurids use:
 - thin **plates** around the neck, back, hips
 - 2 pairs of **spikes** at the end of the tail, called a **thagomizer**
 
+![[chart39.png|500]]
 
 ---
 
@@ -109,8 +117,10 @@ Stegosaurids use:
 	- small triangular **head** with low skulls
 		- width between eyes > height of skull
 	- closed **fenestra**, **dermal** bones on skull
-- eats **low growing** vegetation
+- eats **low growing** vegetation, like ferns
 	- chew lightly with **very tiny** leaf shaped sharp teeth
+
+![[Screenshot 2025-11-30 at 7.47.07 PM.png|600]]
 
 Only the **undersides** of the Ankylosaur is unprotected
 - Otherwise is heavily armoured
@@ -134,6 +144,8 @@ Ankylosauria is classified into 2 main clades:
 	- the **handle**, caudal vertebrae fortified with **ossified tendons**
 	- the **knob**, fused osteoderms
 
+![[chart41.png|600]]
+
 
 ## Nodosauridae
 
@@ -141,6 +153,7 @@ Ankylosauria is classified into 2 main clades:
 - lived in **Alberta, 75 Ma, Late Cretaceous**, Dinosaur Park Formation
 
 ### *Borealopelta*
+- name means "*northern shield*"
 - lived in **Alberta, 115 Ma, Early Cretaceous**
 - specimen is 3D dinosaur mummy
 - **one in a billion** find
@@ -170,3 +183,6 @@ Ankylosauria is classified into 2 main clades:
 	- alongside T-rex, Triceratops, Edmontosaurus
 - rare fossils
 - **largest** known Ankylosaurid, 6-8 metre long
+
+![[Screenshot 2025-11-30 at 7.49.48 PM.png|400]]
+
