@@ -139,25 +139,6 @@ The **complement** ($\overline A$ or $U-A$) consists of all elements in the **un
 
 
 ---
-## Cartesian product
-*Read more at* [MACM 101 > Relations](https://munotes.tinagrit.com/MACM101/unit-5-functions-and-relations/week-11-functions/1_relations.html)
-
-For sets $A,B \in U$, the **Cartesian product**, or cross product of $A$ and $B$ 
-- is denoted by $A\times B$ 
-- equals $\{(a,b)\mid a\in A, b\in B\}$
-
-Take the elements of $A$ and pair them with elements of $B$
-
-**Order matters.** $A\times B \not = B \times A$.
-
-
-> Consider $A=\{2,3,4\}$ and $B=\{4,5\}$
-- $A\times B=\{ (2,4),(2,5),(3,4),(3,5),(4,4),(4,5) \}$
-- $B \times A=\{(4,2),(4,3),(4,4),(5,2),(5,3),(5,4)\}$
-- $B\times B=B^2=\{ (4,4),(4,5),(5,4),(5,5) \}$
-
-
----
 ## Distributive law
 *Read more at* [MACM 101 > The Laws of Set Theory](https://munotes.tinagrit.com/MACM101/unit-3-set-theory/week-8-operations-of-set/2_the-laws-of-set-theory.html)
 
