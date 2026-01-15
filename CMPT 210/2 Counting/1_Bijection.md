@@ -26,6 +26,8 @@ To count the number of possible sequences,
 - We can "**choose**" 4 spots out of 14 for the $1$s to be placed on, a combination problem
 
 *Read more on Combinations at* [MACM 101 > Combinations with no repetition](https://munotes.tinagrit.com/MACM101/unit-1-combinatorics/week-2-combinations-and-repetition/combinations-with-no-repetition.html)
+*Also see* [[4_Combinations#Combinations|Combinations]]
+
 The answer is:
 $$
 \dbinom{14}{4}=\dfrac{14!}{4!(14-4)!}=1,001
