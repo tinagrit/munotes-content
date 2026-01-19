@@ -1,4 +1,4 @@
-Lecture 2 & 3
+Lectures 2-4
 
 ## Division Rule Counting
 
@@ -76,6 +76,29 @@ $$
 $$
 
 
+> Count the number of 5-digit numbers with at least one zero, that doesn't start with a 0. ($01234$ is invalid)
+
+As the number needs to have **at least** one zero, we can add up cases where there is 1 zero, 2 zeroes, 3 zeroes, and 4 zeroes.
+
+To find the number of cases where there are $i$ zeroes:
+$$
+\underbrace{ ? }_{ \text{9 options} }\text{ }\underbrace{ ?\text{ }?\text{ }?\text{ }? }_{ i\text{ spots to be zero} }
+$$
+- The first digit can be one of 9 options (zero excluded)
+- For the rest 4 digits, choose $i$ spots to be zeroes $\dbinom{4}{i}$
+- For each selection, the rest $4-i$ digits can each be one of 9 options (zero excluded)
+
+Using the [[3_Permutations#Product Rule Counting|Product Rule]], the number of cases with $i$ zeroes is:
+$$
+9 \times \dbinom{4}{i}\times 9^{4-i}=\dbinom{4}{i}\times 9^{5-i}
+$$
+
+Using the [[2_Sum Rule#Sum Rule Counting|Sum Rule]], the total number of cases with $i$ ranging 1-4 is:
+$$
+\sum_{i=1}^{4}\dbinom{4}{i}\times9^{5-i}
+$$
+
+
 ### Dice roll
 
 > Consider rolling a 6-sided dice $n$ times. Count how many outcomes with exactly $g$ sixes.
@@ -94,4 +117,17 @@ For each way, the remaining spots can be anything. Using the [[3_Permutations#Pr
 The total number of outcomes is $\dbinom{n}{g}\times 5^{n-g}$
 
 Derive the same result using the [[5_Binomial Theorem#Dice roll|Binomial Theorem]]
+
+
+### Pascal's identity
+For any integers $n,k$ such that $1 \leq k \leq n$,
+$$
+\dbinom{n}{k}=\dbinom{n-1}{k-1}+\dbinom{n-1}{k}
+$$
+
+Intuition proof:
+The number of ways to choose $k$ students from $n$ students is $\dbinom{n}{k}$
+Focusing on one student ($\text{a}$):
+- Number of ways to select such that $\text{a}$ is **SELECTED** is $\dbinom{n-1}{k-1}$, since we are excluding $\text{a}$ from the selection ($n-1$), and that $\text{a}$ is already selected ($k-1$)
+- Number of ways to select such that $\text{a}$ is **NOT SELECTED** is $\dbinom{n-1}{k}$, since we are excluding $\text{a}$ from the selection ($n-1$), and $\text{a}$ is not selected ($k$ to still be selected)
 
