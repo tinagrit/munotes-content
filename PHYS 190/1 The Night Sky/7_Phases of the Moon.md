@@ -1,4 +1,4 @@
-Lecture 4
+Lecture 4 & 5
 
 ## Phases of the Moon
 - Moonlight is **reflected sunlight**
@@ -20,6 +20,9 @@ The outer ring of this image shows what the moon looks like from the Earth's obs
 ![[Screenshot 2026-01-18 at 10.32.25 PM.png|600]]
 <span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.14</span>
 
+> [!tip] Earthshine
+> We can **slightly** see the dark side of the moon due to the light reflected off Earth
+
 
 ### Determining the time based on the phase
 Using the phase of the moon, we can determine the **angle** between Moon, Sun, and Earth
@@ -35,7 +38,7 @@ Using this angle, we can determine the time that the moon will rise, set, or at 
 	- on the **left** to find when it rises
 	- on the **right** to find when it sets
 	- on the **top** to find the highest point
-3. **Draw** the ground underneath Earth and turn the Earth into an Earthling
+3. **Draw** the ground underneath Earth, with left as East and right as West, and turn the Earth into an Earthling
 4. **Determine** the position of the Sun to tell the time
 
 
@@ -56,4 +59,32 @@ Now, we draw the ground beneath Earth and turn the Earth into an Earthling:
 From the final drawing, we can now determine using the sun that **it is around 9-10 AM in the morning** (after sunset, before noon) when the *Waxing Crescent* moon rises.
 
 
+### Determining the phase based on the time
+Using the method from [[#Determining the time based on the phase|above]], we can use the drawings to work backward.
+
+1. **Draw** a person on the ground, with left as East and right as West, and **position** the Sun according to the given time
+2. **Remove** the ground, and turn the person into the Earth
+3. **Rotate** the drawing so that the Sun is on the right, keeping Earth centred
+4. **Determine** the angle between the Sun, Earth, and Moon, and determine the phase of the moon accordingly
+
+
+> For example, it's midnight and you see the moon setting. What phase is it in?
+
+- Midnight means the Sun is underneath Earth (opposite to noon). 
+- Moon setting means the moon is on the west horizon
+We draw the following:
+
+![[chart05A.png|400]]
+
+Now, we remove the ground and turn the person into the Earth
+
+![[chart06A.png|400]]
+
+Now, we rotate the drawing such that the sun is to the right, while keeping Earth centred
+
+![[chart07A.png|400]]
+
+The angle between the Sun, Earth, and Moon is $90^{\circ}$, corresponding to the **First Quarter** moon.
+
+> [!tip] All phases of the moon, except the Full and New moon, are visible in broad daylight.
 
