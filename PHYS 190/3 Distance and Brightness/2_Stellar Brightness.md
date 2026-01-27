@@ -1,4 +1,4 @@
-Lecture 6
+Lecture 6 & 7
 
 ## Stellar Brightness
 The ancient *Greeks* divided the stars into **6 magnitudes** based on brightness
@@ -17,6 +17,10 @@ $$
 
 > [!warning] The dimmest star that a human eye can see is magnitude $\approx 6$
 
+### Apparent magnitude
+The apparent magnitude system is only used to **compare brightness** between stars, and not used to measure their actual brightness.
+- The *Vega* is chosen to have the magnitude $\approx 0$, and all other stars are relative to it
+
 Each magnitude is a factor of around $2.5$ in brightness. Therefore,
 - Magnitude 2 is $2.5\text{x}$ brighter than magnitude 1
 - Magnitude 3 is $2.5^{2}=6.25\text{x}$ brighter than magnitude 1
@@ -26,8 +30,7 @@ In general:
 $$
 \dfrac{b_{2}}{b_{1}}=2.5^{m_{1}-m_{2}}
 $$
-where $\frac{b_{2}}{b_{1}}$ is the **ratio of brightness** of stars 1 and 2, and $m_{1}$ and $m_{2}$ are the **magnitudes** of stars 1 and 2.
-
+where $\frac{b_{2}}{b_{1}}$ is the **ratio of brightness** of stars 1 and 2, and $m_{1}$ and $m_{2}$ are the **apparent magnitudes** of stars 1 and 2.
 
 
 > For example, *Betelgeuse* (star 1) is $0.8$ in magnitude, and *Sirius* (star 2) is $-1.5$ in magnitude.  
