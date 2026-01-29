@@ -12,6 +12,8 @@ There aren't eclipses every month (the moon fully orbits earth every month), sin
 ## Solar eclipses
 The moon is right between the Sun and Earth, blocking the Earth from the sunlight of the Sun.
 
+Recall the [[2_Phases of the Moon#Phases of the Moon|Phases of the Moon]], the Moon is only between the Sun and Earth, if it's **a New Moon**.
+
 ### Shadow of the moon
 Notice that when an object is high off the ground, the shadow will **have a blurry edge**, and so is the moon's shadow.
 
@@ -23,6 +25,10 @@ When the Moon blocks off sunlight (solar eclipse),
 
 Observers in the umbra will see a **total solar eclipse**, while in the penumbra will see a **partial solar eclipse**.
 
+![[chart17A.png|600]]
+
+Partial solar eclipse is when the Sun is **only partially covered**.
+
 ### Moon's elliptically 
 The Moon's orbit is **slightly elliptical**, e.g., not a perfect circle.
 
@@ -32,9 +38,18 @@ The moon can **appear bigger** by $\approx 12\%$ when it's closest to Earth. The
 
 ![[chart09A.png|400]]
 
-While in the umbra, the observer could see the **annular solar eclipse**, if the moon is too small to cover the Sun.
+While in the antumbra, the observer could see the **annular solar eclipse**, if the moon is too small to cover the Sun.
+
+![[chart18A.png|600]]
 
 ![[chart11A.png|400]]
+
+
+> [!tip] Don't confuse **annular** eclipse with **partial** eclipse
+> - **Annular** eclipse, we are in the **antumbra** of the moon, it covers the Sun, but is too small to fully cover
+> - **Partial** eclipse, we are in the **penumbra** of the moon, it partially covers the Sun, doesn't align with it
+> 
+> ![[chart19A.png|400]]
 
 
 ### Experiencing Total Solar Eclipse
@@ -56,6 +71,12 @@ The Earth is right between the Sun and Moon, blocking the Moon from the sunlight
 Since the Earth is **much bigger** than the moon, the Earth's umbra is wider and longer, and lunar eclipses are **way easier to see**.
 
 > [!tip] A lunar eclipse can last up to 2 hours, and can be seen from anywhere on the dark side of the Earth.
+
+![[chart20A.png|600]]
+
+A total solar eclipse can happen when the Moon is in **either apogee or perigee**, due to the larger size of Earth.
+
+Recall the [[2_Phases of the Moon#Phases of the Moon|Phases of the Moon]], the Moon is only on the other side of Earth, if it's **a Full Moon**.
 
 ### Red moon
 Lunar eclipses turn red because of the **atmosphere of the Earth**, which bends red light towards its shadow.

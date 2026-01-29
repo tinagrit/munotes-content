@@ -23,6 +23,9 @@ The outer ring of this image shows what the moon looks like from the Earth's obs
 > [!tip] Earthshine
 > We can **slightly** see the dark side of the moon due to the light reflected off Earth
 
+> [!warning] New Moon is not a night sky object
+> Notice that the New Moon is between the Sun and Earth, and therefore rises and sets WITH the Sun. We cannot see the New Moon at night.
+
 
 ### Determining the time based on the phase
 Using the phase of the moon, we can determine the **angle** between Moon, Sun, and Earth
