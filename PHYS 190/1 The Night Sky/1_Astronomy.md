@@ -11,8 +11,7 @@ Lecture 1
 
 > [!tip] A **galaxy** is a collection of hundreds of billions of stars
 
-![[Screenshot 2026-01-06 at 3.32.01 PM.png|400]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NASA and the European Space Agency</span>
+![[Screenshot 2026-01-06 at 3.32.01 PM.png|400]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NASA and the European Space Agency</span>
 
 ### Sub-fields of astronomy
 Many fields under astronomy, including but not limited to:

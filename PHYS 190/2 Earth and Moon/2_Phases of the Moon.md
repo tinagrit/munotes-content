@@ -8,8 +8,7 @@ Lecture 4 & 5
 - The orbital period of the moon is $29.5$ days
 	- Roughly $3-4$ days between each phase, for 8 phases
 
-![[Screenshot 2026-01-18 at 10.26.52 PM.png|600]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.14</span>
+![[Screenshot 2026-01-18 at 10.26.52 PM.png|600]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.14</span>
 
 The moon starts from the **New Moon** (all dark)
 - **Waxing** refers to "getting bigger", brightens from right to left
@@ -17,8 +16,7 @@ The moon starts from the **New Moon** (all dark)
 
 The outer ring of this image shows what the moon looks like from the Earth's observer perspective.
 
-![[Screenshot 2026-01-18 at 10.32.25 PM.png|600]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.14</span>
+![[Screenshot 2026-01-18 at 10.32.25 PM.png|600]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.14</span>
 
 > [!tip] Earthshine
 > We can **slightly** see the dark side of the moon due to the light reflected off Earth

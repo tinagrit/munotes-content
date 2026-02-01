@@ -9,13 +9,11 @@ Lecture 4
 	- how **long** the Sun stays in the sky for
 
 
-![[Screenshot 2026-01-18 at 10.00.59 PM.png|500]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.5</span>
+![[Screenshot 2026-01-18 at 10.00.59 PM.png|500]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 4.5</span>
 
 > [!tip] Seasons are opposite between the Northern/Southern hemisphere
 
-![[chart02A.png|600]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NAAP Lab Seasons and Ecliptic Simulator</span>
+![[chart02A.png|600]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NAAP Lab Seasons and Ecliptic Simulator</span>
 
 
 > [!warning] Note

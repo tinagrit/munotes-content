@@ -62,8 +62,7 @@ $$
 
 To measure colours, different **colour filters** are used to only let lights of a specific colour pass through.
 
-![[Screenshot 2026-01-30 at 3.08.52 AM.png|500]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">kwtelescope.com</span>
+![[Screenshot 2026-01-30 at 3.08.52 AM.png|500]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">kwtelescope.com</span>
 
 For example, the filter $\text{B}$ (blue) only lets blue light through, and $\text{V}$ (green) only lets green light through.
 
@@ -100,8 +99,7 @@ Recall that the **lower** the magnitude, the **higher** the intensity
 
 Objects at body/room temperature, **like us**, glow in **infrared light**, which has [[#Energy|lower frequency]] than visible light. This glow can be observed with a thermal/infrared camera.
 
-![[Screenshot 2026-01-30 at 3.28.22 AM.png|350]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">azooptics.com</span>
+![[Screenshot 2026-01-30 at 3.28.22 AM.png|350]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">azooptics.com</span>
 
 Higher temperature indicates **higher energy**. Therefore, in the visible light spectrum:
 - Redder objects (yellow/orange/red) are **hotter/brighter**

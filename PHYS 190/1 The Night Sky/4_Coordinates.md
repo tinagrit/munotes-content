@@ -9,16 +9,14 @@ Lecture 3 & 4
 	- The Prime Meridian is $0^{\circ}$ longitude
 	- Values extend to $180^{\circ}\text{ E}$ and $180^{\circ} \text{ W}$
 
-![[Screenshot 2026-01-18 at 8.42.52 PM.png|500]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">timeanddate.com</span>
+![[Screenshot 2026-01-18 at 8.42.52 PM.png|500]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">timeanddate.com</span>
 
 ### Finding latitude
 - The **North Star** (*Polaris*) is very close to the **North celestial pole**. Since Earth rotates on its axis, this star never moves.
 	- *Polaris* is on the **horizon** at latitude $0^{\circ}$. As one moves north from the equator, the *Polaris* rises as much as the latitude north
 	- *Polaris* is then on the **zenith** at latitude $90^{\circ} \text{ N}$
 
-![[Screenshot 2026-01-18 at 8.59.20 PM.png|250]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">lpi.usra.edu</span>
+![[Screenshot 2026-01-18 at 8.59.20 PM.png|250]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">lpi.usra.edu</span>
 
 > [!tip] The Polaris is only visible in the Northern Hemisphere
 > We can measure the current latitude by measuring the angle that the *Polaris* is above the horizon.
@@ -47,6 +45,5 @@ We can use the Terrestrial Coordinates to **project** on to the [[3_Celestial Sp
 		- $1$ minute RA = $\dfrac{1}{4}^{\circ}$
 	- RA = $0\text{h}$ set at the Sun's position at **Spring/Vernal Equinox** (~21st of March)
 
-![[Screenshot 2026-01-18 at 9.55.19 PM.png|300]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">astronomy.swin.edu.au</span>
+![[Screenshot 2026-01-18 at 9.55.19 PM.png|300]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">astronomy.swin.edu.au</span>
 

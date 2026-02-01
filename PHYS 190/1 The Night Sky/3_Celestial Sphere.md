@@ -5,8 +5,7 @@ Lecture 2 & 3
 - Stars being so far away from Earth, it looks as if they are dots on the sphere going around Earth
 - We can **notice stars move** by observing the night sky for a few hours
 
-![[Screenshot 2026-01-12 at 6.54.13 PM.png|350]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">KTY Toutatis/S.Lamoureux</span>
+![[Screenshot 2026-01-12 at 6.54.13 PM.png|350]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">KTY Toutatis/S.Lamoureux</span>
 
 While standing up straight:
 - The point directly above the head is the **Zenith**, independent on one's perspective
@@ -17,16 +16,14 @@ In the Earth's perspective:
 - Where the Earth's south pole points towards the **South celestial pole**
 - The circle in the sky directly above the Earth's equator is the **Celestial equator**
 
-![[Screenshot 2026-01-12 at 7.00.49 PM.png|400]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 2.3</span>
+![[Screenshot 2026-01-12 at 7.00.49 PM.png|400]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 2.3</span>
 
 > [!warning] The Celestial Sphere is ***huge***. The image is not to scale.
 
 
 The sky appears to spin in our perspective, due to the Earth's rotation. 
 
-![[Screenshot 2026-01-12 at 7.06.30 PM.png|600]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NAAP Lab Rotating Sky</span>
+![[Screenshot 2026-01-12 at 7.06.30 PM.png|600]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NAAP Lab Rotating Sky</span>
 
 
 ---
@@ -35,8 +32,7 @@ We can roughly measure the size of objects in the celestial spheres using **its 
 
 For example, measuring the top to the bottom of the moon will be around $0.5^{\circ}$
 
-![[Screenshot 2026-01-18 at 7.09.50 PM.png|600]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 2.2</span>
+![[Screenshot 2026-01-18 at 7.09.50 PM.png|600]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 2.2</span>
 
 If we extend our arm out,
 - One pinky finger is $\approx 1^{\circ}$

@@ -25,8 +25,7 @@ The view of the night sky depends on:
 		- looking North, stars will spin counter clockwise around the *Polaris*
 	- The direction will be opposite for an observer in the Southern hemisphere. Two celestial poles are also a strong evidence that **the Earth is round**
 
-![[Screenshot 2026-01-18 at 9.24.09 PM.png|300]]
-<span style="display:inline-block;width:100%;text-align:center;">49 degrees north observer</span>
+![[Screenshot 2026-01-18 at 9.24.09 PM.png|300]]<span style="display:inline-block;width:100%;text-align:center;">49 degrees north observer</span>
 <span style="display:inline-block;width:100%;text-align:center;font-style:italic;">NAAP Lab Rotating Sky</span>
 
 ### Time of the year

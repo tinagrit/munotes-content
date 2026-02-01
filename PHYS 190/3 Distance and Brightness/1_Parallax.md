@@ -8,8 +8,7 @@ An object's position can **appear to shift**, based on the change in the observe
 
 For example, if we hold out a thumb, close the left eye, then the right eye. The thumb will appear to be in a "***different position***" relative to the background.
 
-![[Screenshot 2026-01-22 at 1.57.44 PM.png|300]]
-<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">mathisfun.com</span>
+![[Screenshot 2026-01-22 at 1.57.44 PM.png|300]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">mathisfun.com</span>
 
 The length that the thumb *shifts* can be used to measure **how far** the object is. Drawing out the sightline, we get:
 
