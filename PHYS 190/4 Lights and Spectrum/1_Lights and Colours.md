@@ -1,7 +1,5 @@
 Lecture 8
 
-> [!warning] This content is **AFTER** Midterm 1
-
 ## Light as waves
 - Light has **a wave**
 - The distance of one wave cycle is a **period**, where the length of a period is a **wavelength** ($\lambda$)
@@ -106,36 +104,4 @@ Higher temperature indicates **higher energy**. Therefore, in the visible light 
 - Bluer objects (blue/purple) are **cooler/dimmer**
 
 ![[chart24A.png|650]]
-
-### Blackbody radiation
-Radiation that comes from **the glowing of an object** by itself, not reflected or transmitted light.
-
-All objects reflect, transmit, and **emit** radiation.
-
-The Blackbody Spectrum describes the light wavelengths that each temperature emit on its own.
-
-![[Screenshot 2026-01-30 at 3.59.05 AM.png|500]]
-
-The Sun's surface temperature is $\approx 5,500 \text{ K}$ (the top line). The intensity shows that it emits strongly across all visible light colours, which is why the Sun appears white to us.
-
-
-### Origin of Light
-In an **atom**, electrons orbit around the atom's nucleus. The **Bohr Model** describes these electrons as being in different levels of **energy orbitals**.
-
-![[chart25A.png|400]]
-
-Electrons on the lowest energy orbital are in a **ground state**, where electrons on higher energy orbitals are in **excited states**. 
-Excited state electrons are **less stable**, as they want to return to their ground state.
-
-Electrons are much like **waves**, the higher energy ones have **higher frequency**.
-
-When an excited state electron **transitions** and drops down to a lower state, due to the *Conservation of Energy*, it releases a particle with the energy that it lost.
-
-![[chart26A.png|500]]
-
-This released particle is called a **photon**, which is light.
-
-Therefore, an excited state electron is the source of light. There are two ways to get an electron excited:
-- **Photo-excitation**: *provide* the electron with sufficient photon, so that it goes up to an excited state. Inverse of the process described above.
-- **Thermal excitation**: higher object temperature causes more **motion / vibration** of the atoms. Moving atoms can *bump* them into excited states, where they would emit light as they come back down.
 
