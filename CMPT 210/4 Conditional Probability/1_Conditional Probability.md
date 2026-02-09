@@ -1,4 +1,4 @@
-Lecture 7
+Lectures 7-9
 
 ## Conditional Probability
 
@@ -34,3 +34,22 @@ For any [[2_Axioms#Probability Function|probability space]]:
 $$
 \text{Pr}[A\mid B]=\dfrac{\text{Pr}[A\cap B]}{\text{Pr}[B]}
 $$
+
+### Independence
+When two events are **independent**, they are **not connected**. Event $A$ occurring does not make event $B$ more or less likely to occur.
+
+For example, winning a game today and it raining in Vancouver tomorrow.
+
+If we have events $A,B \subseteq S$ where $A$ and $B$ are independent, we have that:
+$$
+\text{Pr}[A\mid B]=\text{Pr}[A]
+$$
+and
+$$
+\text{Pr}[A\cap B]=\text{Pr}[A]\text{Pr}[B]
+$$
+since
+$$
+\text{Pr}[A\mid B]=\text{Pr}[A]\times \dfrac{\text{Pr}[B]}{\text{Pr}[B]}=\dfrac{\overbrace{ \text{Pr}[A]\text{Pr}[B] }^{ \text{must be }\text{Pr}[A\cap B] }}{\text{Pr}[B]}= \dfrac{\text{Pr}[A\cap B]}{\text{Pr}[B]}
+$$
+
