@@ -45,3 +45,7 @@ $$
 $$
 
 If the temperature is doubled ($\times 2$), then the intensity is changed by $2^{4}=16$ times.
+
+> [!warning] Radiation laws
+> The two radiation laws apply to **thermal excited** photons, which produce the continuum (rainbow).
+
