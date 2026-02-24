@@ -6,7 +6,7 @@ The **object between stars** are referred to as Interstellar Medium (*ISM*)
 The types of ISM include:
 - [[2_Neutral Hydrogen#Neutral Hydrogen (HI)|Neutral or atomic hydrogen]] ($\text{HI}$) clouds
 - [[3_Ionized Hydrogen#Ionized Hydrogen (HII)|Ionized hydrogen]] ($\text{HII}$) regions
-- Molecular clouds
+- [[4_Molecular Hydrogen#Molecular Hydrogen|Molecular clouds]]
 
 The roman numeral in the nuclear physics notation refers to the **amount of ionized electron**
 - $\text{I}$ means neutral atom
@@ -14,13 +14,6 @@ The roman numeral in the nuclear physics notation refers to the **amount of ioni
 - $\text{III}$ means two electron removed
 - $\dots$
  
-
-### Molecular Hydrogen
-Two atomic hydrogen atoms bond together.
-This is labelled as $\text{H}_{2}$ (hydrogen sub two)
-
-![[chart37A.png|300]]
-
 
 ### Density
 Using the general density formula:
@@ -41,7 +34,6 @@ v & =\pi (10\text{ kpc})^{2}(1\text{ kpc}) \\
  & = 314\times 27\times (10^{21})^{3}\text{ cm}^{3} \\
  & \approx 10^{67} \text{ cm}^{3}
 \end{align}
-
 $$
 
 Substituting, we get:
