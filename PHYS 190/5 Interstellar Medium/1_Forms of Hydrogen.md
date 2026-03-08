@@ -1,4 +1,4 @@
-Lecture 11 & 12
+Lectures 11-13
 
 ## Interstellar Medium
 The **object between stars** are referred to as Interstellar Medium (*ISM*)
@@ -46,3 +46,12 @@ $$
 1\text{ atom}/\text{cm}^{3}
 $$
 
+
+### Summary
+
+| Type of ISM                                                       | How to detect     | Physics                              |
+| ----------------------------------------------------------------- | ----------------- | ------------------------------------ |
+| [[2_Neutral Hydrogen#Neutral Hydrogen (HI)\|HI neutral hydrogen]] | Radio, 21cm       | Spin-flip transition                 |
+| [[3_Ionized Hydrogen#Ionized Hydrogen (HII)\|HII region]]         | Optical, **pink** | Recombination of hydrogen atoms      |
+| [[4_Molecular Hydrogen#Molecular Clouds\|Molecular clouds]]       | Microwave (CO)    | Detected as proxy for $\text{H}_{2}$ |
+| [[4_Molecular Hydrogen#Reflection nebulae\|Reflection nebulae]]   | Optical, **blue** | Blue light scattered                 |
