@@ -100,8 +100,8 @@ Objects at body/room temperature, **like us**, glow in **infrared light**, which
 ![[Screenshot 2026-01-30 at 3.28.22 AM.png|350]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">azooptics.com</span>
 
 Higher temperature indicates **higher energy**. Therefore, in the visible light spectrum:
-- Redder objects (yellow/orange/red) are **hotter/brighter**
-- Bluer objects (blue/purple) are **cooler/dimmer**
+- Redder objects (yellow/orange/red) are **cooler/dimmer**
+- Bluer objects (blue/purple) are **hotter/brighter**
 
 ![[chart24A.png|650]]
 

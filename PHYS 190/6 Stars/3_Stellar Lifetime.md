@@ -1,8 +1,7 @@
 Lecture 15
 
 ## Stellar lifetime
-
-The time is takes for a star to **radiate all the star's energy** is calculated by:
+The time it takes for a star to **radiate all the star's energy** is calculated by:
 $$
 t=\dfrac{E}{L}
 $$

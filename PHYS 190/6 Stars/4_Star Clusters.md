@@ -1,7 +1,6 @@
 Lecture 15
 
 ## Star Clusters
-
 Stars in a cluster are usually **formed at the same time**, and are **the same distance from Earth**.
 
 The difference in brightness is due to [[2_Main Sequence#Determining mass|mass]].
