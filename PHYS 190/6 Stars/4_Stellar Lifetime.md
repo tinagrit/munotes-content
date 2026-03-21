@@ -28,7 +28,13 @@ $$
 
 This means that **more massive** stars have **shorter lifetime**. Although they have more fuel to burn, the rate that they burn fuel is much faster.
 
+
+---
+## What happens after
+Also see [[5_Massive Stars#End-of-life|End-of-life]]
+
 ![[Screenshot 2026-03-18 at 4.03.06 PM.png|500]]
+
 
 ### Red Giants
 After all the $\text{H}$ in the star's core has turned into $\text{He}$, there is **no more pressure** to push outwards.

@@ -1,6 +1,14 @@
-Lecture 16
+Lectures 16 & 17
 
+## End-of-life
 ![[Screenshot 2026-03-18 at 4.03.06 PM.png|500]]
+
+|              | Initial star mass        | Maximum final mass     | Radius                                                                                 | Density                             | What holds it up             |
+| ------------ | ------------------------ | ---------------------- | -------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------- |
+| White dwarf  | $< 8\text{ M}_{\odot}$   | $1.4\text{ M}_{\odot}$ | $7,000\text{ km}$                                                                      | $1\text{ tonne}/\text{cm}^{3}$      | Electron degeneracy pressure |
+| Neutron star | $8-40 \text{ M}_{\odot}$ | $3 \text{ M}_{\odot}$  | $20\text{ km}$                                                                         | $10^{8}\text{ tonne}/\text{cm}^{3}$ | Neutron degeneracy pressure  |
+| Black hole   | $>40 \text{ M}_{\odot}$  | unlimited              | Few km for stellar black hole, up to $10^{3} \text{ AU}$ for supermassive black holes. | ?                                   | ?                            |
+
 
 ## Continued fusing
 A star larger than $8\text{ }M_{\odot}$ is **very rare**. Unlike [[4_Stellar Lifetime#White dwarfs|smaller stars]], heavier elements are fused.
@@ -63,4 +71,15 @@ If a black hole has the mass of the Sun, the $R_{\text{S}}\approx 3\text{ km}$, 
 ![[chart44A.png|500]]
 
 4. The orbit of stars in the **Galactic Centre** finds the black hole of mass $4\text{ million }M_{\odot}$
+
+
+### Supermassive Black Hole
+SMBHs grow **very quickly**, they are observed when the universe was < 1 billion years old.
+
+The formation of SMBH is unknown, but theories include:
+- **Dense cluster** of stars collapsed into a black hole
+- **Massive cloud** collapsed directly into a black hole, skipping the stars phase
+
+The "seed" black holes are from $10-100 \text{ M}_{\odot}$, and grow by devouring stars and other black holes.
+
 
