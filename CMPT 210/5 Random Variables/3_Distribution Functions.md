@@ -1,4 +1,4 @@
-Lecture 12
+Lectures 12 & 14
 
 ## Distribution Functions
 
@@ -44,6 +44,15 @@ Basically, CDF is the probability that the input value $x$ is greater than or eq
 ## Common Distributions
 
 While the [[#Probability Mass Function (PMF)|PMF]] provides the specific point probability, the [[#Cumulative Distribution Function (CDF)|CDF]] **specifies the distribution** of random variable.
+
+### Summary
+
+|           | Measures                         | PMF $f_{R}(x)$                  | CDF                                                                                                                                             |
+| --------- | -------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bernoulli | 2 outcomes                       | $f_{R}(1)=p$                    | $\begin{cases}0 & \text{for }x<0 \\1-p & \text{for }0\leq x<1 \\1 & \text{for } x\geq 1\end{cases}$                                             |
+| Uniform   | Equally likely outcomes          | $\dfrac{1}{\|V\|}$              | $\begin{cases}0 & \text{for }x < v_{1} \\\dfrac{k}{\|V\|} &\text{for }v_{k} \leq x \lt v_{k+1}  \\1 &\text{for }x\geq v_{\|V\|}\end{cases}$     |
+| Binomial  | # of successes of $n$ Bernoulli  | $\dbinom{n}{x}p^{x}(1-p)^{n-x}$ | $\begin{cases}0 & \text{for }x<0 \\\sum_{i=0}^{k} \binom{n}{i}p^{i}(1-p)^{n-i} & \text{for }k\leq x < k+1 \\1 & \text{for }x \geq n\end{cases}$ |
+| Geometric | # of trials to get first success | $(1-p)^{x-1}p$                  | $\begin{cases}0 & \text{for }x>1 \\1-(1-p)^{\lfloor x \rfloor } & \text{for }k\leq x <k+1\end{cases}$                                           |
 
 
 ### Bernoulli distribution
@@ -104,6 +113,32 @@ F_{R}(x)=\begin{cases}
 \sum_{i=0}^{k} \binom{n}{i}p^{i}(1-p)^{n-i} & \text{for }k\leq x < k+1 \\
 1 & \text{for }x \geq n
 \end{cases}
+$$
+
+> Products are defective with probability of $0.01$ independently. One package contains 10 products, and a package is returned if there is $\gt 1$ defective disk. What proportion of packages is returned?
+
+Let $E$ be the event that a package is returned, finding $\text{Pr}[E]$.
+
+Here, we let $X$ be the random variable for the number of defective products in a package.
+$$
+\begin{align}
+\text{Pr}[E] & =\text{Pr}[X>1] \\
+ & =1-\text{Pr}[X\leq 1] \\
+ & =1-\text{Pr}[X=0]-\text{Pr}[X=1]
+\end{align}
+$$
+This is a binomial distribution question since each product can either be defective ($0.01$) or good ($0.99$), running $n=10$ times per package.
+
+Using the Binomial's PMF, we have:
+$$
+\text{Pr}[X=0]=\dbinom{10}{0}(0.01)^{0}(0.99)^{10}
+$$
+$$
+\text{Pr}[X=1]=\dbinom{10}{1}(0.01)^{1}(0.99)^{9}
+$$
+Substituting back to the equation above, we have:
+$$
+\text{Pr}[E]\approx 0.00426
 $$
 
 
