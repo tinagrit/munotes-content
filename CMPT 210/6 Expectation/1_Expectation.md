@@ -1,10 +1,10 @@
-Lecture 15
+Lectures 15 & 18
 
 ## Expectation
 
 Consider a [[2_Random Variables#Random Variable|Random Variable]] $R:S\to V$. The **expectation** or **mean** of $R$ is the weighted average of the values in the range:
 $$
-\mathbb{E}[R]=\sum_{w=S} \text{Pr}[\{w\}]R[w] 
+\mathbb{E}[R]=\sum_{w \in S} \text{Pr}[\{w\}]R[w] 
 $$
 where $\mathbb{E}[\cdot]$ is the **expectation operator** and $w$ is a sample in $S$.
 
@@ -38,6 +38,12 @@ $$
  & = \sum_{x\in \text{Range}(R)}\text{Pr}[R=x]\cdot x     
 \end{align}
 $$
+
+If $R$ is inside of a function, the expectation is:
+$$
+\mathbb{E}[g(R)]=\sum_{x \in \text{Range}(R)}\text{Pr}[R=x]\cdot g(x) 
+$$
+
 
 | Random Variable | Condition                           | Expectation $\mathbb{E}$             |
 | --------------- | ----------------------------------- | ------------------------------------ |

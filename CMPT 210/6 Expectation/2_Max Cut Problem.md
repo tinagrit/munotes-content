@@ -30,7 +30,7 @@ where
 Select $S$ to be a random subset of $V$. 
 For each node $v \in V$, independently assign $v$ to the set $S$ with probability $0.5$.
 
-The [[4_Expectation#Expectation|expected]] size of the cut of $S$ satisfies:
+The [[1_Expectation#Expectation|expected]] size of the cut of $S$ satisfies:
 $$
 \mathbb{E}[|\delta(S)|] \geq 0.5 \cdot \text{OPT}
 $$
@@ -41,7 +41,7 @@ Let $X_{v_{i},v_{j}}$ be an [[2_Random Variables#Indicator Random Variable|indic
 - is $1$ if the edge $(v_{i},v_{j})$ is a "good edge" ($\in \delta(S)$)
 - is $0$ if it is not
 
-Finding the expectation using the [[4_Expectation#Indicator random variable|property]] of indicators:
+Finding the expectation using the [[1_Expectation#Indicator random variable|property]] of indicators:
 $$
 \begin{align}
 \mathbb{E}[|\delta(S)|] & =\mathbb{E}\left[ \sum_{(v_{i},v_{j} )\in E} \displaystyle X_{v_{i},v_{j}}  \right] \\
