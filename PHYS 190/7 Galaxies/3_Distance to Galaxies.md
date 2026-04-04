@@ -1,10 +1,12 @@
-Lectures 18-19
+Lectures 18-20
 
 ## Measuring distance
 Using:
 - [[1_Parallax#Parallax|Parallax]], gold standard measures up to $10\text{ kpc}$
 - [[2_Main Sequence#The HR Diagram|HR diagram]], spectroscopic parallax measures up to $100\text{ kpc}$
 - [[#Variable stars|Variable stars]] measure up to $20\text{ Mpc}$
+- [[#Type Ia Supernova|Type Ia Supernovae]], measure up to $1000\text{ Mpc}$
+- [[2_Universe Expansion#Hubble-Lemaitre Law|Redshift]], edge of the observable universe
 
 ### Variable stars
 In 1595, *Lutheran pastor* observed the star ***Mira*** that over a period of 11 months, the star **faded completely**, then **reappeared**.
@@ -35,3 +37,17 @@ We can compare the absolute luminosity with its [[2_Stellar Brightness#Apparent 
 > [!note] RR Lyrae Variable Stars
 > Similar to the Cepheids, but have shorter period and fixed luminosity of $\approx 50 \text{ }L_{\odot}$. These are **helium-burning** stars found in the [[1_The Milky Way#Stellar halo|stellar halo]].
 
+
+---
+### Type Ia Supernova
+In [[5_Massive Stars#Supernova Explosion|Supernovae]], there are two main types:
+- Type I **do not** have **hydrogen lines**
+- Type II are **core-collapse**
+
+Type Ia, however, includes a [[4_Stellar Lifetime#White dwarfs|white dwarf]] and a **companion star**.
+The white dwarf takes material from the companion until it **reaches maximum mass** ($1.4\text{ M}_{\odot}$)
+
+This ignites nuclear fusion of $\text{C}$ and $\text{O}$, resulting in an explosion ripping the whole star apart. 
+Fusing $\text{C}$ and $\text{O}$ makes $\text{Si}$, and its presence is where the "a" in Type Ia comes from.
+
+Since all type Ia supernovae reaches a fixed mass, they have the **same luminosity** of $4.5\times 10^{9}\text{ }L_{\odot}$, making it a **standard candle**.
