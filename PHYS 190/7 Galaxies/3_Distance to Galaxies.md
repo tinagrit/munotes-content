@@ -1,4 +1,4 @@
-Lecture 18
+Lectures 18-19
 
 ## Measuring distance
 Using:
@@ -23,4 +23,15 @@ In 1917, *Harlow Shapley* **calibrated** the period-brightness relation using Pa
 ![[Screenshot 2026-03-24 at 3.37.11 PM.png|400]]<span style="display:inline-block;width:100%;text-align:center;font-style:italic;">OpenStax Astronomy Fig. 19.14</span>
 
 > [!tip] The Cepheid variable stars are known as a "**standard candle**" for measuring distances.
+
+In Cepheid variable stars, the observable period is **directly related** to their [[3_Luminosity#Absolute magnitude|absolute luminosity]].
+
+Since brightness is [[3_Luminosity#Luminosity|inversely proportionate]] to the square of distance:
+$$
+b \propto \dfrac{1}{d^{2}}
+$$
+We can compare the absolute luminosity with its [[2_Stellar Brightness#Apparent magnitude|apparent brightness]] and deduce the distance.
+
+> [!note] RR Lyrae Variable Stars
+> Similar to the Cepheids, but have shorter period and fixed luminosity of $\approx 50 \text{ }L_{\odot}$. These are **helium-burning** stars found in the [[1_The Milky Way#Stellar halo|stellar halo]].
 
