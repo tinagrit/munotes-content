@@ -1,4 +1,4 @@
-Lecture 21
+Lectures 21-22
 
 ## Big Bang Theory
 
@@ -38,3 +38,10 @@ Evidence in **favour of the Big Bang**. A satellite is launched to measure this 
 ![[Screenshot 2026-04-03 at 6.53.08 PM.png|300]]
 
 The peak wavelength is redshifted by a **factor of 1000**, meaning that the universe scale has increased by a factor 1000 **since photon decoupling**.
+
+Things we can derive from the CMB include:
+- The curvature of space is **flat**
+- Matter, including dark matter, is $31.5\%\pm 1.3\%$
+- Dark energy is $68.5\%\pm 1.3\%$
+- The Hubble constant as derived by the CMB is $H_{0}=67.31\pm 0.96$
+
