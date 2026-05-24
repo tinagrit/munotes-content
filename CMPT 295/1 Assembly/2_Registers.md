@@ -1,4 +1,4 @@
-Lecture 1
+Lectures 1 & 2
 
 ## Writing assembly
 Learning assembly can help us understand:
@@ -77,13 +77,17 @@ $ ./add10_test
 
 ---
 ## Registers
+Registers are a small number of **very fast storage** locations in the processor. The names in x86-64 registers are historic, and no longer relevant.
+
+Each processor **core** has its own collection of **registers**. If one core runs code from **multiple threads**, they have to **take turns**. The hardware of OS work together to make sure registers feel separate. There is some cost to switch threads on the processor. 
+
+Multiple threads in multiple **processes** are **isolated** and can't see each other. But multiple threads within one process **do** share memory.
+
+### Calling Convention
 Assembly functions can take arguments and return results. This implementation is determined by the calling convention, specifically the **System V AMD64 ABI** that is used in *Linux* and *macOS*.
 
 Having a calling convention lets different compilers and tools **interoperate** with each other. 
 
-Registers are a small number of **very fast storage** locations in the processor. The names in x86-64 registers are historic, and no longer relevant.
-
-### Arguments and return
 In the System V calling convention, these are the **non call-preserved registers**:
 - Integer arguments are passed in order `%rdi`, `%rsi`, `%rdx`, `%rcx`, `%r8`, `%r9`
 - Integer return value must be put in `%rax`
@@ -107,7 +111,7 @@ Each register also has names for the **small fragments** of it. For example, wit
 
 ![[chart02.png|450]]
 
-### Preservation
+### Call Preservation
 Some registers are **call-preserved**. Functions *must* guarantee that these register values will not be changed. This is because there is no equivalent of **local variables** for the registers, and our code needs to maintain data across function calls.
 
 These registers are **preserved**: `%rbx`, `%rsp`, `%r12`, `%r13`, `%r14`, `%r15`.
