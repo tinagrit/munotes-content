@@ -1,4 +1,4 @@
-Lecture 1
+Lectures 1 & 2
 
 ## Statistics
 The art of **learning from data**, used to evaluate observations and make decisions.
