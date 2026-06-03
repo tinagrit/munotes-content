@@ -1,4 +1,4 @@
-Lecture 2
+Lectures 2 & 3
 
 ## Control flow
 In assembly, instructions are executed by line, one after the other. Control flow structures help us move around the code.
@@ -93,6 +93,8 @@ Apart from `jl`, these are some other possible jumps:
 | `je`        | equal            | $x=y$     |          |
 | `jne`       | not equal        | $x\neq y$ |          |
 
+Using these tools, we can make any control flow logic that is possible in C. For example, to make a loop, we can use a conditional jump to `jmp` to the top of the current label.
+
 ### Testing
 We can also test 1 value if it is positive, negative, or zero using `test x, x`.
 
@@ -125,3 +127,30 @@ The conditional jumps are the same as above, but using `test`, the new meaning i
 | `jle`       | negative or zero | $x\leq 0$ | signed |
 | `je`        | zero             | $x=0$     |        |
 | `jne`       | not zero         | $x\neq 0$ |        |
+
+### Status flags
+When we do a "jump if greter than", `cmp` and `jg` are in two different instructions. The `cmp` or `test` sets a 1-bit **status flag** (*EFLAGS register*) to store the result of the comparison.
+
+The way `cmp` works is by **subtracting** the two results, and store the sign in EFLAGS.
+- `sub %rdi, %rax` subtracts the two, sets EFLAGS, and puts the result in `%rax`
+- `cmp %rdi, %rax` subtracts the two, sets EFLAGS, and do nothing
+
+Some examples of status flags include the **zero flag**, **carry flag**, **sign flag**, and **overflow flag**.
+
+The **zero flag** (*ZF*) is set to `1` when the two arguments are **equal** (then subtraction would be 0).
+
+The **carry flag** (*CF*) is set to `1` when the last arithmetic operation is carried/borrowed forward, like in addition. We can use `jc` for *jump if carry* or `jnc` for *jump if no carry*.
+
+The **sign flag** (*SF*) is set to `1` when the last result was **negative** for signed integers. We can use `js` for *jump if sign (negative)* or `jns` for *jump if no sign* (positive).
+
+The **overflow flag** (*OF*) is set to `1` when the last result had **signed overflow**. We can use `jo` for *jump if overflow* or `jno` for *jump if no overflow*.
+
+| Instruction | Jump if             | Condition     |
+| ----------- | ------------------- | ------------- |
+| `jc`        | carried forward     | $\text{CF}=1$ |
+| `jnc`       | not carried forward | $\text{CF}=0$ |
+| `js`        | sign (negative)     | $\text{SF}=1$ |
+| `jns`       | no sign (positive)  | $\text{SF}=0$ |
+| `jo`        | overflow            | $\text{OF}=1$ |
+| `jno`       | no overflow         | $\text{OF}=0$ |
+
