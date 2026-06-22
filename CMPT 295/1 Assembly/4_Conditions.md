@@ -7,7 +7,7 @@ In assembly, instructions are executed by line, one after the other. Control flo
 Think of the labels as function names. `call` calls the function and after it is done, returns to the next instruction after `call`.
 
 For example, this assembly code:
-```asm
+```nasm
 add10:
 	mov %rdi, %rax
 	add $10, %rax
@@ -40,7 +40,7 @@ Then, we call `syscall_exit`, a helper function to exit the program in Linux.
 Jumping moves the [[3_Processor#Instruction Cycle|instruction pointer]] to the label that we are jumping to. When using `jmp`, execution continues happening at the new address, and will *not* come back to the caller code, unlike `call`.
 
 We can make a simple infinite loop like follows:
-```asm
+```nasm
 setup:
 	mov $0, %rcx
 loop:
@@ -56,7 +56,7 @@ To fully make control flow structures that we have in C, such as `if` `else` `wh
 We can use `cmp` to make conditional jumps, aka. **only jump** if condition is true.
 
 For example, we can make a max function as follows:
-```asm
+```nasm
 max:
 	cmp %rsi, %rdi
 	jl rdi_is_less
@@ -99,7 +99,7 @@ Using these tools, we can make any control flow logic that is possible in C. For
 We can also test 1 value if it is positive, negative, or zero using `test x, x`.
 
 For example, we can make an "is zero" function as follows:
-```asm
+```nasm
 is_zero:
 	test %rdi, %rdi
 	jne non_zero

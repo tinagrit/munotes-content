@@ -11,7 +11,7 @@ If we push, in order, `1 2 3 4 5`, the order that popping will return is `5 4 3 
 
 In assembly, we can `push` any value to the stack, then `pop` it to any [[2_Registers#Registers|register]].
 
-```asm
+```nasm
 push %rax
 pop %rbx
 ```
@@ -31,21 +31,21 @@ Since the stack lives at the **top of the memory space**, the top of the stack g
 ![[chart11.png|700]]
 
 When `push` is called in assembly, the top of the stack is subtracted. This is done within `push`:
-```asm
+```nasm
 sub $8, $rsp
 ```
 
 The stack is also how `call` and `ret` work. The address of where to return to is on the stack.
 
 `call f` is essentially:
-```asm
+```nasm
 push %rip
 jmp f
 ```
 where `%rip` is the **instruction pointer**.
 
 `ret` is essentially:
-```asm
+```nasm
 pop %rip
 ```
 
@@ -54,7 +54,7 @@ pop %rip
 In assembly, when we use [[2_Registers#Call Preservation|call-preserved]] registers, we need to make sure to return the original value back in. We can **use the stack** for preservation.
 
 For example, `%r12` is a preserved register. We can do:
-```asm
+```nasm
 push %r12
 # ... use %r12 to do calculations
 pop %r12
@@ -62,7 +62,7 @@ ret
 ```
 
 We can also use the stack to preserve non call-preserved registers. When we **call a function**, the function may modify any non-preserved registers. For example, if we need to use `%rdi` after calling `f`:
-```asm
+```nasm
 push %rdi
 call f
 pop %rdi
@@ -87,7 +87,7 @@ int64_t foo(int64_t x, int64_t y) {
 ```
 
 We can do:
-```asm
+```nasm
 foo:
 	push %rdi
 	push %rsi
@@ -121,7 +121,7 @@ uint64_t factorial(uint64_t n) {
 ```
 
 We can do the following in assembly:
-```asm
+```nasm
 factorial:
 	test %rdi, %rdi
 	jne factorial_recursive
@@ -132,7 +132,7 @@ factorial_base:
 
 This **checks** if the argument is `0`, if it **is zero**, then it would continue to `factorial_base` and return `1`. If it is **not zero**, then it would jump to `factorial_recursive`.
 
-```asm
+```nasm
 factorial_recursive:
 	push %rdi         # push n to stack
 	sub $1, %rdi      # n' = n-1

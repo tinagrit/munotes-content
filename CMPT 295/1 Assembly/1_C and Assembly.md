@@ -85,7 +85,7 @@ int weighted_add(int a, int b, int weight) {
 ```
 
 We should get an assembly code similar to the following in **hello.s**:
-```asm
+```nasm
 weighted_add:
     ⋮
 	imull	-12(%rbp), %eax
@@ -120,7 +120,7 @@ Both of these methods generate **hello.o**.
 The **.o** file is **object file**, a machine code as a fragment of an executable program. Machine code consists of instructions, which are what the processor's instruction register needs.
 
 For example, with this instruction that means "move the contents of register `rdi` to `rax`":
-```asm
+```nasm
 mov %rdi, %rax
 ```
 

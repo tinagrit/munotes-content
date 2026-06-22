@@ -32,7 +32,7 @@ int main() {
 ```
 
 We are writing the following **add10.S** with assembly:
-```asm
+```nasm
 	.section .note.GNU-stack, ""
 	.global add10
 	.text

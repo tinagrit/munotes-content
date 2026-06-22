@@ -15,7 +15,7 @@ if (n % 2 == 0) {
 ```
 
 If we want, we can implement this in assembly using [[1_Integers#Division|idiv]], this computes `rdx = rdi % 2`:
-```asm
+```nasm
 mov $2, %r8
 mov $0, %rdx
 mov %rdi, %rax
@@ -39,7 +39,7 @@ The number $1_{10}$ is $0001_{2}$, only having `1` in the right-most bit. Theref
 ![[chart17.png|350]]
 
 In assembly, we can do:
-```asm
+```nasm
 mov %rdi, %rdx
 and $1, %rdx
 ```

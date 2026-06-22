@@ -42,7 +42,7 @@ The number of bits we want to work with at a time is called the **word size**. I
 In the modern [[2_Registers#Writing assembly|x86-64 architecture]], the word size is **64-bit**. Older CPUs work with 32- and 16-bit word sizes.
 
 Modern 64-bit processors can easily do calculations on values smaller than their word size. Instructions tell it what to do:
-```asm
+```nasm
 add %rcx, %rax  # 64-bit add
 add %ecx, %eax  # 32-bit add
 add %cx, %ax    # 16-bit add
