@@ -1,6 +1,6 @@
 Lectures 3 & 4
 
-## Distribution Functions
+## Distribution Function
 See more: [CMPT 210 > Distribution Functions](https://munotes.tinagrit.com/CMPT210/5-random-variables/3_distribution-functions.html)
 
 ### Probability Mass Function (PMF)

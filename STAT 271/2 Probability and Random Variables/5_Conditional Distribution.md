@@ -1,6 +1,6 @@
 Lecture 5
 
-## Conditional Distribution
+## Conditional Distribution Function
 We can have a [[3_Distribution Functions#Probability Mass Function (PMF)|probability mass function]] that is **conditioned** on another random variable, like [[1_Probability#Conditional Probability|conditional probability]], using the [[4_Joint Distribution#Jointly Distributed Random Variables|joint distribution]].
 
 The **conditioned PMF** of $X$ given that $Y=y$ is:
