@@ -24,12 +24,12 @@ mov $1, (%rsp)
 
 The assembler doesn't know how many bytes around `%rsp` to write. In this case, we add **one letter to the end** of the instruction to specify size.
 
-| Instruction | Meaning   | Size   |
-| ----------- | --------- | ------ |
-| `movb`      | byte      | 8-bit  |
-| `movw`      | word      | 16-bit |
-| `movl`      | long word | 32-bit |
-| `movq`      | quad word | 64-bit |
+| Instruction | Meaning   | Size   | Assembler literal |
+| ----------- | --------- | ------ | ----------------- |
+| `movb`      | byte      | 8-bit  | `.byte`           |
+| `movw`      | word      | 16-bit | `.word`           |
+| `movl`      | long word | 32-bit | `.long`           |
+| `movq`      | quad word | 64-bit | `.quad`           |
 
 ### Immediate values
 The constants in the assembly code, like `$1` for 1, can only be **up to 32-bit values**.

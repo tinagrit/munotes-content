@@ -1,6 +1,4 @@
-Lectures 7 & 8
-
-> [!failure] This note is incomplete.
+Lecture 7
 
 ## Bit mask
 
