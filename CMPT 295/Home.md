@@ -3,7 +3,16 @@ icon: LiHome
 ---
 ## Mu's CMPT 295 Notes
 
-> [!info] Use the sidebar on the left to navigate through the notes
+### Table of Contents for the last few topics
+I have organized my notes slightly differently than the lecture.
+- **Processor Tricks**, see [[1_Data Hazards|Data Hazards]], [[2_Branch Hazards|Branch Hazards]], and [[3_Superscalar Processing|Superscalar Processing]]
+- **Tools**, see [[4_Tools|Tools]]
+- **Floating Point**, see [[6_Floating Point|Floating Point]]
+- **Data Parallelism**, see [[5_SIMD|SIMD]]
+- **Returning to C**, see [[6_Compiler Optimization|Compiler Optimization]]
+- **Language Abstractions**, see [[7_Abstraction|Abstraction]]
+- **Threads**, see [[8_Multithreading|Multithreading]]
+- **Leftovers**, see [[7_Data Alignment|Data Alignment]], [[1_Memory#Syscalls|Syscalls]], and [[6_Compiler Optimization#Tail Calls|Tail Calls]]
 
 ---
 ### Course Info

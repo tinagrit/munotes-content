@@ -146,7 +146,7 @@ This moves the 4 values in the array into `%r8` - `%r11`.
 - `r10 = arr[2]`
 - `r11 = arr[3]`
 
-<br>
+
 If we want to access the $n$<sup>th</sup> element, we will need to add to the address by $(8\times n)$, since each element takes up 8 bytes.
 
 Since $8=2^{3}$, we can use the [[5_Bit Shifting#Bit shift|bit shifting]] trick to **shift left 3 digits** instead of multiplying by 8.
@@ -203,7 +203,7 @@ mov 24(%rbx), %r8
 - `rbx = [address at start]`
 - `r8 = arr[3]`
 
-<br>
+
 We can also use a combination of **Scaling+Offsetting**. Notice that using:
 - `(%rbx, %rcx, 8)` means $\text{rbx} + (8 \times \text{rcx})_{}$
 - `24(%rbx)` means $\text{rbx}+24$
