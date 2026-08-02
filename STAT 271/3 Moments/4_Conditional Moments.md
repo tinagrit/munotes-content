@@ -24,6 +24,6 @@ The conditional [[2_Variance#Variance|variance]] of $X$ given $Y=y$ is defined s
 
 Note that by the **law of total variance**:
 $$
-\text{Var}[E[X|Y]]=\text{Var}[X]
+\text{Var}[E[X|Y]]+E[\text{Var}[X|Y]]=\text{Var}[X]
 $$
 
