@@ -1,4 +1,4 @@
-Lecture 12
+Lectures 12 & 15
 
 ## Normal Random Variable
 A normal [[2_Random Variables#Types of Random Variables|continuous]] random variable takes parameters $\mu$ and $\sigma^{2}$. If $X$ is a normal random variable, it is written as:
@@ -16,16 +16,34 @@ The PDF:
 - has a **maximum value** of $\dfrac{1}{\sqrt{ 2\pi\sigma }}\approx \dfrac{0.4}{\mu}$ at the centre ($x=\mu$).
 - has **two inflection points** at $x=\mu\pm \sigma$
 
-The normal distribution is also a good approximation for [[1_Binomial Distribution#Binomial Random Variable|binomial distribution]] with $n$ large:
-$$
-X\sim \text{Bin}(n,p) \approx \text{N}[\mu,\sigma^{2}]=\text{N}[np,np(1-p)]
-$$
 
 A **linear transformation** of a normal variable is **also** a normal variable.
 Let $Y=a+bX$ where $X\sim \text{N}[\mu,\sigma^{2}]$, then:
 $$
 Y\sim \text{N}[a+b\mu,b^{2}\sigma^{2}]
 $$
+
+### Approximating binomial
+The normal distribution is also a good approximation for [[1_Binomial Distribution#Binomial Random Variable|binomial distribution]] with $n$ large:
+$$
+X\sim \text{Bin}(n,p) \approx \text{N}[\mu,\sigma^{2}]=\text{N}[np,np(1-p)]
+$$
+This is due to [[2_Sample Mean Distribution#Central Limit Theorem|Central Limit Theorem]]. Let $X$ be a binomial variable, defined as a sum of independent $X_{1}+X_{2}+\dots+X_{n}$. For $n$ large, we expect:
+$$
+X\overset A\sim N(np,np(1-p))
+$$
+or
+$$
+\dfrac{X-np}{\sqrt{ np(1-p) }}\overset A\sim N(0,1)
+$$
+
+Since binomial is **discrete** but normal is **continuous**, when approximating, we should do a **continuity correction**.
+
+To calculate the [[3_Distribution Functions#Probability Mass Function (PMF)|PMF]] $P(X=i)$, calculate as:
+$$
+P(i-0.5<X<i+0.5)
+$$
+when using an approximate continuous distribution.
 
 ### Standard Normal Distribution
 A normal distribution is **standard** when $\mu=0$ and $\sigma=1$. Let $Z$ be a standard normal random variable, then $Z\sim \text{N}[0,1]$.
