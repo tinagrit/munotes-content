@@ -33,3 +33,5 @@ $$
 $$
 is called the **t-Distribution** or **Student Distribution** with $n$ degrees of freedom, $t_{n}$.
 
+The t-Distribution table helps calculate $t_{\alpha,n}$ where $\alpha$ is the area to the right, and $n$ refers to the degree of freedom.
+Note that $t_{\alpha,\infty}=z_{\alpha}$, refer to [[4_Normal Distribution#Percentile of Standard Normal|percentile of standard normal]].
