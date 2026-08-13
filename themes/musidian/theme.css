@@ -11,8 +11,8 @@
     --font-size-h4:                  21px;
     --font-size-h5:                  20px;
     --font-size-h6:                  19px;
-    --font-family-editor:            Avenir, Avenir Next, sans-serif;
-    --font-family-preview:           Avenir, Avenir Next, sans-serif;
+    --font-family-editor:            'Avenir', 'Avenir Next', 'Lato', system-ui, sans-serif;
+    --font-family-preview:           'Avenir', 'Avenir Next', 'Lato', system-ui, sans-serif;
     --blockquote-border-thickness:   unset;
 
     --print-font-size-normal:              15px;
@@ -154,7 +154,7 @@
   --blockquote-background:      #44475a;
   --blockquote-border:          #ffb86c;
   --vim-cursor:                 #ff5555;
-  --border-color:               #2b2727; /*also like transparent*/
+  --border-color:               #ffe2bb; /*also like transparent*/
 }
 
 .theme-dark .hideOnDark {
@@ -519,6 +519,14 @@ pre code {
   line-height: normal;
   display: block;
   color: var(--code-block)  !important;
+
+  overflow-x: auto;
+  text-wrap: nowrap !important;
+  text-wrap-mode: nowrap !important;
+}
+
+pre {
+  overflow-x: hidden;
 }
 
 /* padding of code blocks in preview */
@@ -916,6 +924,10 @@ svg.svg-icon {
 /*    at a rule line before ul list    */
 /***************************************/
 
+.markdown-rendered ol, .markdown-rendered ul {
+  margin-block-start: 0 !important;
+}
+
 ul ul { position: relative; }
 ul ul::before {
   content:'';
@@ -1048,4 +1060,37 @@ code{
 
 .theme-dark #brandImg {
   filter: invert(94%) sepia(11%) saturate(664%) hue-rotate(321deg) brightness(116%) contrast(94%);
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin-block-end: 0 !important;
+}
+
+.markdown-rendered p, .markdown-rendered pre {
+  margin-block-start: 5px !important;
+  margin-block-end: 30px !important;
+}
+
+.markdown-rendered ol, .markdown-rendered ul {
+  margin-block-end: 30px !important;
+}
+
+.markdown-rendered hr {
+  margin-block-end: 20px;
+  margin-block-start: 80px;
+}
+
+.markdown-rendered table {
+  margin-block-start: 0;
+  margin-block-end: 30px;
+}
+
+div.el-p:has(+ :is(div.el-ul, div.el-ol, div.el-pre, div.el-div)) p {
+  margin-block-end: 0 !important;
+}
+
+.callout-content p {
+  margin-block-start: 1rem !important;
+  margin-block-end: 1rem !important;
 }
