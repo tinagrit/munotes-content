@@ -1,4 +1,4 @@
-Lecture 2
+Lectures 2, 19
 
 > [!tip] Aside
 > This note is not about assembly, but about how wires and circuits can come together to build a processor that takes instructions and execute them.
@@ -140,3 +140,35 @@ This entire process is called the **instruction cycle**, consisting of:
 3. **executing** the instruction
 4. **incrementing** the IP
 
+
+---
+## Syscalls
+The `syscall` instruction is a way to **ask the OS** to take over and do something for us. It is like a [[2_Registers#Calling Convention|function call]], but it will pause the process, then the OS kernel will do what we requested, then the process will be resumed.
+
+The `syscall` instruction has no operand, but the syscall number has to be put in `%rax` before the instruction. 
+
+For example, the syscall number for writing is `1`. It requires arguments:
+- file descriptor (where to write) in `%rdi`. Writing to the terminal is `fd=1`
+- the pointer to the start of the string in `%rsi`
+- the number of bytes to write in `%rdx`
+
+We can write to the terminal in assembly (see [[2_Memory in Assembly#Static memory in assembly|static memory]] and [[2_Memory in Assembly#Loading pointer|lea]]):
+```nasm
+.data
+text:
+	.ascii "some text to print\n"
+text_len:
+	.quad 19
+
+.text
+mov $1, %rax
+mov $1, %rdi
+lea text(%rip), %rsi
+mov text_len(%rip), %rdx
+syscall
+```
+
+There are many syscalls available. These are some of them:
+- create a new directory `mkdir` - syscall `83`
+- exit the process - syscall `60`
+- change the data segment size - syscall `12` (this is what `malloc` and `free` uses)

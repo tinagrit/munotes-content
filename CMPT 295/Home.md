@@ -12,7 +12,7 @@ I have organized my notes slightly differently than the lecture.
 - **Returning to C**, see [[6_Compiler Optimization|Compiler Optimization]]
 - **Language Abstractions**, see [[7_Abstraction|Abstraction]]
 - **Threads**, see [[8_Multithreading|Multithreading]]
-- **Leftovers**, see [[7_Data Alignment|Data Alignment]], [[1_Memory#Syscalls|Syscalls]], and [[6_Compiler Optimization#Tail Calls|Tail Calls]]
+- **Leftovers**, see [[7_Data Alignment|Data Alignment]], [[3_Processor#Syscalls|Syscalls]], and [[6_Compiler Optimization#Tail Calls|Tail Calls]]
 
 ---
 ### Course Info
@@ -41,7 +41,7 @@ Under the following terms:
 
 ---
 
-*Last updated: July 2, 2026 3:00 PM*
+*Last updated: August 13, 2026 2:00 AM*
 
 ---
 *munotes*

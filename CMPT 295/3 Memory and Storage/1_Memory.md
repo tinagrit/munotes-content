@@ -1,7 +1,5 @@
 Lectures 8, 10-11
 
-> [!failure] This note is incomplete.
-
 ## The memory
 The memory consists of [[3_Processor#Memory|capacitors that hold charges]]. Essentially, it is an **array of bytes**, and each byte has a **unique address**.
 
@@ -57,9 +55,6 @@ int64_t* pointer = &number;
 If we do a `pointer+1`, we would get the memory address **8 bytes** after the address at `pointer`, since `int64_t` takes up 8 bytes.
 
 Basically, adding `i` to the pointer adds `i * sizeof(type)` to the memory address.
-
----
-## Syscalls
 
 
 ---
