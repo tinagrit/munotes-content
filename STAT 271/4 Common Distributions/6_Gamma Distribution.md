@@ -33,7 +33,7 @@ $$
 ### Sum of Independent Gamma
 For independent $X_{i}\sim \Gamma(\alpha_{i},\lambda)$ where $i=1,2,\dots,n$, we have:
 $$
-\sum_{i=1}^{n}X_{i}\sim \Gamma \left( \sum_{i=1}^{n} \alpha_{i},n \right)  
+\sum_{i=1}^{n}X_{i}\sim \Gamma \left( \sum_{i=1}^{n} \alpha_{i},\lambda \right)  
 $$
 
 ### Sum of Independent Exponential
