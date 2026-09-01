@@ -2,7 +2,7 @@ Section 5.1
 
 ## Cartesian product
 
-For [[Sets and Subsets#Sets|sets]] $A,B \in U$, the **Cartesian product**, or cross product of $A$ and $B$ 
+For [[1_Sets and Subsets#Sets|sets]] $A,B \in U$, the **Cartesian product**, or cross product of $A$ and $B$ 
 - is denoted by $A\times B$ 
 - equals $\{(a,b)\mid a\in A, b\in B\}$
 
@@ -51,7 +51,7 @@ A **binary relation** on $A$
 - $A\times B$
 
 In general, for finite sets $A,B$ with $|A|=m$ and $|B|=n$,
-- The number of relations is $2^{|A\times B|}$ (See [[Sets and Subsets#Power set|power sets]])
+- The number of relations is $2^{|A\times B|}$ (See [[1_Sets and Subsets#Power set|power sets]])
 - there are $2^{mn}$ relations from $A$ to $B$ including:
 	- the empty relation
 	- the relation $A\times B$ itself

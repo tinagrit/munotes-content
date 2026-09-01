@@ -1,3 +1,7 @@
+Section 1.4
+
+## Combinations with repetition
+
 The number of selections, **with repetitions**, of $r$ objects from $n$ distinct objects are:$$\frac{(n+r-1)!}{r!(n-1)!}$$ which is equivalent to $C(n+r-1,r)$ or $\dbinom{n+r-1}{r}$
 
 ---
@@ -23,7 +27,7 @@ The number of selections, **with repetitions**, of $r$ objects from $n$ distinct
 	- Choosing the position, $n=11$ and $r=45-33=12$
 		- The are $\dbinom{11+12-1}{12}$ ways to distribute the remaining spaces
 
-Using the [[Combinatorics Introduction#The Product Rule|product rule]], there are $12!*\dbinom{11+12-1}{12}$ ways to send the message.
+Using the [[1_Combinatorics Introduction#The Product Rule|product rule]], there are $12!*\dbinom{11+12-1}{12}$ ways to send the message.
 
 
 > Determine all integer solutions to the equation
@@ -90,11 +94,11 @@ There are $8$ compositions of 4
 - Then: $z_1+z_2+z_3=4$ where $z_i\geq0$
 - There are $\dbinom{3+4-1}{4}=\dbinom{6}{4}$ compositions
 
-[[Combinatorics Introduction#The Sum Rule|Sum rule]] is used since options are not chosen one after the other.
+[[1_Combinatorics Introduction#The Sum Rule|Sum rule]] is used since options are not chosen one after the other.
 The total number of compositions is
 $\displaystyle{6\choose6}+{6\choose5}+{6\choose4}+{6\choose3}+{6\choose2}+{6\choose1}+{6\choose0}$ = $\displaystyle\sum_{k=0}^{6}{6\choose k}$
 
-According to the [[Combinations with no repetition#Corollaries|corollaries]], this answer is just:
+According to the [[1_Combinations with no repetition#Corollaries|corollaries]], this answer is just:
 - $2^6$
 
 ---

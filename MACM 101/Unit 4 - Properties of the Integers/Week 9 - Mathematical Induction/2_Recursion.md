@@ -3,7 +3,7 @@ Section 4.2
 **Recursion** is a principle closely related to [[1_Induction#Principle of Mathematical Induction|mathematical induction]].
 In a recursive definition, an object is defined in **terms of itself**.
 
-We can recursively define **sequences** and **[[Sets and Subsets#Sets|sets]]**.
+We can recursively define **sequences** and **[[1_Sets and Subsets#Sets|sets]]**.
 
 ## Examples
 
@@ -20,7 +20,7 @@ $a_{n+1}=2n$  for  $n=0,1,2,\ldots$
 
 
 ### Factorial
-See [[Permutations]]
+See [[2_Permutations]]
 
 $0!=1$
 $(n+1)!=(n+1)\cdot n!$   for   $n\geq0$

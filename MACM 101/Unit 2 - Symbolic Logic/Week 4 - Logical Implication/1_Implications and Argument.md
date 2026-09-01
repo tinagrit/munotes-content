@@ -1,3 +1,5 @@
+Section 2.2
+
 ## Negation
 
 > Negate and simplify the compound statement
@@ -6,7 +8,7 @@
 - Laws of logic don't include ($\rightarrow$)
 	- First step is to **get rid** of the arrow
 	- $(p\lor q)\rightarrow r$     $\Leftrightarrow$     $\lnot(p\lor q)\lor r$
-	- by the [[Logical Equivalence#First Substitution rule|first substitution rule]] because $s\rightarrow t \leftrightarrow \lnot s \lor t$ is a tautology
+	- by the [[2_Logical Equivalence#First Substitution rule|first substitution rule]] because $s\rightarrow t \leftrightarrow \lnot s \lor t$ is a tautology
 - Negating:
 	- $\lnot[\lnot(p \lor q)\lor r]$
 	- $\lnot\lnot (p\lor q) \land \lnot r$     by DeMorgan's Law
@@ -72,7 +74,7 @@ Inverse: $\lnot p → \lnot q$
 $(p_1\land p_2\land p_3 \land \ldots \land p_n) \rightarrow q$ 
 $\text{premises} \rightarrow \text{conclusion}$
 
-is a valid argument if and only if $(p_1\land p_2\land p_3 \land \ldots \land p_n) \rightarrow q$  is a **[[Connectives and Truth Table#Tautology and Contradiction|tautology]]**
+is a valid argument if and only if $(p_1\land p_2\land p_3 \land \ldots \land p_n) \rightarrow q$  is a **[[1_Connectives and Truth Table#Tautology and Contradiction|tautology]]**
 
 
 > $p$:  Roger studies
@@ -108,4 +110,4 @@ If $p\rightarrow q$ is a tautology, then p **logically implies** q, written as $
 - $p\Leftrightarrow q$    means    $p \leftrightarrow q$ is a tautology 
 
 
-Examples on proving arguments, see [[Inference rules#Examples]]
+Examples on proving arguments, see [[2_Rules of Inference#Examples]]

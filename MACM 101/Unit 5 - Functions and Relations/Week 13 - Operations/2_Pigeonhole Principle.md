@@ -1,7 +1,7 @@
 Section 5.5
 
 ## The Pigeonhole Principle
-See [[Combinatorics Introduction|Counting]]
+See [[1_Combinatorics Introduction|Counting]]
 
 If there are $m$ pigeons who occupy $n$ pigeonholes
 - and $m>n$
@@ -35,12 +35,12 @@ However, $n<m$, which means we are missing at least $m-n$ pigeons.
 
 > A tape contains 500,000 words of four or fewer lowercase letters. Can it be that they are all different?
 - Find if it is possible to have 500,000 different words
-- Counting problem, using [[Permutations#Permutations with repetition|permutations with repetition]]:
+- Counting problem, using [[2_Permutations#Permutations with repetition|permutations with repetition]]:
 	- **Case 1:** 1 letter = $26$ choices
 	- **Case 2:** 2 letters = $26\times 26$ = $26^2$ choices
 	- **Case 3:** 3 letters = $26\times 26\times 26$ = $26^3$ choices
 	- **Case 4:** 4 letters = $26\times 26\times 26\times 26$ = $26^4$ choices
-	- All cases combined, by the [[Combinatorics Introduction#The Sum Rule|sum rule]], there are $26+26^2+26^3+26^4$ = $475,254$ different possible words
+	- All cases combined, by the [[1_Combinatorics Introduction#The Sum Rule|sum rule]], there are $26+26^2+26^3+26^4$ = $475,254$ different possible words
 - $\therefore$ By the pigeonhole principle, there must be repeated words.
 
 > Let $S \subset Z^+$ where $|S|=37$
@@ -55,7 +55,7 @@ However, $n<m$, which means we are missing at least $m-n$ pigeons.
 > Any subset of size 6 from the set $S=\{1,2,3,\ldots,9\}$ must contain at least two elements whose sum is 10
 - The pairs of values that sum to 10 from $S$
 	- $(1,9),(2,8),(3,7),(4,6)$
-- When we form our 6 element [[Sets and Subsets#Subset|subset]], for no pair to sum to 10, we must choose only one integer from each pair, plus the single element $5$
+- When we form our 6 element [[1_Sets and Subsets#Subset|subset]], for no pair to sum to 10, we must choose only one integer from each pair, plus the single element $5$
 - So there are 5 pigeonholes (numbers that no pairs add up to 10)
 - There are 6 pigeons (elements required to form a 6 element subset)
 - $\therefore$ The set $S$ must contain at least two elements whose sum is 10

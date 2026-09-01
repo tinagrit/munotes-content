@@ -2,7 +2,7 @@ Section 4.1
 
 ## Definition
 
-For the [[Sets and Subsets#Subset|subset]] $Z^+$ of [[Sets and Subsets#Sets|set]] $Z$:
+For the [[1_Sets and Subsets#Subset|subset]] $Z^+$ of [[1_Sets and Subsets#Sets|set]] $Z$:
 - $Z^+= \{ x \in Z | x > 0 \}=\{  x \in Z | x \geq 1  \}$ 
 	- both sets mean the same thing but saying $x \geq 1$ shows the smallest value
 For the subsets $Q^+$ and $R^+$:
@@ -22,7 +22,7 @@ Any *non-empty* subset of $Z^+$ contains a smallest element.
 ---
 ## Principle of Mathematical Induction
 - Useful tool for proving that a certain predicate is true for ***all positive integers***.
-	- [[The Proof of Theorems#Proof by Method of Exhaustion|Method of exhaustion]] doesn't work since it is impossible to exhaust all of the positive integers
+	- [[3_The Proof of Theorems#Proof by Method of Exhaustion|Method of exhaustion]] doesn't work since it is impossible to exhaust all of the positive integers
 - *Cannot* be used to **discover** theorems, only to **prove**
 - If we have a propositional function $P(n)$, and we want to prove that $P(n)$ is true for any positive integer $n$, we do the following:
 	- Show that $P(1)$ is true (**basis**)
@@ -89,7 +89,7 @@ Let $F=\{t\in Z^+|S(t)$ is false$\}$
 Show that $F$ is $\varnothing$
 - Prove that the set of all integers that **don't** **satisfy** the Principle be empty
 
-**[[The Proof of Theorems#Prove by contradiction|Prove by contradiction]]**: Assume $F\not = \varnothing$
+**[[3_The Proof of Theorems#Prove by contradiction|Prove by contradiction]]**: Assume $F\not = \varnothing$
 
 - $F$ is a subset of $Z^+$, so by the well-ordering principle, $F$ has a least element $m$
 	- If $F$ is not empty, it has a smallest element
@@ -206,7 +206,7 @@ $S(n):$      $4n<(n^2-7),n\geq 6$
 
 ### Compositions
 
-See [[Combinations with repetition#Compositions|Combinations with repetition]]
+See [[2_Combinations with repetition#Compositions|Combinations with repetition]]
 
 > For a given $n\in Z^+$, a composition of $n$ is an ordered sum of positive integers summing to $n$.
 > All the different ways to write the integer $n$ as a sum of positive integers

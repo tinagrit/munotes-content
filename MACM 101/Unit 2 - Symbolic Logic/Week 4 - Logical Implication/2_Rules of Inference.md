@@ -1,3 +1,4 @@
+Section 2.3
 
 | Rule                             | Argument                                                                          | Description                                                                                                      |
 | -------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -14,12 +15,12 @@
 | **Constructive Dilemma**         | $p → q$<br>$r → s$<br>$p \lor r$<br>$\therefore q \lor s$                         |                                                                                                                  |
 | **Destructive Dilemma**          | $p → q$<br>$r → s$<br>$\lnot q \lor \lnot s$<br>$\therefore \lnot p \lor \lnot r$ |                                                                                                                  |
 
-For laws of logic, see [[Logical Equivalence#The Laws of Logic]]
+For laws of logic, see [[2_Logical Equivalence#The Laws of Logic]]
 
 ---
 ### Examples
 
-See more on arguments: [[Implications and Argument#Argument]]
+See more on arguments: [[1_Implications and Argument#Argument]]
 
 > Rita is baking a cake ($p$)
 > If Rita is baking a cake, then she is not practicing her flute ($p → \lnot q$)

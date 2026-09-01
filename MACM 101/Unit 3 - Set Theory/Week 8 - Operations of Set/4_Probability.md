@@ -4,7 +4,7 @@ Section 3.4
 
 If we perform an **experiment** such as tossing a single fair coin, rolling a single fair die, or selecting two students at random from a class of 20, 
 
-The [[Sets and Subsets|set]] of *all possible outcomes* for each situation is called a **sample space**.
+The [[1_Sets and Subsets|set]] of *all possible outcomes* for each situation is called a **sample space**.
 
 The sample spaces for each of the above are:
 - Tossing a coin: $\{H,T\}$

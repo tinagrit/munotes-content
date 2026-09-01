@@ -1,6 +1,7 @@
 Section 3.2
+
 ## Operators
-See [[Sets and Subsets]]
+See [[1_Sets and Subsets]]
 
 | Operation               | Denoted      | Definition                                                                       |
 | ----------------------- | ------------ | -------------------------------------------------------------------------------- |

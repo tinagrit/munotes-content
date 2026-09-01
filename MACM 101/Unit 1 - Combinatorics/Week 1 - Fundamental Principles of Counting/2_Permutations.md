@@ -1,10 +1,14 @@
+Section 1.2
+
+## Permutations
+
 >"In a class of 10 students, 5 are to be chosen and seated in a row for a picture. How many such linear arrangements are possible?"
 
 | Possibilities |   10    |    9    |    8    |    7    |    6    |
 | :-----------: | :-----: | :-----: | :-----: | :-----: | :-----: |
 |   Position    | 1st pos | 2nd pos | 3rd pos | 4th pos | 5th pos |
 - A single person cannot be chosen twice
-- Using [[Combinatorics Introduction#The Product Rule]], the total combination is $10*9*8*7*6$ or $\dfrac{10!}{5!}$ (see [[#Permutations with no repetition]])
+- Using [[1_Combinatorics Introduction#The Product Rule|the Product Rule]], the total combination is $10*9*8*7*6$ or $\dfrac{10!}{5!}$ (see [[#Permutations with no repetition]])
 
 ---
 

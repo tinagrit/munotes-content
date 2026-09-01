@@ -1,3 +1,5 @@
+Section 1.1
+
 ## Basic counting of things
 - basis of computing probabilities of discrete *(individual)* events
 	"What is the probability of winning the lottery?"

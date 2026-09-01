@@ -1,3 +1,5 @@
+Section 2.5
+
 ## Proof by Method of Exhaustion
 
 Exhaust all ways of the proof to find out
@@ -23,7 +25,7 @@ The statement is **true**.
 ---
 
 ## Rule of Universal Specification
-See [[Quantifiers]]
+See [[2_Quantifiers]]
 
 If $p(x)$ is true in a given universe, and
 if $\forall x,p(x)$ is true, then $p(a)$ is true for each $a$ in the universe.
@@ -52,7 +54,7 @@ Let $b$ represent the individual Damian
 | 3     | $m(b)$                    | Premise                                    |
 | 4     | $\therefore c(b)$         | Step 3 and Modus Ponens                    |
 
-See [[Inference rules]] and [[Logical Equivalence#The Laws of Logic|The Laws of Logic]]
+See [[2_Rules of Inference]] and [[2_Logical Equivalence#The Laws of Logic|The Laws of Logic]]
 
 
 > Consider:

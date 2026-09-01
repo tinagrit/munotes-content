@@ -1,6 +1,9 @@
+Section 2.4
+
+## Open statement
 A declarative sentence is an **open statement** if:
 - contains 1+ variables
-- not a [[Connectives and Truth Table#Statements (propositions)|statement]]
+- not a [[1_Connectives and Truth Table#Statements (propositions)|statement]]
 	- becomes a statement when "plugged in" (the variables are replaced by certain *allowable choices*) ie. the universe, integers, reals
 
 > $p(x)$:  The number $x+2$ is an even integer.

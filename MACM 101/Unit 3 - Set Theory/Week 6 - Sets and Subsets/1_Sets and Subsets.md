@@ -1,4 +1,5 @@
 Section 3.1
+
 ## Sets
 - **well-defined** collection of objects (*elements*, *members of a set*)
 - **Capital** letters ($A$, $B$, $C$, $D$) to represent sets and **lowercase** letters ($a$, $b$, $c$ , $d$) to represent elements
@@ -60,7 +61,7 @@ $C=D$ when $C\subseteq D$ and $D \subseteq C$
 ---
 ## Theorem
 
-For a given universe (see [[Quantifiers]]) containing the sets $A$, $B$, $C$
+For a given universe (see [[2_Quantifiers]]) containing the sets $A$, $B$, $C$
 - If $A\subseteq B$ and $B \subseteq C$
 	- then $A \subseteq C$
 	- Proof:
@@ -128,7 +129,7 @@ To count the subsets for a set $D$ with $n$ elements:
 - number of subsets of size $n$: $\binom{n}{n}$
 
 $\displaystyle|P(D)|=\dbinom{n}{0}+\dbinom{n}{1}+\ldots+\dbinom{n}{n}=\sum_{i=0}^{n}\dbinom{n}{i}=2^n$ 
-by the corollary to the [[Combinations with no repetition#The Binomial Theorem|Binomial Theorem]]
+by the corollary to the [[1_Combinations with no repetition#The Binomial Theorem|Binomial Theorem]]
 
 In general, for any finite set $A$ with $|A| = n \geq 0$, then $A$ has $2^n$ subsets and that $|P(A)| = 2^n$
 

@@ -1,7 +1,10 @@
+Section 1.3
+
+## Combinations with no repetition
 
 > How many different sets of 3 people can we pick from a group of 6
 
-Picking people using [[Permutations]], there would $P(6,3)=120$ ways to do this.
+Picking people using [[2_Permutations|Permutations]], there would $P(6,3)=120$ ways to do this.
 
 However, by choosing from **{A,B,C,D,E,F}**, **{A,C,E}** and **{C,A,E}** are the equivalent choices.
 
@@ -33,7 +36,7 @@ Also denoted $\displaystyle{n \choose r}$
 $C(8,6)$ ways to choose the female players
 $C(7,5)$ ways to choose the male players
 
-Two choices are made one after another. See [[Combinatorics Introduction#The Product Rule]] 
+Two choices are made one after another. See [[1_Combinatorics Introduction#The Product Rule|Product Rule]] 
 
 $C(8,6)*C(7,5)$ = $\dfrac{8!}{6!*2!}*\dfrac{7!}{5!*2!}$ = $588$ ways to form the team
 
@@ -66,7 +69,7 @@ $\displaystyle {5 \choose 3}*{5 \choose 4}=50$ ways
 	- choosing 2 out of the *last* five
 	- $\dbinom55*\dbinom52=10$ ways
 
-The three cases **are not** done one after the other, the [[Combinatorics Introduction#The Sum Rule|sum rule]] is used.
+The three cases **are not** done one after the other, the [[1_Combinatorics Introduction#The Sum Rule|sum rule]] is used.
 
 The total number of ways is $50+50+10=110$ ways.
 
@@ -77,7 +80,7 @@ The total number of ways is $50+50+10=110$ ways.
 	- 2 L's
 	- 2 S's
 	- 2 E's
-- Using [[Permutations#Permutations with indistinguishable objects]], the total number of arrangements is $\dfrac{11!}{3!*2!*2!*2!}=831,600$ ways
+- Using [[2_Permutations#Permutations with indistinguishable objects|Permutations with indistinguishable objects]], the total number of arrangements is $\dfrac{11!}{3!*2!*2!*2!}=831,600$ ways
 
 > How many of these arrangements have no adjacent A's
 > This is different than asking how many of these have four A's all together.
@@ -141,7 +144,7 @@ or can be written as  $\displaystyle\sum_{k=0}^{n}{n\choose{n-k}}x^ky^{n-k}$ sin
 > How many different strings of length 10 are there for the above alphabet?
 
 Order matters, so this is **PERMUTATION** where repetition is allowed.
-Using the formula from [[Permutations#Permutations with repetition]],
+Using the formula from [[2_Permutations#Permutations with repetition|Permutations with repetition]],
 the total number of strings is $n^r=3^{10}$ strings.
 
 > Among these strings of length 10, how many have even weight?

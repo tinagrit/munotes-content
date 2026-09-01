@@ -4,23 +4,23 @@ A **Venn diagram** gives a graphic way of thinking about sets, for example:
 
 See [[1_Operations of Set|Operations of Set]]
 
-| Diagram     | Meaning    |
-| ----------- | ---------- |
-| ![[P1.png]] | $A$        |
-| ![[E2.png]] | $A\cup B$  |
-| ![[E3.png]] | $A \cap B$ |
-| ![[E4.png]] | $A-B$      |
+| Diagram          | Meaning    |
+| ---------------- | ---------- |
+| ![[P1.png\|300]] | $A$        |
+| ![[E2.png\|300]] | $A\cup B$  |
+| ![[E3.png\|300]] | $A \cap B$ |
+| ![[E4.png\|300]] | $A-B$      |
 
 
 ### DeMorgan's law proof
 See [[2_The Laws of Set Theory#Proving DeMorgan's Law|DeMorgan's law]]
 
-|                                |               |
-| ------------------------------ | ------------- |
-| $\overline{A\cap B}$           | ![[R1.png]]   |
-| $\overline A$                  | ![[R2.png]]   |
-| $\overline B$                  | ![[R3.png]]   |
-| $\overline A \cup \overline B$ | ![[R1 1.png]] |
+|                                |                    |
+| ------------------------------ | ------------------ |
+| $\overline{A\cap B}$           | ![[R1.png\|300]]   |
+| $\overline A$                  | ![[R2.png\|300]]   |
+| $\overline B$                  | ![[R3.png\|300]]   |
+| $\overline A \cup \overline B$ | ![[R1 1.png\|300]] |
 
 
 ---
@@ -39,7 +39,7 @@ Find $|A\cup B|$
 
 Do with diagram:
 
-![[U3.png]]
+![[U3.png|300]]
 
 $|A\cup B| = 20+10+15 = 45$
 
@@ -80,7 +80,7 @@ Find $A\cup B\cup C$
 
 Do with diagram:
 
-![[U2.png]]
+![[U2.png|300]]
 
 $A\cup B\cup C=11+4+12+5+3+7+15=57$ sprockets
 

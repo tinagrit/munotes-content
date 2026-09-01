@@ -48,7 +48,7 @@ By [[1_Induction#Principle of Mathematical Induction|Induction]],
 
 > Show that $\sqrt{2}$ is irrational
 
-[[Sets and Subsets#Common infinite sets|Irrational]] = cannot be written as fraction, rational number
+[[1_Sets and Subsets#Common infinite sets|Irrational]] = cannot be written as fraction, rational number
 
 **Prove by contradiction**
 
@@ -95,7 +95,7 @@ Example:
 > Leave the uniqueness of it as a separate proof
 
 **Prove by contradiction**
-Similar approach to [[1_Induction#Proof|Induction Proof]] where a [[Sets and Subsets#Sets|set]] of all violating integers is assumed to be not empty.
+Similar approach to [[1_Induction#Proof|Induction Proof]] where a [[1_Sets and Subsets#Sets|set]] of all violating integers is assumed to be not empty.
 
 Let $S=\{x\mid x\in Z^+,x>1,x$ cannot be written as a prime factorization$\}$
 Assume that $S\not = \varnothing$
@@ -126,7 +126,7 @@ Notice that $17$ is on the right,
 
 
 ## Pi notation
-similar to [[Combinations with no repetition#Summation Notation|Sigma notation]], but for multiplications.
+similar to [[1_Combinations with no repetition#Summation Notation|Sigma notation]], but for multiplications.
 
 Example:
 

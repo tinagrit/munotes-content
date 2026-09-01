@@ -1,3 +1,6 @@
+Section 2.2
+
+## Logical Equivalence
 
 > Consider the following
 > $s_1$: $\lnot p \lor q$
@@ -47,7 +50,7 @@ While  $s \not\Leftrightarrow s^d$, If $s \Leftrightarrow t$ then $s^d \Leftrigh
 
 
 ### First Substitution rule
-The compound statement $P$ is a [[Connectives and Truth Table#Tautology and Contradiction|tautology]]. If $p$ is a primitive statement that appears in $P$ and we replace each occurrence of $p$ by the same statement $q$, then the resulting compound statement $P_1$ is also a tautology.
+The compound statement $P$ is a [[1_Connectives and Truth Table#Tautology and Contradiction|tautology]]. If $p$ is a primitive statement that appears in $P$ and we replace each occurrence of $p$ by the same statement $q$, then the resulting compound statement $P_1$ is also a tautology.
 
 For example, $P$: $\lnot (p \lor q) \leftrightarrow (\lnot p \land \lnot q)$ is a tautology
 - Replacing $p$ with $r\land s$
@@ -56,13 +59,11 @@ For example, $P$: $\lnot (p \lor q) \leftrightarrow (\lnot p \land \lnot q)$ is 
 
 
 ### Second Substitution rule
-If $p$ is a primitive statement that appears in $P$, and let $q$ be a statement such that $q\Leftrightarrow p$. Any of the $p$'s can be replaced with $q$ and the [[Connectives and Truth Table#Compound Statements|compound statement]] $P_1$ will be $P_1 \Leftrightarrow P$.
+If $p$ is a primitive statement that appears in $P$, and let $q$ be a statement such that $q\Leftrightarrow p$. Any of the $p$'s can be replaced with $q$ and the [[1_Connectives and Truth Table#Compound Statements|compound statement]] $P_1$ will be $P_1 \Leftrightarrow P$.
 
 For example, $P$: $p\rightarrow(p\lor q)$
 - Replacing the second $p$ with $\lnot\lnot p$ (since $p \Leftrightarrow \lnot\lnot p$)
 - $P_1$: $p\rightarrow(\lnot\lnot p \lor q)$
 	- $P_1 \Leftrightarrow P$
 
-
----
 

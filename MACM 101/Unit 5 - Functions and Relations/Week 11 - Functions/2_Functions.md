@@ -25,7 +25,7 @@ Example:
 	- since not all elements of $A$ appear exactly once (2 is mapped twice)
 
 The **range** of $f$ or $f(A)$ is
-- the [[Sets and Subsets#Subset|subsets]] of $B$ consisting of those elements that appear as second components in the ordered pairs of $f$
+- the [[1_Sets and Subsets#Subset|subsets]] of $B$ consisting of those elements that appear as second components in the ordered pairs of $f$
 
 > For
 > - $A=\{1,2,3\}$
@@ -83,7 +83,7 @@ Number of choices for $x_2$ to map: $n$
 ...
 Number of choices for $x_m$ to map: $n$
 
-By the [[Combinatorics Introduction#The Product Rule|Product rule]], there are $n^m=|B|^{|A|}$ functions from $A$ to $B$ 
+By the [[1_Combinatorics Introduction#The Product Rule|Product rule]], there are $n^m=|B|^{|A|}$ functions from $A$ to $B$ 
 
 
 ## One-to-one functions
@@ -132,10 +132,10 @@ Number of choices for $x_3$ to map: $n-2$
 ...
 Number of choices for $x_m$ to map: $n-(m-1)$
 
-By the [[Combinatorics Introduction#The Product Rule|Product Rule]], $n\cdot (n-1)\cdot (n-2)\cdot \ldots \cdot (n-m+1)$
+By the [[1_Combinatorics Introduction#The Product Rule|Product Rule]], $n\cdot (n-1)\cdot (n-2)\cdot \ldots \cdot (n-m+1)$
 $=\dfrac{n!}{(n-m)!}=P(n,m)$
 
-See [[Permutations]]
+See [[2_Permutations]]
 
 
 ## Images of subsets

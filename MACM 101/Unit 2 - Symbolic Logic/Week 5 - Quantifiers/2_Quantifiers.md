@@ -1,4 +1,7 @@
-[[Open statements]] can be quantified using
+Section 2.5
+
+## Quantifiers
+[[1_Open statements|Open statements]] can be quantified using
 - **$\exists$  Existential** Quantifier: "for some $x$": $\exists x$
 - **$\forall$  Universal** Quantifier: "for all $x$": $\forall x$
 
@@ -99,14 +102,14 @@ $$\exists m \exists n[m^2+n^2=41]$$
 ---
 
 ## Logical Equivalence
-See [[Logical Equivalence|non-quantifying logical equivalences]]
+See [[2_Logical Equivalence|non-quantifying logical equivalences]]
 
 For the statement $\forall x [p(x) → q(x)]$
 - **Contrapositive**: $\forall x[\neg q(x) → \neg p(x)]$
 - **Converse**: $\forall x[q(x) → p(x)]$
 - **Inverse**: $\forall x[\neg p(x) → \neg q(x)]$
 
-For negation for non-quantifying statements, see [[Implications and Argument#Negation|Negation]]
+For negation for non-quantifying statements, see [[1_Implications and Argument#Negation|Negation]]
 
 > Consider the universe of all integers and the open statements:
 > $r(x)$: $2x+1=5$, $x=2$

@@ -13,7 +13,7 @@ Section 3.2
 | Domination Laws                                                | $A\cup U=U$<br>$A\cap \varnothing = \varnothing$                                                       |
 | Absorption Laws                                                | $A\cup (A\cap B)=A$<br>$A\cap (A\cup B)=A$                                                             |
 
-Same laws as the [[Logical Equivalence#The Laws of Logic|laws of logic]], 
+Same laws as the [[2_Logical Equivalence#The Laws of Logic|laws of logic]], 
 - replacing $\lnot A$  with  $\overline A$.
 - $U$ is the $T_0$ 
 - $\varnothing$ is the $F_0$

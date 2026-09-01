@@ -1,25 +1,25 @@
 
 ### Chapter 1
-- 1.1: [[Combinatorics Introduction|Sum and Product Rules]]
-- 1.2: [[Permutations|Permutations]]
-- 1.3: [[Combinations with no repetition|Combinations with no repetition]]
-	- [[Combinations with no repetition#The Binomial Theorem|The Binomial Theorem]]
-- 1.4: [[Combinations with repetition]]
+- 1.1: [[1_Combinatorics Introduction|Sum and Product Rules]]
+- 1.2: [[2_Permutations|Permutations]]
+- 1.3: [[1_Combinations with no repetition|Combinations with no repetition]]
+	- [[1_Combinations with no repetition#The Binomial Theorem|The Binomial Theorem]]
+- 1.4: [[2_Combinations with repetition]]
 
 ### Chapter 2
-- 2.1: [[Connectives and Truth Table]]
-- 2.2: [[Logical Equivalence|Logical Equivalence]]
-	- [[Logical Equivalence#The Laws of Logic|The Laws of Logic]]
-	- [[Implications and Argument]]
-- 2.3: [[Inference rules|Rules of Inference]]
-- 2.4: [[Quantifiers|Quantified logic statements]]
+- 2.1: [[1_Connectives and Truth Table]]
+- 2.2: [[2_Logical Equivalence|Logical Equivalence]]
+	- [[2_Logical Equivalence#The Laws of Logic|The Laws of Logic]]
+	- [[1_Implications and Argument]]
+- 2.3: [[2_Rules of Inference|Rules of Inference]]
+- 2.4: [[2_Quantifiers|Quantified logic statements]]
 - 2.5: Quantifiers and the Proofs of Theorem
-	- [[The Proof of Theorems#Rule of Universal Specification|Rules of universal specification/generalization]]
-	- [[The Proof of Theorems|Conventional proof]]
+	- [[3_The Proof of Theorems#Rule of Universal Specification|Rules of universal specification/generalization]]
+	- [[3_The Proof of Theorems|Conventional proof]]
 
 ### Chapter 3
 - 3.1 and 3.2: Sets, Set Operations, and the Laws of Set Theory
-	- [[Sets and Subsets|Sets]] and [[1_Operations of Set|operators]]
+	- [[1_Sets and Subsets|Sets]] and [[1_Operations of Set|operators]]
 	- Proving theorems using the [[2_The Laws of Set Theory|laws of set theory]]
 - 3.3: [[3_Venn Diagrams|Counting and Venn Diagrams]]
 - 3.4: [[4_Probability|Probability]]
@@ -63,7 +63,7 @@
 > Prove that if $x$ and $y$ are positive integers and $x<y$, then $x^2<y^2$
 
 > [!example]- Answer key
-> - Using [[The Proof of Theorems#Direct proof|Direct proof]]:
+> - Using [[3_The Proof of Theorems#Direct proof|Direct proof]]:
 > - With the assumption of $x<y$:
 >	- Since $x$ is a positive integer by assumption, multiplying both sides of the inequality by $x$ will maintain the inequality
 >		- $\implies x\cdot x<x\cdot y$

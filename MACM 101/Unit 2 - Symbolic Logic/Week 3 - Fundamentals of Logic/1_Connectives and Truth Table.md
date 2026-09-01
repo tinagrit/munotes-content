@@ -1,3 +1,4 @@
+Section 2.1
 
 ## Statements (propositions)
 - declarative sentences that are either **TRUE** or **FALSE**.
