@@ -9,23 +9,23 @@ See [[5_Theropods|Theropods]]. **Non-Coelurosaur Theropods** include:
 ### Overview
 ```
 Theropoda
-\-- Neotheropoda
-	|-- Ceratosauria
-	|   \-- Abelisauridea
-	|       \-- [Carnotaurus]
-    \-- Tetanurae
-	    |-- Megalosauridea
-	    |   |-- Megalosauridae
-	    |   |   \-- [Megalosaurus]
-	    |   \-- Spinosauridae
-	    |       |-- [Spinosaurus]
-	    |       \-- [Baryonyx]
-        \-- Allosauria
-	        |-- Allosauridae
-	        |   \-- [Allosaurus]
-            \-- Carcharodontosauridae
-                |-- [Carcharodontosaurus]
-	            \-- [Giganotosaurus]
+└── Neotheropoda
+	├── Ceratosauria
+	│   └── Abelisauridea
+	│       └── [Carnotaurus]
+    └── Tetanurae
+	    ├── Megalosauridea
+	    │   ├── Megalosauridae
+	    │   │   └── [Megalosaurus]
+	    │   └── Spinosauridae
+	    │       ├── [Spinosaurus]
+	    │       └── [Baryonyx]
+        └── Allosauria
+	        ├── Allosauridae
+	        │   └── [Allosaurus]
+            └── Carcharodontosauridae
+                ├── [Carcharodontosaurus]
+	            └── [Giganotosaurus]
 ```
 
 
@@ -37,11 +37,11 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    |-- Tetanurae
-    \-- Ceratosauria
-        \-- Abelisauridea
-            \-- [Carnotaurus]
+└── Neotheropoda
+    ├── Tetanurae
+    └── Ceratosauria
+        └── Abelisauridea
+            └── [Carnotaurus]
 ```
 
 ### *Carnotaurus*
@@ -62,11 +62,11 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Megalosauridea
-            \-- Megalosauridae
-                \-- [Megalosaurus]
+└── Neotheropoda
+    └── Tetanurae
+        └── Megalosauridea
+            └── Megalosauridae
+                └── [Megalosaurus]
 ```
 
 ### *Megalosaurus*
@@ -87,12 +87,12 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Megalosauridea
-            \-- Spinosauridae
-	            |-- [Spinosaurus]
-	            \-- [Baryonyx]
+└── Neotheropoda
+    └── Tetanurae
+        └── Megalosauridea
+            └── Spinosauridae
+	            ├── [Spinosaurus]
+	            └── [Baryonyx]
 ```
 
 ### *Baryonyx*
@@ -119,11 +119,11 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Allosauria
-            \-- Allosauridae
-	            \-- [Allosaurus]
+└── Neotheropoda
+    └── Tetanurae
+        └── Allosauria
+            └── Allosauridae
+	            └── [Allosaurus]
 ```
 
 ### *Allosaurus*
@@ -141,12 +141,12 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Allosauria
-            \-- Carcharodontosauridae
-                |-- [Carcharodontosaurus]
-	            \-- [Giganotosaurus]
+└── Neotheropoda
+    └── Tetanurae
+        └── Allosauria
+            └── Carcharodontosauridae
+                ├── [Carcharodontosaurus]
+	            └── [Giganotosaurus]
 ```
 
 ### *Carcharodontosaurus*

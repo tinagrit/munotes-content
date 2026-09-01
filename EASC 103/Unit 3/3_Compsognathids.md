@@ -9,14 +9,14 @@ Lecture 15
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-	        |-- Maniraptoriformes
-            |-- Tyrannosauroidea
-            \-- Compsognathidae
-                |-- [Compsognathus]
-                \-- [Sinosauropteryx prima]
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+	        ├── Maniraptoriformes
+            ├── Tyrannosauroidea
+            └── Compsognathidae
+                ├── [Compsognathus]
+                └── [Sinosauropteryx prima]
 ```
 
 ### *Compsognathus*

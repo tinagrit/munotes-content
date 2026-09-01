@@ -29,22 +29,22 @@ Paraves is classified into 3 main clades
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-                \-- Maniraptorans
-	                \-- Paraves
-		                |-- Dromaeosaurs
-			            |   |-- Microraptoria
-				        |   |   \-- [Microraptor]
-				        |   \-- Eudromaeosauria
-					    |       |-- [Deinonychus]
-					    |       |-- [Utahraptor]
-					    |       \-- [Velociraptor]
-		                |-- Troodontids
-			            |   \-- [Mei long]
-		                \-- Avialae
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                └── Maniraptorans
+	                └── Paraves
+		                ├── Dromaeosaurs
+			            │   ├── Microraptoria
+				        │   │   └── [Microraptor]
+				        │   └── Eudromaeosauria
+					    │       ├── [Deinonychus]
+					    │       ├── [Utahraptor]
+					    │       └── [Velociraptor]
+		                ├── Troodontids
+			            │   └── [Mei long]
+		                └── Avialae
 ```
 
 ### Dromaeosaurs

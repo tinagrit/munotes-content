@@ -8,15 +8,15 @@ Lecture 20
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-                \-- Maniraptorans
-	                \-- Paraves
-		                |-- Dromaeosaurs
-		                |-- Troodontids
-		                \-- Avialae
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                └── Maniraptorans
+	                └── Paraves
+		                ├── Dromaeosaurs
+		                ├── Troodontids
+		                └── Avialae
 ```
 
 

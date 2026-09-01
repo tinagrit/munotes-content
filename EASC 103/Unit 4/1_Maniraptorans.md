@@ -62,13 +62,13 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-                \-- Maniraptorans
-	                \-- Alvarezsauroidea
-		                \-- [Mononykus]
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                └── Maniraptorans
+	                └── Alvarezsauroidea
+		                └── [Mononykus]
 ```
 
 ### *Mononykus*
@@ -94,15 +94,15 @@ Theropoda
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-                \-- Maniraptorans
-	                \-- Therizinosauria
-		                |-- [Beipaiosaurus]
-		                |-- [Nothronychus]
-		                \-- [Therizinosaurus]
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                └── Maniraptorans
+	                └── Therizinosauria
+		                ├── [Beipaiosaurus]
+		                ├── [Nothronychus]
+		                └── [Therizinosaurus]
 ```
 
 ### *Beipiaosaurus*

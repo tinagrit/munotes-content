@@ -19,18 +19,18 @@ Oviraptorosaurs are classified into 2 main clades
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-                \-- Maniraptorans
-	                \-- Oviraptorosauria
-		                |-- [Caudipteryx]
-		                |-- Caenagnathidae
-						|   |-- [Anzu]
-						|   \-- [Gigantoraptor]
-		                \-- Oviraptoridae
-			                \-- [Citipati]
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                └── Maniraptorans
+	                └── Oviraptorosauria
+		                ├── [Caudipteryx]
+		                ├── Caenagnathidae
+						│   ├── [Anzu]
+						│   └── [Gigantoraptor]
+		                └── Oviraptoridae
+			                └── [Citipati]
 ```
 
 

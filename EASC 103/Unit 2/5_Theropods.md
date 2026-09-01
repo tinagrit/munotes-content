@@ -19,8 +19,8 @@ See overview [[1_Classification#Theropods|Theropods]]
 ### Neotheropoda
 ```
 Theropoda
-|-- Basal theropods
-\-- Neotheropoda
+├── Basal theropods
+└── Neotheropoda
 ```
 
 - includes **almost all** theropods except the very basal ones (e.g. [[4_Triassic Earth#*Eoraptor lunensis*|Eoraptor lunensis]] is not a Neotheropoda)
@@ -32,8 +32,8 @@ Theropoda
 ### Tetanurae
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
+└── Neotheropoda
+    └── Tetanurae
 ```
 
 - **vast majority** of theropods
@@ -47,9 +47,9 @@ Theropoda
 See [[2_Tyrannosaurs#Coelurosaur Theropods|Coelurosaurs]]
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
 ```
 
 - the "**fully feathered**" theropods
@@ -67,11 +67,11 @@ Theropoda
 See [[4_Ornithomimosaurs#Maniraptoriformes|Maniraptoriformes]]
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-	        |-- Tyrannosauroidea
-            \-- Maniraptoriformes
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+	        ├── Tyrannosauroidea
+            └── Maniraptoriformes
 ```
 
 - appearance of **pennaceous feathers**
@@ -83,11 +83,11 @@ Theropoda
 See [[1_Maniraptorans#Maniraptorans|Maniraptorans]] 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            \-- Maniraptoriformes
-                \-- Maniraptora
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            └── Maniraptoriformes
+                └── Maniraptora
 ```
 
 - name means "**grasping hands**"

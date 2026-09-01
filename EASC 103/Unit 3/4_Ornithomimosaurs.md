@@ -20,19 +20,19 @@ See [[5_Theropods#Maniraptoriformes|Maniraptoriformes]]
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            |-- Compsognathidae
-	        |-- Tyrannosauroidea
-            \-- Maniraptoriformes
-                \-- Ornithomimosauria
-                    |-- Deinocheridae
-                    |   \-- [Deinocherius]
-                    \-- Ornithomimidae
-                        |-- [Ornithomimus]
-                        |-- [Struthiomimus]
-                        \-- [Gallimimus]   
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            ├── Compsognathidae
+	        ├── Tyrannosauroidea
+            └── Maniraptoriformes
+                └── Ornithomimosauria
+                    ├── Deinocheridae
+                    │   └── [Deinocherius]
+                    └── Ornithomimidae
+                        ├── [Ornithomimus]
+                        ├── [Struthiomimus]
+                        └── [Gallimimus]   
 ```
 
 

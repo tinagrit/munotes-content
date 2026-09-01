@@ -14,16 +14,16 @@ For example, the **Tyrannosaurus rex** phylogenetic classification is:
 
 ```
 Tetrapoda
-\- Amniota
-   \- Archosauria
-      \- Avemetatarsalia
-         \- Dinosauria
-            \- Saurischia
-               \- Therapoda
-                  \- Coelurosauria
-                     \- Tyrannosauroidea
-                        \- Tyrannosauridae
-                           \- Tyrannosaurus rex
+└── Amniota
+    └── Archosauria
+        └── Avemetatarsalia
+            └── Dinosauria
+                └── Saurischia
+                    └── Therapoda
+                        └── Coelurosauria
+                            └── Tyrannosauroidea
+                                └── Tyrannosauridae
+                                    └── [Tyrannosaurus rex]
 ```
 
 

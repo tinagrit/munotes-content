@@ -23,22 +23,22 @@ See [[5_Theropods#Coelurosauria|Coelurosauria]]
 
 ```
 Theropoda
-\-- Neotheropoda
-    \-- Tetanurae
-        \-- Coelurosauria
-            |-- Compsognathidae
-	        |-- Maniraptoriformes
-            \-- Tyrannosauroidea
-                |-- Proceratosauridae
-                |   |-- [Guanlong]
-                |   \-- [Yutyrannus]
-                |-- [Dilong]
-                \-- Tyrannosauridae
-                    |-- [Daspletosaurus]
-                    |-- [Gorgosaurus]
-                    |-- [Albertosaurus]
-                    |-- [Tarbosaurus]
-                    \-- [Tyrannosaurus rex]
+└── Neotheropoda
+    └── Tetanurae
+        └── Coelurosauria
+            ├── Compsognathidae
+	        ├── Maniraptoriformes
+            └── Tyrannosauroidea
+                ├── Proceratosauridae
+                │   ├── [Guanlong]
+                │   └── [Yutyrannus]
+                ├── [Dilong]
+                └── Tyrannosauridae
+                    ├── [Daspletosaurus]
+                    ├── [Gorgosaurus]
+                    ├── [Albertosaurus]
+                    ├── [Tarbosaurus]
+                    └── [Tyrannosaurus rex]
 ```
 
 

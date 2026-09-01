@@ -24,7 +24,6 @@ Lecture 29
 - Plants, then plant eaters, then meat eaters died
 
 
-> [!success] Movie notes from this point on ↓ 
 ## Discovery
 - Gubbio, Italy has limestones **from the deep sea**, pushed up as a mountain by tectonic activities
 	- Walter Alvarez analyzed microfossils of foraminifera
