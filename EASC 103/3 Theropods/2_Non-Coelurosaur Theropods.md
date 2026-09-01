@@ -1,10 +1,10 @@
 Lecture 11 & 12
 
 ## Non-Coelurosaur Theropods
-See [[5_Theropods|Theropods]]. **Non-Coelurosaur Theropods** include:
-- [[5_Theropods#Theropods|Basal theropods]]
-- [[5_Theropods#Neotheropoda|Neotheropods]]
-- [[5_Theropods#Tetanurae|Tetanurae]]
+See [[1_Theropods|Theropods]]. **Non-Coelurosaur Theropods** include:
+- [[1_Theropods#Theropods|Basal theropods]]
+- [[1_Theropods#Neotheropoda|Neotheropods]]
+- [[1_Theropods#Tetanurae|Tetanurae]]
 
 ### Overview
 ```
@@ -129,7 +129,7 @@ Theropoda
 ### *Allosaurus*
 - name means "*different lizard*"
 - Late Jurassic, North America
-- preyed on [[1_Classification#The Pelvis|Stegosaurus]] in addition to various ornithopods and sauropods
+- preyed on [[1_Animal Classification#The Pelvis|Stegosaurus]] in addition to various ornithopods and sauropods
 - 9 metres in average length, up to 12 metres
 
 

@@ -2,7 +2,7 @@ Lecture 9 & 10
 
 
 ## Monophyletic
-- dinosaur and vertebrate clades (see [[1_Classification|Dinosaur Classification]] and the [[1_Tetrapods|Tetrapod Family tree]]) use **phylogenetic classification**
+- dinosaur and vertebrate clades (see [[1_Animal Classification|Dinosaur Classification]] and the [[2_Tetrapods|Tetrapod Family tree]]) use **phylogenetic classification**
 - this system of classification is **rank less**
 - works well for vertebrates, since evolutionary **relationships are complex**
 - a phylogenetic **tree** can also show **geologic time** 
@@ -26,6 +26,7 @@ Tetrapoda
                                     └── [Tyrannosaurus rex]
 ```
 
+A list of every dinosaur and clade mentioned in class is [[5_Dinosauria|available here]].
 
 ## Linnaean Classification
 - **ranked** system that works well for **invertebrates**

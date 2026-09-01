@@ -3,18 +3,12 @@ icon: LiHome
 ---
 ## Mu's EASC 103 Notes
 
-> [!info] Use the sidebar on the left to navigate through the notes
+<div>(munotes-instructions)</div>
 
----
 ### Course Info
 - EASC 103 - The Rise and Fall of the Dinosaurs
 - SFU Burnaby Campus
 - Fall 2025
+- Professor Cindy Hansen
 
----
-
-*Last updated: Nov 30, 2025 8:00 PM*
-
----
-*munotes*
-
+<div>(munotes-footer)</div>

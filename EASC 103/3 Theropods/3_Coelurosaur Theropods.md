@@ -1,12 +1,12 @@
 Lecture 13 & 14
 
 ## Coelurosaur Theropods
-See [[5_Theropods#Coelurosauria|Coelurosauria]]
+See [[1_Theropods#Coelurosauria|Coelurosauria]]
 
 - the **fully feathered** theropods, includes:
 	- Tyrannosaurs
 	- Compsognathids
-	- [[5_Theropods#Maniraptoriformes|Maniraptoriformes]]
+	- [[1_Theropods#Maniraptoriformes|Maniraptoriformes]]
 
 ![[Screenshot 2025-10-06 at 9.48.40 AM.png|500]]
 
@@ -17,7 +17,7 @@ See [[5_Theropods#Coelurosauria|Coelurosauria]]
 	- flight feathers (5)
 
 ### Tyrannosauroidea
-- branches from the [[5_Theropods#Coelurosauria|Coelurosaurs]], includes 2 main branches:
+- branches from the [[1_Theropods#Coelurosauria|Coelurosaurs]], includes 2 main branches:
 	- Proceratosauridae
 	- Tyrannosauridae
 
@@ -62,7 +62,7 @@ Theropoda
 	- mudstone pit entombs **5 stacked dinosaurs**
 - described and named by **Xu Xing**, a Chinese palaeontologist
 	- he's named 33 dinosaur species, more than any other living palaeontologist 
-	- many of his discoveries are from the [[3_Compsognathids#Yixian Formation|Yixian Formation]]
+	- many of his discoveries are from the [[4_Compsognathids#Yixian Formation|Yixian Formation]]
 
 ### *Dilong*
 - means "*emperor dragon*"
@@ -103,7 +103,7 @@ Theropoda
 ### *Tarbosaurus*
 - means "*alarming lizard*"
 - **Mongolia, 70 Ma** (today's Gobi desert)
-- found in the same unit as [[4_Ornithomimosaurs#*Gallimimus*|Gallimimus]] and [[4_Ornithomimosaurs#*Deinocheirus*|Deinocheirus]]
+- found in the same unit as [[5_Ornithomimosaurs#*Gallimimus*|Gallimimus]] and [[5_Ornithomimosaurs#*Deinocheirus*|Deinocheirus]]
 - **robust** dinosaur
 - smaller than the T-rex, narrower skull and shorter forelimbs
 
@@ -127,12 +127,12 @@ Theropoda
 > The T-rex had the **largest bite force** among all terrestrial animals.
 
 - T-Rex lived in the **forests** along the coast of the **Western Interior Seaway**
-	- sea level fell in the early [[2_Geologic Time#Time Scale|Paleogene]]
-- Domination at the end of [[2_Geologic Time#Cretaceous Period|Cretaceous]]
+	- sea level fell in the early [[1_Geologic Time#Time Scale|Paleogene]]
+- Domination at the end of [[1_Geologic Time#Cretaceous Period|Cretaceous]]
 	- **Mosasaurus** dominated the seaway
 	- **Quetzalcoatlus** dominated the skies
 	- **T-rex** dominated the land
-- Dinosaurs that lived at the same time include: Edmontosaurus, Triceratops, [[4_Tracks#Ankylosaurs|Ankylosaurs]]
+- Dinosaurs that lived at the same time include: Edmontosaurus, Triceratops, [[3_Tracks#Ankylosaurs|Ankylosaurs]]
 
 ![[Screenshot 2025-10-12 at 2.53.43 PM.png|400]]
 <span style="display:inline-block;width:100%;text-align:center;font-style:italic;">Map of North America ~68 Ma</span>
@@ -159,7 +159,7 @@ Theropoda
 - **28%** complete, ranked 14/50 most complete
 - **~18 years old** when it died (young adult)
 - **black** in colour
-	- due to [[3_Fossils#Fossilization|Petrifaction]] with **Manganese** (*Mn*)
+	- due to [[2_Fossils#Fossilization|Petrifaction]] with **Manganese** (*Mn*)
 
 #### Sue
 - **12.3 metre** long

@@ -60,7 +60,7 @@ $$
 *Age of Invertebrates*
 - begins at **539 Ma** with the **Cambrian Explosion**
 - life increases in **complexity**, predator-prey relationships introduced
-	- oceans dominated by invertebrate animals (See [[1_Classification#Animal groups|Vertebrates]])
+	- oceans dominated by invertebrate animals (See [[1_Animal Classification#Animal groups|Vertebrates]])
 
 > [!note] Note
 > The **Dimetrodon** (a synapsid, non-dinosaur) lived during the Permian in this era.
@@ -89,7 +89,7 @@ See more [[4_Triassic Earth|Triassic Earth]]
 - spans **252-201 Ma**
 	- divided into epochs of **Early, Middle, and Late** Triassic
 - **mammals** evolve in the Late epoch, but not as diverse or abundant as reptiles
-- sees dinosaurs like the **Eoraptor** (See [[1_Classification#The Pelvis|Saurischian Sauropodomorphians]]; *one of the earliest known dinosaurs*)
+- sees dinosaurs like the **Eoraptor** (See [[1_Animal Classification#The Pelvis|Saurischian Sauropodomorphians]]; *one of the earliest known dinosaurs*)
 
 ![[Screenshot 2025-09-14 at 5.19.52 PM.png|300]]
 
@@ -97,19 +97,19 @@ See more [[4_Triassic Earth|Triassic Earth]]
 - spans **201-145 Ma**
 	- divided into epochs of **Early, Middle, and Late** Jurassic
 - the earliest **birds** appear by the Late epoch
-- sees dinosaurs like the **Stegosaurus** (See [[1_Classification#The Pelvis|Ornithischian Thyreophorans]])
+- sees dinosaurs like the **Stegosaurus** (See [[1_Animal Classification#The Pelvis|Ornithischian Thyreophorans]])
 
 ![[Screenshot 2025-09-14 at 5.21.14 PM.png|300]]
 
 ### Cretaceous Period
 - spans **145-66 Ma**
 	- divided into epochs of **Early and Late** Cretaceous
-- sees dinosaurs like the **Tyrannosaurus rex** (See [[1_Classification#Theropods|Saurischian Theropod Coelurosaurs]])
+- sees dinosaurs like the **Tyrannosaurus rex** (See [[1_Animal Classification#Theropods|Saurischian Theropod Coelurosaurs]])
 
 ![[Screenshot 2025-09-10 at 5.07.15 PM.png|300]]
 
 - sees the end of the Mesozoic Era with an **asteroid impact** 66 Ma in the **Gulf of Mexico**
-	- the only dinosaurs that **survive** the mass extinction are the [[1_Classification#Theropods|Avian Theropods]] (birds)
+	- the only dinosaurs that **survive** the mass extinction are the [[1_Animal Classification#Theropods|Avian Theropods]] (birds)
 	- impact darkens the skies for months
 
 ---

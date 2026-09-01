@@ -74,4 +74,4 @@ Theropoda
 	- long bony tail
 	- sharp teeth
 	- retractable digit II
-- Archaeopteryx has more in common with [[3_Dromaeosaurs#*Velociraptor*|Velociraptor]] than other Avialaes
+- Archaeopteryx has more in common with [[8_Dromaeosaurs#*Velociraptor*|Velociraptor]] than other Avialaes

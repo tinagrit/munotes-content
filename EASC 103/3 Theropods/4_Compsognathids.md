@@ -1,7 +1,7 @@
 Lecture 15
 
 ## Compsognathidae
-- **small** theropods from the [[2_Geologic Time#Jurassic Period|Late Jurassic]] and [[2_Geologic Time#Cretaceous Period|Early Cretaceous]]
+- **small** theropods from the [[1_Geologic Time#Jurassic Period|Late Jurassic]] and [[1_Geologic Time#Cretaceous Period|Early Cretaceous]]
 - known from very few specimens
 - a **problematic clade**, since all of them are juveniles
 	- lack of info; we don't know if they are just juveniles of other clades
@@ -21,7 +21,7 @@ Theropoda
 
 ### *Compsognathus*
 - name means "*elegant/dainty jaw*"
-	- refers to its [[2_Skeletal Anatomy#The Skull|mandible]]
+	- refers to its [[3_Skeletal Anatomy#The Skull|mandible]]
 - lived **Late Jurassic** in **Europe/Germany**
 - 2 specimens found in [[#Solnhöfen Limestone|Solnhöfen Limestone]]
 	- both specimens have lizards in their stomach
@@ -32,7 +32,7 @@ Theropoda
 - first dinosaur with **colours** determined in **2010**
 	- evidence of **melanosomes**, containing structures of pigment within the keratin of feathers
 - lived in an open habitat, has **countershading** 
-	- dark [[2_Skeletal Anatomy#Orientation|dorsal]] and light [[2_Skeletal Anatomy#Orientation|ventral]]
+	- dark [[3_Skeletal Anatomy#Orientation|dorsal]] and light [[3_Skeletal Anatomy#Orientation|ventral]]
 	- **evens out** the effect of shadowing when sunlight shines from the top
 	- benefits for both predators and prey
 
@@ -41,7 +41,7 @@ Theropoda
 
 ## Lagerstätte
 - means "**place of storage**"
-- where [[3_Fossils#Fossils|stratas]] are located
+- where [[2_Fossils#Fossils|stratas]] are located
 
 ### Solnhöfen Limestone
 - in **Europe/Germany**

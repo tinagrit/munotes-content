@@ -10,17 +10,17 @@ Lectures 1 & 2
 - **Vertebrates** are all animals with **backbones**, a spinal column
 	- Vertebrates include fish, frogs, cats, dogs, humans, snakes, crocodiles, etc.
 	- *In*vertebrates include insects, spiders, jellyfish, etc.
-- **[[1_Tetrapods|Tetrapods]]** are *vertebrates* with **4 limbs** and their descendants
+- **[[2_Tetrapods|Tetrapods]]** are *vertebrates* with **4 limbs** and their descendants
 	- Tetrapods include all of the examples above *except* fish
-- **[[1_Tetrapods#Amniotes|Amniotes]]** are *tetrapods* that reproduce via an **enclosed amniotic egg**
+- **[[2_Tetrapods#Amniotes|Amniotes]]** are *tetrapods* that reproduce via an **enclosed amniotic egg**
 	- Amniotes include all of the examples above *except* fish and frogs
 
 ![[graph1.png|600]]
 
 Amniotes can be **synapsids** or sauropsids (*most of which are* **diapsids**). There is a skull difference between the two. 
-- **[[1_Tetrapods#Synapsids|Synapsids]]** have 1 temporal fenestra (*an indentation in the skull*) low down behind each eye orbit
+- **[[2_Tetrapods#Synapsids|Synapsids]]** have 1 temporal fenestra (*an indentation in the skull*) low down behind each eye orbit
 	- Synapsids include humans and other mammals
-- **[[1_Tetrapods#Diapsid Sauropsids|Diapsids]]** have 2 temporal fenestra behind each eye orbit
+- **[[2_Tetrapods#Diapsid Sauropsids|Diapsids]]** have 2 temporal fenestra behind each eye orbit
 	- Diapsids include dinosaurs, lizards, snakes, etc.
 
 ![[graph3.png|600]]
@@ -30,12 +30,12 @@ Amniotes can be **synapsids** or sauropsids (*most of which are* **diapsids**). 
 > 
 > ![[graph6.jpg|300]]
 > 
-> It lived during the *Permian*, prior to the *Paleozoic Era* (See [[2_Geologic Time#The Paleozoic Era|Paleozoic Era]])
+> It lived during the *Permian*, prior to the *Paleozoic Era* (See [[1_Geologic Time#The Paleozoic Era|Paleozoic Era]])
 
 Diapsids are categorized into **archosaurs** and **lepidosaurs**.
-- **[[1_Tetrapods#Archosaurs|Archosaurs]]** have semi- to fully upright postures. This includes:
+- **[[2_Tetrapods#Archosaurs|Archosaurs]]** have semi- to fully upright postures. This includes:
 	- **dinosaurs**
-	- [[2_Skeletal Anatomy#Pterosaurs|pterosaurs]] ("**winged lizards**"; very closely related to dinosaurs; aren't dinosaurs)
+	- [[3_Skeletal Anatomy#Pterosaurs|pterosaurs]] ("**winged lizards**"; very closely related to dinosaurs; aren't dinosaurs)
 	- crocodiles
 - **Lepidosaurs** have sprawling postures. This includes:
 	- tuatara
@@ -57,7 +57,7 @@ Diapsids are categorized into **archosaurs** and **lepidosaurs**.
 
 
 ## Anatomy
-See more [[2_Skeletal Anatomy|Anatomy]]
+See more [[3_Skeletal Anatomy|Anatomy]]
 
 ### The Pelvis
 - The two main clades of dinosaurs are **Saurischian** and **Ornithischian**. This is based on how the bones in their **pelvis** (hips) are shaped

@@ -28,7 +28,7 @@ Lecture 6 & 7
 
 
 ## The Skull
-See more [[1_Classification#The Skull|Skull]]
+See more [[1_Animal Classification#The Skull|Skull]]
 
 > [!tip] Note
 > **Fenestra** means an opening in the skull
@@ -36,7 +36,7 @@ See more [[1_Classification#The Skull|Skull]]
 - the **cranium** (top part of the skull):
 	- **maxilla** and **premaxilla** hold the teeth
 	- the **nostril** and **nasal** are above the maxilla
-	- the **antorbital** fenestra (*unique to the* [[1_Tetrapods#Archosaurs|Archosaurs]]) is next to the **orbit** (eye opening)
+	- the **antorbital** fenestra (*unique to the* [[2_Tetrapods#Archosaurs|Archosaurs]]) is next to the **orbit** (eye opening)
 	- the two **temporal fenestra**
 - the **mandible** (bottom part of the skull):
 	- **dentary** holds the teeth
@@ -65,7 +65,7 @@ See more [[1_Classification#The Skull|Skull]]
 ## The fore limb
 - **scapula** is the shoulder
 - **coracoid** is below the scapula
-	- only amongst the [[1_Classification#Theropods|theropods]], there exists the **furcula** between the left and right coracoid (not seen in side view)
+	- only amongst the [[1_Animal Classification#Theropods|theropods]], there exists the **furcula** between the left and right coracoid (not seen in side view)
 - **humerus** is the upper arm bone
 - the lower arm bones:
 	- **radius** is the inside
@@ -86,9 +86,9 @@ See more [[1_Classification#The Skull|Skull]]
 
 
 ## The Pelvis
-See more [[1_Classification#The Pelvis|Pelvis]]
+See more [[1_Animal Classification#The Pelvis|Pelvis]]
 - **ilium** is located on the upper part of the pelvis
-- **pubis** points forward in a [[1_Classification#The Pelvis|saurischian]], backward in an [[1_Classification#The Pelvis|ornithischian]]
+- **pubis** points forward in a [[1_Animal Classification#The Pelvis|saurischian]], backward in an [[1_Animal Classification#The Pelvis|ornithischian]]
 - **ischium** points backward
 
 ![[chart12.png|450]]
@@ -109,7 +109,7 @@ See more [[1_Classification#The Pelvis|Pelvis]]
 
 
 ## The Tail
-See more [[1_Classification#The Tail Vertebrae|Tail vertebrae]]
+See more [[1_Animal Classification#The Tail Vertebrae|Tail vertebrae]]
 - **centrum** is the centre piece bone
 - **chevron** is the v-shaped boned extending below the tail's vertebrae protecting blood vessels and providing muscle attachment points in the tail
 - the **neural spines** go above the centrum
@@ -120,14 +120,14 @@ See more [[1_Classification#The Tail Vertebrae|Tail vertebrae]]
 ---
 
 ## Pterosaurs
-- the "*winged lizards*", an [[1_Tetrapods#Archosaurs|Avemetatarsalian Archosaur]]
+- the "*winged lizards*", an [[2_Tetrapods#Archosaurs|Avemetatarsalian Archosaur]]
 	- sister clade to the dinosaurs, **aren't dinosaurs**
-	- existed from the [[2_Geologic Time#Triassic Period|Late Triassic]] to the end of [[2_Geologic Time#Cretaceous Period|Cretaceous]] (228-66 Ma)
+	- existed from the [[1_Geologic Time#Triassic Period|Late Triassic]] to the end of [[1_Geologic Time#Cretaceous Period|Cretaceous]] (228-66 Ma)
 - has **odd body dimensions** and adaptation for **powered flight**
 	- short torso
 	- hollow bones
 	- wings composed of skin membranes
-	- large membrane supposed by a **really long [[4_Tracks#Toes|digit IV]]**
+	- large membrane supposed by a **really long [[3_Tracks#Toes|digit IV]]**
 
 ![[chart17 1.png|650]]
 
@@ -139,5 +139,5 @@ See more [[1_Classification#The Tail Vertebrae|Tail vertebrae]]
 	- wingspan **over 6 metres**
 - the **Azhdarchid**
 	- some of the largest pterosaurs to exist
-	- lived at the end of [[2_Geologic Time#Cretaceous Period|Cretaceous]] in North America
+	- lived at the end of [[1_Geologic Time#Cretaceous Period|Cretaceous]] in North America
 	- wingspan **over 11 metres**

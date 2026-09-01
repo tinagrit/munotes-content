@@ -1,9 +1,9 @@
 Lecture 8 & 9
 
-See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
+See overview [[1_Geologic Time#Triassic Period|Triassic Period]]
 
 ## The Supercontinent
-- all Earth's continental **crust assembled** in the [[2_Geologic Time#The Paleozoic Era|Late Paleozoic]]
+- all Earth's continental **crust assembled** in the [[1_Geologic Time#The Paleozoic Era|Late Paleozoic]]
 - "one big landmass" called **Pangea
 	- Pan (all, across)
 	- Gaia (Mother Earth, land)
@@ -78,8 +78,8 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 - feed on invertebrate coils called **ammonoids**
 
 ### Terrestrial Life
-- includes most of the [[1_Tetrapods#Amniotes|Amniotes]]
-- the [[1_Tetrapods#Archosaurs|Pseudosuchia]] (crocodilian) were **apex predators**
+- includes most of the [[2_Tetrapods#Amniotes|Amniotes]]
+- the [[2_Tetrapods#Archosaurs|Pseudosuchia]] (crocodilian) were **apex predators**
 
 ### Fossil record
 - Triassic terrestrial strata is significantly **less exposed** compared to Jurassic and Cretaceous
@@ -106,7 +106,7 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 - one of the **latest late Triassic dinosaurs** (214-204 Ma)
 - manual digits I, II, III end in claws
 - herbivore
-- best known [[1_Classification#The Pelvis|prosauropod]] (basal sauropodomorphs)
+- best known [[1_Animal Classification#The Pelvis|prosauropod]] (basal sauropodomorphs)
 	- fossil record of **100+** skeletons in the same location
 	- died of quick mud (*mud mire*) showing **evidence** **of drowning**
 		- head and tail lifted
@@ -120,7 +120,7 @@ See overview [[2_Geologic Time#Triassic Period|Triassic Period]]
 - other **latest late Triassic dinosaurs** (203-196 Ma)
 - neotheropod
 	- more derived theropod than Eoraptor, belonging to the clade **Neotheropoda**
-	- evolves the [[2_Skeletal Anatomy#The fore limb|furcula]], passing this down to all descendants
+	- evolves the [[3_Skeletal Anatomy#The fore limb|furcula]], passing this down to all descendants
 - **4 digits** on the manus (digit V is gone, compared to the [[#*Eoraptor lunensis*|Eoraptor lunensis]]; very small digit IV)
 - **bonebed** discovered
 	- **100+** *Coelophysis* skeleton discovered at **Ghost Ranch**, New Mexico

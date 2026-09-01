@@ -2,13 +2,13 @@ Lecture 16
 
 ## Maniraptorans
 - means "*hand snatchers*"
-- incredibly **diverse** and derived [[5_Theropods#Coelurosauria|Coelurosaurs]]
+- incredibly **diverse** and derived [[1_Theropods#Coelurosauria|Coelurosaurs]]
 - bony **sternum** (ossified chestplate)
 - includes:
 	- [[#Alvarezsauroidea|Alvarezsaurs]]
 	- [[#Therizinosauria|Therizinosaurs]]
-	- [[2_Oviraptorosaurs#Oviraptorosauria|Oviraptorosaurs]]
-	- [[3_Dromaeosaurs#Paraves|Paraves]]
+	- [[7_Oviraptorosaurs#Oviraptorosauria|Oviraptorosaurs]]
+	- [[8_Dromaeosaurs#Paraves|Paraves]]
 
 ### Overview
 ```

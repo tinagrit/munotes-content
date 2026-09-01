@@ -1,9 +1,9 @@
 Lecture 6
 
 ## Tetrapods
-- are any [[1_Classification#Animal groups|Vertebrate]] that has **4 limbs**
+- are any [[1_Animal Classification#Animal groups|Vertebrate]] that has **4 limbs**
 	- including **all descendants**, even if they don't have 4 limbs, e.g. snakes
-	- due to clades being [[1_Classification#Cladogram|monophyletic]]
+	- due to clades being [[1_Animal Classification#Cladogram|monophyletic]]
 - fishes aren't tetrapods, but the first tetrapods are a **transitional group** of fishes
 
 ### Family tree
@@ -22,8 +22,8 @@ Lecture 6
 
 ![[Screenshot 2025-09-17 at 7.06.52 PM.png|300]]
 
-- fish **diversify** in the Early [[2_Geologic Time#The Paleozoic Era|Paleozoic]]
-- the [[2_Geologic Time#Time Scale|Devonian]] is where fish were **most diverse**, called the "*Age of Fishes*"
+- fish **diversify** in the Early [[1_Geologic Time#The Paleozoic Era|Paleozoic]]
+- the [[1_Geologic Time#Time Scale|Devonian]] is where fish were **most diverse**, called the "*Age of Fishes*"
 - groups including:
 	- [[#Jawless fish]] (e.g. *Pacific Lamprey*)
 	- Placoderms (e.g. *Dunkleosteus*)
@@ -34,7 +34,7 @@ Lecture 6
 
 ### Jawless fish
 - have a **ring of teeth**
-- first fishes to appear from the Early [[2_Geologic Time#The Paleozoic Era|Cambrian]]
+- first fishes to appear from the Early [[1_Geologic Time#The Paleozoic Era|Cambrian]]
 - still **exists today**, e.g. the Pacific Sea Lamprey
 	- **parasitic**, attaching themselves to other fish to feed on blood and tissues
 
@@ -94,6 +94,6 @@ Amniotes are categorized into:
 #### Archosaurs
 - have semi- to fully upright postures, are categorized into:
 	- **Pseudosuchia** - the **semi**-upright - crocodlian line
-	- **Avemetatarsalia** - the **fully** upright - [[2_Skeletal Anatomy#Pterosaurs|pterosaurs]] and dinosaurs
+	- **Avemetatarsalia** - the **fully** upright - [[3_Skeletal Anatomy#Pterosaurs|pterosaurs]] and dinosaurs
 - **ankle** modification that allowed for these postures
 

@@ -18,9 +18,9 @@ Lecture 5
 - show **sequences of tracks** made by dinosaur movement
 - give us information like:
 	- how they walk
-		- **bipeds** - 2 legs, [[1_Classification#Theropods|theropods]]
+		- **bipeds** - 2 legs, [[1_Animal Classification#Theropods|theropods]]
 		- **quadrupeds** - 4 legs, e.g. triceratops, sauropods
-		- **facultative bipeds** - spends most of the time being quadrupeds, but can also walk as bipeds, [[1_Classification#The Pelvis|ornithopods]]
+		- **facultative bipeds** - spends most of the time being quadrupeds, but can also walk as bipeds, [[1_Animal Classification#The Pelvis|ornithopods]]
 	- type of **locomotion** (walking, running, jumping)
 	- if they move as a **pack/herd**
 	- their **height and length**
@@ -37,7 +37,7 @@ Lecture 5
 ## Identification
 
 ### Sauropods 
-- See [[1_Classification#The Pelvis|Saurischian Sauropodomorphians]]
+- See [[1_Animal Classification#The Pelvis|Saurischian Sauropodomorphians]]
 - are **quadrupeds**
 - capable of **rearing up** (stand on two feet to reach higher, but can't walk on two)
 - are **oval shaped** pedal tracks
@@ -47,7 +47,7 @@ Lecture 5
 ![[IMG_7BD794FF8B8F-1.jpeg|300]]
 
 ### Ankylosaurs 
-- See [[1_Classification#The Pelvis|Ornithischian Ankylosaurs]]
+- See [[1_Animal Classification#The Pelvis|Ornithischian Ankylosaurs]]
 - are **quadrupeds**
 - shows **4 rounded digits**, unique amongst dinosaurs
 - digits are spread out, no claws present
@@ -55,14 +55,14 @@ Lecture 5
 ![[IMG_0926.jpg|400]]
 
 ### Ornithopods
-- See [[1_Classification#The Pelvis|Ornithischian Ornithopods]]
+- See [[1_Animal Classification#The Pelvis|Ornithischian Ornithopods]]
 - are **facultative bipeds**, some shows 4 limbs, some shows 2
 - shows **3 rounded digits** on a **U-shaped** print
 
 ![[IMG_0924.jpg|300]]
 
 ### Theropods 
-- See [[1_Classification#Theropods|Saurischian Theropods]]
+- See [[1_Animal Classification#Theropods|Saurischian Theropods]]
 - are **bipeds**
 - shows **3 clawed digits** on a **V-shaped** print
 	- the Hallux (digit I) is not present since it doesn't touch the ground

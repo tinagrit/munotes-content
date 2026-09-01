@@ -23,7 +23,7 @@ The Earth's crust is made of **3 major types of rocks**
 - 2 types of fossils include **Body fossils** and **Trace fossils**
 
 > [!warning] Note
-> The evidence **must be older** than the [[2_Geologic Time#Time Scale|current epoch]] (Holocene). Therefore, a fossil only counts if it is older than 11.8 Ka.
+> The evidence **must be older** than the [[1_Geologic Time#Time Scale|current epoch]] (Holocene). Therefore, a fossil only counts if it is older than 11.8 Ka.
 
 ### Body Fossils
 - fossilized **skeletal material** (bones and teeth), rarely **integument** (body coverings), and even more rarely **skin** (mummified) 
@@ -34,7 +34,7 @@ The Earth's crust is made of **3 major types of rocks**
 - tracks, eggs, nests, bite marks, coprolites and gastroliths (*fossilized poop*)
 	- eggs and coprolites may be **produced** by the body, but are **not part** of the body, and therefore are trace fossils
 	- bite marks provide evidence of **predatory** and **scavenging** behaviour.
-	- the [[2_Geologic Time#Archean Eon|bacterial mounds]] also count as trace fossils
+	- the [[1_Geologic Time#Archean Eon|bacterial mounds]] also count as trace fossils
 
 ---
 
@@ -63,8 +63,8 @@ The Earth's crust is made of **3 major types of rocks**
 ### Known fossil records
 - limited to discoveries from **mesozoic aged** strata
 - **>1000** **species** of known non-avian (*not flying*) dinosaurs
-	- around half (~50%) of all species are [[1_Classification#Theropods|theropods]]
-	- the other half comprised of [[1_Classification#The Pelvis|ornithschia]] and [[1_Classification#The Pelvis|sauropodomorpha]] members
+	- around half (~50%) of all species are [[1_Animal Classification#Theropods|theropods]]
+	- the other half comprised of [[1_Animal Classification#The Pelvis|ornithschia]] and [[1_Animal Classification#The Pelvis|sauropodomorpha]] members
 	- only **10 species** are found in Alberta 
 - **only 20%** of species that we have **complete specimens** for
 	- dinosaurs like the **Koreaceratops** are only known from one specimen

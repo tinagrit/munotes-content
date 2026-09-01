@@ -1,9 +1,9 @@
 Lecture 15
 
 ## Maniraptoriformes
-See [[5_Theropods#Maniraptoriformes|Maniraptoriformes]]
+See [[1_Theropods#Maniraptoriformes|Maniraptoriformes]]
 
-- are [[2_Tyrannosaurs#Coelurosaur Theropods|coelurosaurs]] 
+- are [[3_Coelurosaur Theropods#Coelurosaur Theropods|coelurosaurs]] 
 - relatively **small teeth**, some are toothless
 - first clade to have **pennaceous feathers**
 	- the "stem" of the feather is called **quill** at the bottom and **rachis** in the middle
@@ -43,11 +43,11 @@ Theropoda
 ### *Deinocheirus*
 - name means "*terrible arm*"
 - lived in **Mongolia** in **70 Ma**
-- found in the same unit as [[#*Gallimimus*|Gallimimus]] and [[2_Tyrannosaurs#*Tarbosaurus*|Tarbosaurus]]
+- found in the same unit as [[#*Gallimimus*|Gallimimus]] and [[3_Coelurosaur Theropods#*Tarbosaurus*|Tarbosaurus]]
 - 1 specimen discovered 1965, 2 more in 2014
 - **11 metre** long
 - **2.4 metre** arms ending in large, blunt claws
-- large [[2_Skeletal Anatomy#The Tail|neural spines]] to support **tail feathers**
+- large [[3_Skeletal Anatomy#The Tail|neural spines]] to support **tail feathers**
 
 
 ---
@@ -67,5 +67,5 @@ Theropoda
 ### *Gallimimus*
 - name means "chicken mimic"
 - lived in **Mongolia** in **70 Ma**
-- found in the same unit as [[#*Deinocheirus*|Deinocheirus]] and [[2_Tyrannosaurs#*Tarbosaurus*|Tarbosaurus]]
+- found in the same unit as [[#*Deinocheirus*|Deinocheirus]] and [[3_Coelurosaur Theropods#*Tarbosaurus*|Tarbosaurus]]
 - **largest** known ornithomimopod
