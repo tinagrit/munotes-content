@@ -66,6 +66,7 @@ $$
 > - Nigeria is resource-rich → Low GDP
 
 
+---
 ## Aggregate Production Function
 - **relationship** that shows how the quantity of output is produced using the available factors of production
 

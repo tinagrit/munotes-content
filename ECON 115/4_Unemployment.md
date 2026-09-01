@@ -68,6 +68,7 @@ $$
 - for example, a recession $\implies$ less construction $\implies$ less construction jobs
 
 
+---
 ## Wages
 - the **efficiency wage** is set above the minimum wage to incentivize workers to perform better
 	- employees work harder to ensure they aren't fired

@@ -1,3 +1,4 @@
+In-class topic
 
 ## Measuring Inequality
 
