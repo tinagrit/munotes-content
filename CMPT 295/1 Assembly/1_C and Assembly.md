@@ -88,7 +88,7 @@ We should get an assembly code similar to the following in **hello.s**:
 ```nasm
 weighted_add:
     ⋮
-	imull	-12(%rbp), %eax
+	imul	-12(%rbp), %eax
     ⋮
 	addl	%edx, %eax
     ⋮

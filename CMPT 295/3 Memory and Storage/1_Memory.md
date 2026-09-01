@@ -97,7 +97,7 @@ The actual output involving latency and bandwidth is called the **throughput**.
 ### Memory Locality
 Accessing memory that is **local** will always be **faster**.
 
-When memory is accessed, values around the accessed memory "64-bit ***cache line***", is put in the cache. This means that the next time we ask for value in memory, if it is **close enough** to the value prior, we only need to access the cache and not the actual memory.
+When memory is accessed, values around the accessed memory "64-byte ***cache line***", is put in the cache. This means that the next time we ask for value in memory, if it is **close enough** to the value prior, we only need to access the cache and not the actual memory.
 
 If we allocate an array, all the values in the array will be **next to each other**. If we access the values **sequentially** or close to another value, our program will **run faster** since we are utilizing cache.
 

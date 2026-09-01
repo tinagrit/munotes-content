@@ -1,7 +1,7 @@
 Lecture 4
 
 ## Operand Size
-In assembly, we an do operands on 64-, 32-, 16-, or 8-bit operands. Smaller operands might be **faster**, and take **less memory**.
+In assembly, we can do operands on 64-, 32-, 16-, or 8-bit operands. Smaller operands might be **faster**, and take **less memory**.
 
 Using the [[2_Registers#Calling Convention|Calling Convention]], usually the size is **automatically inferred** from the size of the register. For example,
 ```nasm
