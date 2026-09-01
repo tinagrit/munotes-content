@@ -33,6 +33,7 @@ Many fields under astronomy, including but not limited to:
 	- the JWST sees **infrared** lights
 
 ![[Screenshot 2026-01-06 at 3.38.21 PM.png|400]]
+<br>
 
 - sees edges of the **observable universe**
 	- ~13 billion light years (light year = 10 trillion km)
