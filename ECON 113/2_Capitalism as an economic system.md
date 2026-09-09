@@ -1,12 +1,12 @@
-- covers sections 1.6-1.12 of CORE
+Sections 1.6-1.12
 
 ## Capitalism
 
-The hockey stick shape in labour productivity and income (refer to [[Inequality#Income over time]]) might be explained by the **rise of capitalism**.
+The hockey stick shape in labour productivity and income (refer to [[1_Inequality#Income over time|Income over time]]) might be explained by the **rise of capitalism**.
 
 This can also be caused by the **rise of free speech and democracy** at about the same time as the rise of capitalism. Capitalism and growth are correlation, not causation. 
 
->Hockey sticks, however, **don't apply to inequality**. It got better in the past 100 years. It has risen since 1980, especially in the US due to **“megafirms”**
+> [!tip] Hockey sticks, however, **don't apply to inequality**. It got better in the past 100 years. It has risen since 1980, especially in the US due to **“megafirms”**
 
 ### What is capitalism?
 - an economic system
@@ -15,7 +15,7 @@ This can also be caused by the **rise of free speech and democracy** at about th
 	- Markets (formal trade)
 	- Firms (specialized in making things)
 
->Even capitalist economies rely on non-capitalist institutions (eg. families, government)
+> [!tip] Even capitalist economies rely on non-capitalist institutions (eg. families, government)
 
 Definitions can **never be 100% precise** in the social sciences, unlike in the natural sciences. 
 - In science, a statement that X causes Y can be proved by performing experiments to gather evidence
@@ -70,7 +70,7 @@ Raises the question of
 - How are the goods and services **distributed** from the producer to the final user?
 	- This naturally happens due to people **wanting to survive** and thrive (*free market*)
 
-> Free market allows for more productivity and harmony, but it creates problems such as inequality (see [[Inequality]])
+> Free market allows for more productivity and harmony, but it creates problems such as inequality (see [[1_Inequality]])
 
 
 ### Example

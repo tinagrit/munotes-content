@@ -1,15 +1,13 @@
-- covers sections 5.0-5.11 of CORE
-- Skip 5.12-5.14
+Sections 5.0-5.11
 
 ## Institutions
-
 - **rules/contract** of the game
 - written and unwritten rules that govern how people interact in joint projects and how products are distributed
 	- constraints on behaviour
 	- incentives
 
 > [!example] 
-> For example, in the ultimatum game, institutions determine:
+> For example, in the [[6_Experimental economics#Ultimatum game|ultimatum game]], institutions determine:
 > - how the game is played
 > - the size of the pie
 > - bargaining power over how the pie is divided
@@ -45,7 +43,7 @@
 
 #### Social dilemma
 
-![[Screenshot 2024-11-03 at 6.21.55 PM.png]]
+![[Screenshot 2024-11-03 at 6.21.55 PM.png|300]]
 
 $I$  = Integrated Pest Control
 $T$ = Terminator
@@ -104,7 +102,7 @@ American plantation owners **extracted economic rents** through:
 
 ### Pareto efficiency curve
 
-![[Screenshot 2024-11-07 at 1.58.25 PM 1.png]]
+![[Screenshot 2024-11-07 at 1.58.25 PM 1.png|300]]
 
 Is the allocation **efficient** ?
 - Every allocation with 16 hours of free time maximizes the surplus and thus efficient
@@ -122,7 +120,7 @@ Is the allocation **efficient** ?
 #### Strike and Negotiation
 - If Angela and her fellow farmers go on strike, they can win new allocations
 
-![[Screenshot 2024-11-07 at 2.08.02 PM.png]]
+![[Screenshot 2024-11-07 at 2.08.02 PM.png|300]]
 
 - The new allocation allows Angela to **still get 4.5** but only for 4 hours of work
 	- Angela is now on a higher indifference curve

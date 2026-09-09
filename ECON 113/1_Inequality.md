@@ -1,4 +1,4 @@
-- covers sections 1.0-1.5 of CORE
+Sections 1.0-1.5
 
 ## The change in economy
 
@@ -6,7 +6,7 @@
 - **Bengal** (today’s Bangladesh) was the richest country *Muhammad Ibn Battuta* had ever seen due to abundance of rice
 - Bangladesh is now a relatively **poor country**.
 
-> Economy continues to change
+> [!tip] Economy continues to change
 
 ### Income over time
 Figure of income levels over time resembles a hockey stick which also appears in other places (eg. climate, speed of information travel)

@@ -1,6 +1,5 @@
-covers sections 8.0-8.6 of CORE
+Sections 8.0-8.6
 
----
 
 - **Price-setting firms** choose the price-quantity combination that maximizes profits
 	- Monopolistic firms
@@ -113,5 +112,3 @@ On the right, an **overproduction** also creates a DWL.
 		- Rental markets are *competitive in nature*
 		- However, in Vancouver, rent *increases are capped* to protect the consumer surplus
 
----
-**FINAL CONTENT ENDS HERE**

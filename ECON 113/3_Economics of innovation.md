@@ -1,5 +1,7 @@
+Sections 1.6-1.12
+
 ## The Rapid Growth
-Hockey sticks *(see [[Inequality#Income over time]] and [[Capitalism as an economic system#Capitalism]])* in income and living standards are largely due to **technological progress**.
+Hockey sticks *(see [[1_Inequality#Income over time|Income over time]] and [[2_Capitalism as an economic system#Capitalism|Capitalism]])* in income and living standards are largely due to **technological progress**.
 
 ## A model of innovation
 Explaining how capitalism promotes innovation and technological progress is built on these ideas:
@@ -18,15 +20,15 @@ Explaining how capitalism promotes innovation and technological progress is buil
 ### Choice of technology
 This ***PPF* chart** (Production Possibility Frontier) shows technologies for producing 100 metres of cloth.
 
-![[Screenshot 2024-09-12 at 1.34.07 PM.png]]
+![[Screenshot 2024-09-12 at 1.34.07 PM.png|400]]
 
 Each technology requires a different number of workers and different amount of coal. 
 - A technology **dominates** another technology if it requires less of at least one input, and no more of any input
 	- A dominates C because it requires less input
 
-Drawing a space for everything that requires less input will show domination
+Drawing a space for everything that requires less input will show **domination**
 
-![[Screenshot 2024-09-12 at 1.40.04 PM.png]]
+![[Screenshot 2024-09-12 at 1.40.04 PM.png|400]]
 
 This shows that
 - A dominates C
@@ -35,7 +37,7 @@ This shows that
 
 Firms' choices will depends on the **price** **of coal** vs. the **price** **of labour**.
 
-#### With expensive coal
+#### Example: With expensive coal
 Assuming wage is $10 and coal is $20 per tonne
 
 | Technology | Workers | Coal | Total cost |
@@ -54,11 +56,11 @@ A line of **isocost** can be drawn on the same chart. This can be calculated wit
 - $\text{coal}$ (y-axis) $=4-(\dfrac{1}{2}*\text{labour})$
 - Slope of **isocost line** is $\dfrac{1}{2}$
 
-![[Screenshot 2024-09-12 at 1.53.59 PM.png]]
+![[Screenshot 2024-09-12 at 1.53.59 PM.png|400]]
 
 Now, everything **above the line costs more** than $80, and everything below the line costs less than $80.
 
-#### With cheap coal
+#### Example: With cheap coal
 During Britain's industrial revolution, prices of coal dropped below wages.
 Assuming wage is $10 and coal is $5 per tonne.
 
@@ -71,11 +73,11 @@ A is now the cheapest option.
 
 The same calculation can be done to produce the isocost slope of $-2$
 
-![[Screenshot 2024-09-12 at 1.59.36 PM.png]]
+![[Screenshot 2024-09-12 at 1.59.36 PM.png|400]]
 
 This chart is now much steeper.
 
-#### Data
+#### Real Data
 Real data from the 1700s shows that the model explains the industrial revolution in Britain.
 
 ![[Screenshot 2024-09-12 at 2.12.08 PM.png]]

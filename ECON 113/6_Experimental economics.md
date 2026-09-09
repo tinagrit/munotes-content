@@ -1,6 +1,6 @@
+Sections 4.1-4.14
 
 ## Social dilemmas
-
 - Sometimes self-interested individuals generate 
 	- **good** outcomes. ***"invisible hand"***
 	- **bad** outcomes. ***"Tragedy of the commons, prisoner's dilemma"***
@@ -11,12 +11,11 @@
 		- for example, not believing in climate change → repeated repercussions such as *natural disasters*
 	- institutions that **punish** bad behaviour
 		- firms hit with a huge tax for undesirable actions, eg. *carbon*
-	
+
 
 ---
 
 ## Economic experiments
-
 - is conducted to ***understand people more***.
 - ***cannot*** be done on entire economies
 - ***lab experiments*** used to test theories
@@ -92,7 +91,6 @@ This is why social dilemmas **needs to be resolved** because they make our progr
 
 
 ### Game outcome
-
 - Game played in class, rules:
 	- groups of 4
 	- each player receives $20 each round
@@ -100,13 +98,11 @@ This is why social dilemmas **needs to be resolved** because they make our progr
 
 
 #### One shot game
-
 - Each player's dominant strategy and the Nash equilibrium is to **not contribute**
 - The average payoff at the Nash equilibrium is $\$20$
 - The average payoff at the social optimum is $4*\$20*0.40=\$32$
 
 #### Repeated game
-
 - Life is **not** a one shot game
 - In repeated game, players are incentivized to **cooperate today** and **encourage** others to cooperate in the future
 - *Tit-for-tat* strategy performs well (play whatever opponent played earlier)
@@ -118,7 +114,6 @@ This is why social dilemmas **needs to be resolved** because they make our progr
 ![[Screenshot 2024-10-10 at 1.30.39 PM.png]]
 
 #### Punishment allowed
-
 - You can pay $1 to subtract $3 from someone else
 - Equivalent to **institutions** enforcing punishment
 - Peer punishment keeps the contributions consistently high
@@ -137,7 +132,6 @@ $\therefore$  a combination of [[#Social dilemmas|social preferences, repetition
 ---
 
 ## Sharing economic rents
-
 - **Mutual gains** from cooperation (*Invisible hand*, *Prisoners' dilemma*, *Public goods*)
 - People commonly attempt to **negotiate a cooperative outcome** (*Labour unions*, *Carbon tax*)
 	- Federal carbon is generally a *good* thing but politics make it sound like it's *bad*. If it is repealed in the next election, our future generations will *pay the price*
@@ -145,7 +139,6 @@ $\therefore$  a combination of [[#Social dilemmas|social preferences, repetition
 
 
 ### Ultimatum game 
-
 - **One shot** sequential game
 - Two players agree on how to **split $100**
 - The ***proposer*** offer the responder ***between*** $1 - $100 (*Take it or leave it*)
@@ -227,7 +220,6 @@ This chart shows **all responses**, including the accepted and rejected offers.
 
 
 ### Field experiments
-
 - Parents are sometimes late to pick up their children from school, which is costly to the school
 - A $3 fine per day was experimented enforceable to late parents
 - The number of parents arriving late turned out to **go up significantly**
@@ -238,4 +230,14 @@ This chart shows **all responses**, including the accepted and rejected offers.
 
 
 ---
-**MIDTERM CONTENT ENDS HERE**
+## Multiple equilibria
+- Having **multiple** best options (*Nash equilibria)
+- Single equilibrium is due to both players having a *dominant strategy*.
+
+ *Example*: Driving on the left/right
+- People in some countries drive on the left
+- Both conventions are Nash equilibria. If others drive on the left, you drive on the left
+- Each player's best response is to copy each other	
+
+![[Screenshot 2024-10-31 at 12.40.32 PM.png|250]]
+

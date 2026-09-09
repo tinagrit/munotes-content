@@ -1,8 +1,8 @@
-- Covers sections 2.7-2.11
+Sections 2.7-3.1
 
 The ***flat*** part of the hockey stick. For ~800 years, there was almost **no growth** in income or population.
 
-![[Screenshot 2024-09-19 at 12.33.30 PM.png]]
+![[Screenshot 2024-09-19 at 12.33.30 PM.png|600]]
 
 ---
 ## The Malthusian Model
@@ -10,7 +10,8 @@ The ***flat*** part of the hockey stick. For ~800 years, there was almost **no g
 This model regarding food production requires 2 key **assumptions**:
 - The **production function** has a diminishing **average product** of labour (how much goods can be made per farmer)
 	- Average product of labour declines with population
-	$\displaystyle\text{average product of labour}=\frac{\text{total product}}{\text{number of farmers}}$
+
+$\displaystyle\text{average product of labour}=\frac{\text{total product}}{\text{number of farmers}}$
 
 - Population increases when the average product **exceeds subsistence** (*equilibrium*). Level of subsistence is constant in the world. Producing more than subsistence, population increase.
 	- As societies become more prosperous and enjoy more income, more births will happen
@@ -54,11 +55,27 @@ Malthus believes that the *"too many cooks in the kitchen"* problem will come ba
 
 In addition to the 2 key assumptions [[#The Malthusian Model]], **one more** condition is required to stay in the trap:
 - An **absence of big improvements** in technology to offset the diminishing average product of labour
-	- The *permanent technological revolution* [[Inequality#The Permanent Technological Revolution]] meant that this condition **no longer holds** and thus the reason Britain escaped the Malthusian trap
+	- The *permanent technological revolution* [[1_Inequality#The Permanent Technological Revolution]] meant that this condition **no longer holds** and thus the reason Britain escaped the Malthusian trap
 
 The technological progress **proceeded faster** than population growth. 
 - Also due to improvements in sanitation and medicine in the 19th century
 - Contraception and family planning slowed it down in the 20th century
 
+---
+## Labour and production
 
+![[Screenshot 2024-09-19 at 1.26.25 PM.png|600]]
 
+For the average worker in the US over the 20th century
+- Hourly earnings **increased by 6 times**
+- Work hours **fell by a third**
+
+France and the Netherlands took a different path where they would devote productivity for more free time.
+
+In different countries, people value work and free time very differently.
+
+![[Screenshot 2024-09-19 at 1.32.05 PM.png|600]]
+
+Norway gets to enjoy a lot of free time and a **high standard of living** while being wealthy.
+
+South Korea, Italy, Spain, and France all have similar GDP, but free time is drastically different among these countries.
