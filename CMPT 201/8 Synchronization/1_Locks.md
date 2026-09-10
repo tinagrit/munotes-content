@@ -1,4 +1,4 @@
-
+Lecture 8
 
 ## Synchronization
 - When having multiple threads, execution needs to be **synchronized** and coordinated

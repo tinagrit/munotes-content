@@ -1,4 +1,4 @@
-
+Lecture 8
 
 ## Repeated Checks
 - An **inefficiency** of a program

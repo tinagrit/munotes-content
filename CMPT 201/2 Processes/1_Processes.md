@@ -1,4 +1,4 @@
-
+Lecture 2
 
 ## Processes
 - Programs are executable files that are compiled from the source code

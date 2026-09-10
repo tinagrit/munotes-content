@@ -1,4 +1,4 @@
-
+Lecture 8
 
 ## Read-Write Locks
 - Synchronization primitive that allows **either**:

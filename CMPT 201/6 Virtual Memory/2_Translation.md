@@ -1,4 +1,4 @@
-
+Lecture 6
 
 ## Translation
 - The kernel needs to **translate** the virtual memory address into a physical address

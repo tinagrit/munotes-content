@@ -1,4 +1,4 @@
-
+Lecture 8
 
 ## Semaphores
 - While a [[1_Locks#Mutex|Mutex]] lock is **binary**, either locked or unlocked

@@ -1,4 +1,4 @@
-
+Lecture 6
 
 ## Memory
 - Computers work **mainly with** memory

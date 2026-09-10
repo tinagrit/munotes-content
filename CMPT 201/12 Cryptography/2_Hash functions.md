@@ -1,4 +1,4 @@
-
+Lecture 12
 
 ## Hash functions
 

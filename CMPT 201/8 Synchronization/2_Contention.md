@@ -1,4 +1,4 @@
-
+Lecture 8
 
 ## Reentrant functions
 A **reentrant function** refers to a function that:

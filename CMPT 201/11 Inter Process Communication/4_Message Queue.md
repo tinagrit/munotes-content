@@ -1,4 +1,4 @@
-
+Lecture 11
 
 ## Message Queue
 - Similar to [[3_FIFO|FIFO]], but used to send **full structured data** at once, instead of a byte stream

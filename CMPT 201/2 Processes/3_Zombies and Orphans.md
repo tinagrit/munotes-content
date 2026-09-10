@@ -1,4 +1,4 @@
-
+Lecture 2
 
 ## Zombie processes
 - When a child process terminates, the OS **retains some information** about the exit status, taking up some memory, which `wait()` cleans up

@@ -1,4 +1,4 @@
-
+Lecture 6
 
 ## Swapping
 - As mentioned in [[1_Virtual Memory#Locality|Locality]], when we are out of **physical memory** we can demand **swapping**
