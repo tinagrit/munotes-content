@@ -4,7 +4,7 @@ Lectures 3-4
 Mathematical, conceptual way for **describing data**. Consists of:
 - **Structure**: schema (table names, attribute names, etc)
 - **Operations**: retrieve (query) and change (update)
-- **Constraints**: doman (*where balance > 0*) and integrity (*user ID is unique*)
+- **Constraints**: domain (*where balance > 0*) and integrity (*user ID is unique*)
 
 There are 3 commonly used data models:
 - **Relational** data model (see [[1_Database and DBMS#Relational Databases|Relational Databases]]), table structure

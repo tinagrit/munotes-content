@@ -7,7 +7,6 @@ The **Structured Query Language** (*pronounced* S-Q-L or Sequel) is the standard
 SQL can define/modify schemas, and delete relations.
 
 Example 1
-
 ```sql
 CREATE TABLE User(uid integer, name varchar(30), age integer);
 ```
