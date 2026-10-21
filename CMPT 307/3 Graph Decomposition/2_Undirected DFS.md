@@ -1,4 +1,4 @@
-Lecture 10
+Lectures 10-11
 
 ## Depth First Search for Undirected Graphs
 *Depth First Search* traverses a [[1_Graphs#Graphs|graph]] **in linear time**. It answers questions like
@@ -44,6 +44,8 @@ By convention, we start the first node using **alphabetical order**. In this cas
 ![[Screenshot 2026-10-19 at 12.00.49 PM.png|200]]
 
 The dotted line is to acknowledge the existence of the edge $\left\{ E,J \right\}$, although vertices $E$ and $J$ have already been visited.
+- The solid lines are called **tree edges**, edges that are part of the DFS forest
+- The dotted lines are called **non-tree edges**
 
 `dfs()` is not finished. The next node in alphabetical order that has not been visited is $C$. We visit all nodes connected to $C$, starting from $D$, then deeper into $H$. From $H$, the first alphabetical node is $G$, then deeper into $K$. There is nothing deeper than $K$, we backtrack to $H$ via $G$, then visit $L$. 
 
@@ -71,5 +73,7 @@ When *Depth First Search* calls `explore()` on one of the vertices, all of the v
 
 The algorithm can place a number `ccnum` (*Connected Component Number*) to all vertices in the same connected component. If all vertices have the same `ccnum`, the graph is **connected**.
 
+### Timestamp Property
+For any nodes $u$ and $v$, the 2 intervals $[\text{pre}(u),\text{post}(u)]$ and $[\text{pre}(v),\text{post}(v)]$ are either **disjoint** or **completely contained** within one another.
 
-
+$[\text{pre}(u),\text{post}(u)]$ is the time where $u$ lives on the **stack**.
