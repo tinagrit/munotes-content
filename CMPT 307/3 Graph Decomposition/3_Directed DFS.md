@@ -51,6 +51,6 @@ In the example graph above, an example of a cycle is $B\to E\to F\to B$, and the
 
 DFS can determine whether there are cycles in a graph **in linear time** $O(n)$ where $n$ is the number of vertices. A directed graph has a cycle ***if and only if*** it has a **back edge**.
 $$
-\text{graph is cyclic}\iff \text{DFS reveals back a edge}
+\text{graph is cyclic}\iff \text{DFS reveals a back edge}
 $$
 
