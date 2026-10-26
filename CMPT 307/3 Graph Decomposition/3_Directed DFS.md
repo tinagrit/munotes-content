@@ -1,4 +1,4 @@
-Lecture 11
+Lectures 11-12
 
 ## Depth First Search for Directed Graphs
 The [[2_Undirected DFS#Traversing entire graph|DFS algorithm]] can be used in [[1_Graphs#Graphs|directed graphs]], called *DGraphs*, only travelling in the **direction of the arrows**.
@@ -53,4 +53,51 @@ DFS can determine whether there are cycles in a graph **in linear time** $O(n)$ 
 $$
 \text{graph is cyclic}\iff \text{DFS reveals a back edge}
 $$
+
+**Backward proof**:
+$$
+\text{graph is cyclic}\Leftarrow \text{DFS reveals a back edge}
+$$
+If the edge $(u,v)$ is a back edge, then there is a cycle consisting of this edge together with the path from $v$ to $u$ in the search tree.
+
+**Forward proof**:
+$$
+\text{graph is cyclic}\Rightarrow \text{DFS reveals a back edge}
+$$
+If the graph has a cycle $\boxed{ v_{0} }\to \boxed{ v_{1} }\to\dots\to\boxed{ v_{k} }\to\boxed{ v_{0} }$, 
+
+For the first node to be found by DFS (lowest $\text{pre}$ number), all other nodes in the cycle **can be reached** and will therefore be its **descendants** in the search tree.
+
+Therefore, the edge that connects to that first node (e.g. $(v_{k},v_{0})$) leads from a node to its **ancestor**, and is a **back edge** by definition.
+
+
+### Directed Acyclic Graphs
+A **DAG** (*Directed Acyclic Graph*) is a directed graph with no cycles. It can be used to **model relations** like causalities, hierarchies, and temporal dependencies (some tasks have to be completed before others can start, such as cutting before cooking). 
+
+If a graph is a DAG, we want to **linearize / topologically sort** it.
+
+This is an example of a DAG:
+![[Screenshot 2026-10-26 at 12.00.47 PM.png|400]]
+
+We say that:
+- $B$ is the **source**. No other nodes point to it.
+- $E$ and $F$ are **sinks**. They do not point to any nodes.
+
+A **topological sort** arranges the vertices in a possible ordering such that all nodes are visited. Some topological sorts in this example:
+- $B\,\,A\,\,D\,\,C\,\,E\,\,F$
+- $B\,\,D\,\,A\,\,C\,\,F\,\,E$
+
+### Topological sorting algorithm
+In a DAG, every edge leads to a vertex with **a lower** $\text{post}$ **number**. Therefore, this algorithm has linear time $O(n)$. 
+
+Determining whether the graph is cyclic, is linearizable, and has a back edge in DFS **are the same thing**.
+
+Since DAGs have decreasing $\text{post}$ numbers:
+- the vertex with the **lowest** $\text{post}$ must be a **sink**
+- the vertex with the **highest** $\text{post}$ must be a **source**
+
+Sinks and sources are **guaranteed** to exist in every DAG, the linear algorithm to topologically sort is:
+1. **Find a source**. Output it to the result. Delete it from the graph.
+2. **Repeat** until the graph is empty.
+
 
